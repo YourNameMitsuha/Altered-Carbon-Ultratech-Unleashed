@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+  <packageId>mitsuha.UltratechAlteredCarbon.zh</packageId>
+  <name>Altered Carbon: Ultratech Unleashed 中文漢化包</name>
+  <loadAfter>
+		<li>Ludeon.RimWorld</li>
+    <li>hlx.UltratechAlteredCarbon</li>
+	</loadAfter>
+  <author>五等分の三葉</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>
+  This is just a language pack, you can jump to the original MOD through the required items on the right or manually search for the original MOD name
+  [h1][b]Altered Carbon: Ultratech Unleashed的中文翻譯包。[/b][/h1]
+  
+  此為1.4版本的個人翻譯，可能會有缺漏或是名詞差異
+  有問題或改善建議可在底下回覆，有看到將會更新
+  簡體翻譯將直接套用繁體
+  </description>
+</modMetaData>
