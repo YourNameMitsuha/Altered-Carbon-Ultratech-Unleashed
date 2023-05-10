@@ -1,262 +1,262 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- ================================ Stacks ====================== -->
-	<AC.InstallStack>Implant cortical stack</AC.InstallStack>
-	<AC.InstallStackDesc>Select a pawn or empty sleeve to implant the cortical stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve.</AC.InstallStackDesc>
-	<AC.InstallEmptyStackDesc>Select a pawn to implant the empty cortical stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve.</AC.InstallEmptyStackDesc>
-	<AC.InstallArchoStack>Implant archo stack</AC.InstallArchoStack>
-	<AC.InstallArchoStackDesc>Select a pawn or empty sleeve to implant the archo stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve.</AC.InstallArchoStackDesc>
-	<AC.InstallEmptyArchoStackDesc>Select a pawn to implant the empty archo stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve.</AC.InstallEmptyArchoStackDesc>
-	<AC.DesignatorExtractStack>Extract stack</AC.DesignatorExtractStack>
-	<AC.DesignatorExtractStackDesc>Extract cortical stacks from dead bodies</AC.DesignatorExtractStackDesc>
-	<AC.MessageMustDesignateHasStack>The body should have a cortical stack</AC.MessageMustDesignateHasStack>
-	<AC.ExtractStack>Extract stack</AC.ExtractStack>
-	<AC.Faction>Faction</AC.Faction>
-	<AC.Childhood>Childhood</AC.Childhood>
-	<AC.Adulthood>Adulthood</AC.Adulthood>
-	<AC.AgeChronologicalTicks>Chronological age</AC.AgeChronologicalTicks>
-	<AC.DestroyStack>Destroy stack</AC.DestroyStack>
-	<AC.DestroyedStack>Destroyed stack</AC.DestroyedStack>
-	<AC.DestroyedStackDesc>An empty stack was destroyed by inept actions of {PAWN_labelShort}.</AC.DestroyedStackDesc>
-	<AC.DestroyedWipingStackDesc>A stack was destroyed by inept actions of {PAWN_labelShort}.</AC.DestroyedWipingStackDesc>
-	<AC.EmptyStack>Empty stack</AC.EmptyStack>
-	<AC.EmptyStackDesc>An empty stack.</AC.EmptyStackDesc>
-	<AC.EmptyStackConfirmation>Deleting Stack:\nWARNING! You are about to wipe this stack, killing the person saved on it. Are you sure you want to continue?</AC.EmptyStackConfirmation>
-	<AC.DestroyStackConfirmation>Destroying Stack:\nWARNING! You are about to destroy this stack. Are you sure you want to continue?</AC.DestroyStackConfirmation>
-	<AC.CannotCopyNoIntellectual>(requires intellectual skill of 10 or higher)</AC.CannotCopyNoIntellectual>
-	<AC.CannotCopyNoOtherEmptyStacks>(no empty stacks on the map)</AC.CannotCopyNoOtherEmptyStacks>
-	<AC.GoodwillChangedReason_ErasedPawn>erased {PAWN_labelShort}</AC.GoodwillChangedReason_ErasedPawn>
-	<AC.CantWipeStackTooDumb>Rest Stack (requires intellectual skill of 5 or higher)</AC.CantWipeStackTooDumb>
-	<AC.FailedCorticalStackDestroyed>Decrypt Ancient Stacks: Failed, cortical stack destroyed!</AC.FailedCorticalStackDestroyed>
-	<AC.ScenPart_PawnsHaveCorticalStack>{0} have a {1} chance of starting with a {2}.</AC.ScenPart_PawnsHaveCorticalStack>
-	<AC.AutoLoad>Auto-load</AC.AutoLoad>
-	<AC.AutoLoadDesc>If active, haulers will automatically store this stack in a stack array.</AC.AutoLoadDesc>
-	<AC.SleeveWithStack>Sleeve with stack installed inside.</AC.SleeveWithStack>
-	<AC.PawnAlreadyHasStack>{PAWN_nameDef} already has a cortical stack installed!</AC.PawnAlreadyHasStack>
-	<AC.PawnAlreadyHasArchoStack>{PAWN_nameDef} already has an archo stack installed!</AC.PawnAlreadyHasArchoStack>
-	<AC.PawnStackCannotDowngrade>{PAWN_nameDef} already has an archo stack installed!</AC.PawnStackCannotDowngrade>
-	<AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Cannot install cortical stack - neck is missing or another implant installed in the neck.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
+	<AC.InstallStack>植入式皮質堆疊</AC.InstallStack>
+	<AC.InstallStackDesc>選擇一個小人或是空白義體以執行手術植入皮質堆疊。該手術將會自動添加在被選擇的小人或是義體的醫療清單裡。</AC.InstallStackDesc>
+	<AC.InstallEmptyStackDesc>選擇一個小人以執行手術植入皮質堆疊。該手術將會自動添加在被選擇的小人或是義體的醫療清單裡。</AC.InstallEmptyStackDesc>
+	<AC.InstallArchoStack>植入式超凡堆疊</AC.InstallArchoStack>
+	<AC.InstallArchoStackDesc>選擇一個小人或是空白義體以執行手術植入超凡堆疊。該手術將會自動添加在被選擇的小人或是義體的醫療清單裡。</AC.InstallArchoStackDesc>
+	<AC.InstallEmptyArchoStackDesc>選擇一個小人以執行手術植入皮質堆疊。該手術將會自動添加在被選擇的小人或是義體的醫療清單裡。</AC.InstallEmptyArchoStackDesc>
+	<AC.DesignatorExtractStack>提取堆疊</AC.DesignatorExtractStack>
+	<AC.DesignatorExtractStackDesc>從屍體上提取皮層堆疊</AC.DesignatorExtractStackDesc>
+	<AC.MessageMustDesignateHasStack>這具屍體應該要有皮層堆疊</AC.MessageMustDesignateHasStack>
+	<AC.ExtractStack>提取堆疊</AC.ExtractStack>
+	<AC.Faction>派系</AC.Faction>
+	<AC.Childhood>幼兒期</AC.Childhood>
+	<AC.Adulthood>成年期</AC.Adulthood>
+	<AC.AgeChronologicalTicks>實際年齡</AC.AgeChronologicalTicks>
+	<AC.DestroyStack>摧毀堆疊</AC.DestroyStack>
+	<AC.DestroyedStack>被摧毀的堆疊</AC.DestroyedStack>
+	<AC.DestroyedStackDesc>一個空白堆疊因為{PAWN_labelShort}的不當操作而遭到摧毀。</AC.DestroyedStackDesc>
+	<AC.DestroyedWipingStackDesc>一個堆疊因為{PAWN_labelShort}的不當操作而遭到摧毀。</AC.DestroyedWipingStackDesc>
+	<AC.EmptyStack>空白堆疊</AC.EmptyStack>
+	<AC.EmptyStackDesc>一個空白堆疊。</AC.EmptyStackDesc>
+	<AC.EmptyStackConfirmation>清除堆疊:\n警告！你將要清除這個堆疊，殺死該堆疊儲存之人的意識。你確定你要繼續嗎？</AC.EmptyStackConfirmation>
+	<AC.DestroyStackConfirmation>摧毀堆疊:\n警告!你將要摧毀該堆疊。你確定你要繼續嗎？</AC.DestroyStackConfirmation>
+	<AC.CannotCopyNoIntellectual>(需要10等或更高的知識水準)</AC.CannotCopyNoIntellectual>
+	<AC.CannotCopyNoOtherEmptyStacks>(地圖上沒有空白堆疊)</AC.CannotCopyNoOtherEmptyStacks>
+	<AC.GoodwillChangedReason_ErasedPawn>清除{PAWN_labelShort}</AC.GoodwillChangedReason_ErasedPawn>
+	<AC.CantWipeStackTooDumb>重置堆疊(需要5等或更高的知識水準)</AC.CantWipeStackTooDumb>
+	<AC.FailedCorticalStackDestroyed>解密遠古堆疊：失敗，皮層堆疊已被摧毀！</AC.FailedCorticalStackDestroyed>
+	<AC.ScenPart_PawnsHaveCorticalStack>{0}有{1}的機率從{2}開始。</AC.ScenPart_PawnsHaveCorticalStack>
+	<AC.AutoLoad>自動裝載</AC.AutoLoad>
+	<AC.AutoLoadDesc>如果啟用，搬運者將自動將堆疊儲存在堆疊陣列中。</AC.AutoLoadDesc>
+	<AC.SleeveWithStack>內部植入堆疊的義體。</AC.SleeveWithStack>
+	<AC.PawnAlreadyHasStack>{PAWN_nameDef}擁有已植入的堆疊！</AC.PawnAlreadyHasStack>
+	<AC.PawnAlreadyHasArchoStack>{PAWN_nameDef}擁有已植入的超凡堆疊！</AC.PawnAlreadyHasArchoStack>
+	<AC.PawnStackCannotDowngrade>{PAWN_nameDef}擁有已植入的超凡堆疊！</AC.PawnStackCannotDowngrade>
+	<AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>無法植入皮質堆疊 - 脖子遺失或是已植入其他皮質堆疊。</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
 	<!-- ================================ Sleeves ====================== -->
-	<AC.EmptySleeve>Empty sleeve</AC.EmptySleeve>
-	<AC.SleeveDeath>Sleeve Death</AC.SleeveDeath>
-	<AC.SleeveDeathDesc>Sleeve Death.</AC.SleeveDeathDesc>
-	<AC.PawnDiedBecauseOf>Sleeve of {PAWN_labelShort} has died. Cause: {1}.</AC.PawnDiedBecauseOf>
-	<AC.PawnDied>Sleeve of {1_labelShort} has died.</AC.PawnDied>
-	<AC.SleveOf>Sleeve of </AC.SleveOf>
-	<AC.TakeToSleeveCasketOrMedicalBed>Take empty sleeve to sleeve casket or medical bed</AC.TakeToSleeveCasketOrMedicalBed>
-	<AC.CannotTakeToSleeveCasketOrMedicalBed>Cannot take: No reachable, un-reserved sleeve casket or medical bed in safe temperature.</AC.CannotTakeToSleeveCasketOrMedicalBed>
+	<AC.EmptySleeve>空白義體</AC.EmptySleeve>
+	<AC.SleeveDeath>義體死亡</AC.SleeveDeath>
+	<AC.SleeveDeathDesc>義體死亡。</AC.SleeveDeathDesc>
+	<AC.PawnDiedBecauseOf>{PAWN_labelShort}的義體已死亡。原因：{1}。</AC.PawnDiedBecauseOf>
+	<AC.PawnDied>{1_labelShort}的義體已死亡。</AC.PawnDied>
+	<AC.SleveOf>套筒</AC.SleveOf>
+	<AC.TakeToSleeveCasketOrMedicalBed>將空白義體移置義體套筒或是醫療床。</AC.TakeToSleeveCasketOrMedicalBed>
+	<AC.CannotTakeToSleeveCasketOrMedicalBed>無法拿取：在安全溫度下沒有可觸及的無預留之義體套筒或是醫療床。</AC.CannotTakeToSleeveCasketOrMedicalBed>
 	<!-- ================================ Sleeve Incubator ====================== -->
-	<AC.CreateSleeveBody>Grow sleeve</AC.CreateSleeveBody>
-	<AC.SleeveCustomization>Sleeve Customization</AC.SleeveCustomization>
-	<AC.NoSleeve>No Sleeve</AC.NoSleeve>
-	<AC.Sleeve>Sleeve</AC.Sleeve>
-	<AC.CreateSleeveBodyDesc>Create a new baseliner or xenotype sleeve using available xenogerms.</AC.CreateSleeveBodyDesc>
-	<AC.GeneOptions>Gene options</AC.GeneOptions>
-	<AC.BodyOptions>Body options</AC.BodyOptions>
-	<AC.XenogermExplanation>Selected xenogerm will be consumed in the process. If no xenogerm is selected, the sleeve will be grown as a "Baseliner".</AC.XenogermExplanation>
-	<AC.GeneOptionsExplanation>Available options depend on the genes of the selected xenogerm. Chosen options will be used as active genes, while conflicting ones will be dormant.</AC.GeneOptionsExplanation>
-	<AC.BodyOptionsExplanation>Baseliner skins and hair colour options are always available. Chosen options will be used as active genes, while conflicting ones will be dormant.</AC.BodyOptionsExplanation>
-	<AC.ConvertGenesToGermline>Grow non-archotech genes in xenogerm as germline genes: </AC.ConvertGenesToGermline>
-	<AC.PowerSleeveWillBeLostIn>Due to lack of power, the sleeve will be lost in {0}.</AC.PowerSleeveWillBeLostIn>
-	<AC.FuelSleeveWillBeLostIn>Due to lack of neutroamine, the sleeve will be lost in {0}.</AC.FuelSleeveWillBeLostIn>
-	<AC.FuelSleeveWillBeDeteriorated>Due to lack of neutroamine, the sleeve will begin to deteriorate in {0}</AC.FuelSleeveWillBeDeteriorated>
-	<AC.FuelSleeveIsDeteriorating>Due to lack of neutroamine, the sleeve is deteriorating.</AC.FuelSleeveIsDeteriorating>
-	<AC.Race>Race</AC.Race>
-	<AC.Xenotype>Xenotype</AC.Xenotype>
-	<AC.ActiveBrainTemplateDesc>Active brain template: </AC.ActiveBrainTemplateDesc>
-	<AC.AwaitingBrainTemplateDesc>Awaiting brain template: </AC.AwaitingBrainTemplateDesc>
-	<AC.BrainTemplateIsUsedCurrently>Brain template is active and cannot be removed or changed during sleeve growth process. Abort sleeve growth in order to remove/change brain template.</AC.BrainTemplateIsUsedCurrently>
-	<AC.SleeveQuality>Sleeve quality</AC.SleeveQuality>
-	<AC.SleeveBeauty>Sleeve beauty</AC.SleeveBeauty>
-	<AC.PsychicSensitivity>Psychic sensitivity</AC.PsychicSensitivity>
-	<AC.SleeveCustomizationExplanation>When you press Accept, a sleeve will begin growing in this Sleeve incubator. During growth, it will require a constant power connection as well as neutroamine connection via neutro pipes. When the timer finishes, a Sleeve can be extracted and either used straight-away, or inserted into a Sleeve casket.</AC.SleeveCustomizationExplanation>
-	<AC.SaveTemplate>Save template</AC.SaveTemplate>
-	<AC.LoadTemplate>Load template</AC.LoadTemplate>
-	<AC.CancelSleeveBodyGrowing>Cancel the sleeve growing process.</AC.CancelSleeveBodyGrowing>
-	<AC.CancelSleeveBodyGrowingDesc>Cancel sleeve growing.</AC.CancelSleeveBodyGrowingDesc>
-	<AC.ReleaseSleeve>Release sleeve</AC.ReleaseSleeve>
-	<AC.NoHairAllowed>This race does not support hair!</AC.NoHairAllowed>
-	<AC.BodyShape>Body shape</AC.BodyShape>
-	<AC.BodyTypeReplace>Body type</AC.BodyTypeReplace>
-	<AC.Cancel>Cancel</AC.Cancel>
-	<AC.GrowthProgress>Growth progress: </AC.GrowthProgress>
-	<AC.HairColour>Hair colour</AC.HairColour>
-	<AC.HairType>Hair type</AC.HairType>
-	<AC.HeadShape>Head shape</AC.HeadShape>
-	<AC.HeadTypeReplace>Head type</AC.HeadTypeReplace>
-	<AC.BeardType>Beard type</AC.BeardType>
-	<AC.FaceTattoosType>Face tattoos type</AC.FaceTattoosType>
-	<AC.BodyTattoosType>Body tattoos type</AC.BodyTattoosType>
-	<AC.LevelOfBeauty>Level of beauty</AC.LevelOfBeauty>
-	<AC.LevelofQuality>Level of quality</AC.LevelofQuality>
-	<AC.RequireBiomass>Require neutroamine</AC.RequireBiomass>
-	<AC.SkinColour>Skin colour</AC.SkinColour>
-	<AC.TimeToGrow>Total time to grow: {0}</AC.TimeToGrow>
-	<AC.GrowCost>Total neutroamine needed: {0}</AC.GrowCost>
-	<AC.SelectRace>Select race</AC.SelectRace>
-	<AC.RaceTypeReplace>Race type</AC.RaceTypeReplace>
-	<AC.CloneSleeve>Clone sleeve</AC.CloneSleeve>
-	<AC.CloneSleeveDesc>Create a sleeve based on an existing pawn, including endogenes.</AC.CloneSleeveDesc>
-	<AC.IsRunningOutFuel>Sleeve incubator is running out neutroamine</AC.IsRunningOutFuel>
-	<AC.IsRunningOutPower>Sleeve incubator is running out power</AC.IsRunningOutPower>
-	<AC.SleeveInIncubatorIsDead>Sleeve body in the incubator is dead</AC.SleeveInIncubatorIsDead>
-	<AC.RepurposeCorpse>Repurpose corpse</AC.RepurposeCorpse>
-	<AC.RepurposeCorpseDesc>Repurpose a not fully rotten corpse and turn it into an empty sleeve.</AC.RepurposeCorpseDesc>
-	<AC.SleeveGrowerIsOccupied>Sleeve grower is occupied.</AC.SleeveGrowerIsOccupied>
-	<AC.CancelRepurposingCorpse>Cancel repurposing corpse</AC.CancelRepurposingCorpse>
-	<AC.CancelRepurposingCorpseDesc>Cancel repurposing corpse into a empty sleeve.</AC.CancelRepurposingCorpseDesc>
-	<AC.CorticalStackMustBeRemovedFirst>Cortical stack must be removed first.</AC.CorticalStackMustBeRemovedFirst>
-	<AC.SleeveDesignCouldntBeFullyLoaded>Saved Sleeve Design could not be fully loaded. Missing required xenogerm!</AC.SleeveDesignCouldntBeFullyLoaded>
-	<AC.PawnBodyCouldntBeFullyCopied>A {PAWN_nameDef} body couldn't be copied fully. The following xenogenes were skipped: {1}</AC.PawnBodyCouldntBeFullyCopied>
-	<AC.StartGrowing>Start growing</AC.StartGrowing>
-	<AC.FinishedGrowingSleeve>Sleeve Incubator: Finished growing sleeve!</AC.FinishedGrowingSleeve>
+	<AC.CreateSleeveBody>培養義體</AC.CreateSleeveBody>
+	<AC.SleeveCustomization>義體訂製化</AC.SleeveCustomization>
+	<AC.NoSleeve>沒有義體</AC.NoSleeve>
+	<AC.Sleeve>義體</AC.Sleeve>
+	<AC.CreateSleeveBodyDesc>使用可用的異種基因創建新的一般義體或是異種義體。</AC.CreateSleeveBodyDesc>
+	<AC.GeneOptions>基因選項</AC.GeneOptions>
+	<AC.BodyOptions>身體選項</AC.BodyOptions>
+	<AC.XenogermExplanation>選擇異種基因將會在過程中被消耗。如果沒有異種基因被選擇，義體將會被培養成"一般義體"。</AC.XenogermExplanation>
+	<AC.GeneOptionsExplanation>可使用的選項取決於選擇的異種基因，被選中的選項將被做為顯性基因，同時衝突者將被轉成隱性基因。</AC.GeneOptionsExplanation>
+	<AC.BodyOptionsExplanation>一般義體的皮膚與頭髮顏色選項始終可以選擇。被選中的選項將被做為顯性基因，同時衝突者將被轉成隱性基因。</AC.BodyOptionsExplanation>
+	<AC.ConvertGenesToGermline>培養非超凡基因的異種基因作為種系基因：</AC.ConvertGenesToGermline>
+	<AC.PowerSleeveWillBeLostIn>由於缺乏電力，義體將於{0}後消失。</AC.PowerSleeveWillBeLostIn>
+	<AC.FuelSleeveWillBeLostIn>由於缺乏中性胺，義體將於{0}後消失。</AC.FuelSleeveWillBeLostIn>
+	<AC.FuelSleeveWillBeDeteriorated>由於缺乏中性胺，義體將於{0}後變質。</AC.FuelSleeveWillBeDeteriorated>
+	<AC.FuelSleeveIsDeteriorating>由於缺乏中性胺，義體正在衰敗中。</AC.FuelSleeveIsDeteriorating>
+	<AC.Race>種族</AC.Race>
+	<AC.Xenotype>異種基因</AC.Xenotype>
+	<AC.ActiveBrainTemplateDesc>啟用中的大腦模板：</AC.ActiveBrainTemplateDesc>
+	<AC.AwaitingBrainTemplateDesc>等待中的大腦模板：</AC.AwaitingBrainTemplateDesc>
+	<AC.BrainTemplateIsUsedCurrently>大腦模板正在啟用，並且無法在培養義體途中被移除或是更改。中斷義體培養以移除/更改大腦模板。</AC.BrainTemplateIsUsedCurrently>
+	<AC.SleeveQuality>義體品質</AC.SleeveQuality>
+	<AC.SleeveBeauty>義體美觀</AC.SleeveBeauty>
+	<AC.PsychicSensitivity>心靈敏感度</AC.PsychicSensitivity>
+	<AC.SleeveCustomizationExplanation>當你按下同意，義體將會開始在此義體培養艙中培養。培養期間它會需要持續供電以及透過中性胺管道連接的中性胺。當倒計時結束時，義體可被提取並直接使用，或是儲存於義體套筒中。</AC.SleeveCustomizationExplanation>
+	<AC.SaveTemplate>儲存模板</AC.SaveTemplate>
+	<AC.LoadTemplate>載入模板</AC.LoadTemplate>
+	<AC.CancelSleeveBodyGrowing>取消義體培養程序。</AC.CancelSleeveBodyGrowing>
+	<AC.CancelSleeveBodyGrowingDesc>取消義體培養。</AC.CancelSleeveBodyGrowingDesc>
+	<AC.ReleaseSleeve>釋放義體</AC.ReleaseSleeve>
+	<AC.NoHairAllowed>該種族並不支撐頭髮！</AC.NoHairAllowed>
+	<AC.BodyShape>身體外型</AC.BodyShape>
+	<AC.BodyTypeReplace>身體類型</AC.BodyTypeReplace>
+	<AC.Cancel>取消</AC.Cancel>
+	<AC.GrowthProgress>培養進度：</AC.GrowthProgress>
+	<AC.HairColour>頭髮顏色</AC.HairColour>
+	<AC.HairType>頭髮類型</AC.HairType>
+	<AC.HeadShape>頭部外型</AC.HeadShape>
+	<AC.HeadTypeReplace>頭部類型</AC.HeadTypeReplace>
+	<AC.BeardType>鬍子類型</AC.BeardType>
+	<AC.FaceTattoosType>臉部刺青類型</AC.FaceTattoosType>
+	<AC.BodyTattoosType>身體刺青類型</AC.BodyTattoosType>
+	<AC.LevelOfBeauty>美觀度等級</AC.LevelOfBeauty>
+	<AC.LevelofQuality>品質等級</AC.LevelofQuality>
+	<AC.RequireBiomass>需要中性胺</AC.RequireBiomass>
+	<AC.SkinColour>皮膚顏色</AC.SkinColour>
+	<AC.TimeToGrow>總共需要培養時間：{0}</AC.TimeToGrow>
+	<AC.GrowCost>總共需要中性胺：{0}</AC.GrowCost>
+	<AC.SelectRace>選擇種族</AC.SelectRace>
+	<AC.RaceTypeReplace>種族類型</AC.RaceTypeReplace>
+	<AC.CloneSleeve>複製義體</AC.CloneSleeve>
+	<AC.CloneSleeveDesc>基於現有小人創建義體，包含異種基因。</AC.CloneSleeveDesc>
+	<AC.IsRunningOutFuel>義體培養艙已用光所有中性胺</AC.IsRunningOutFuel>
+	<AC.IsRunningOutPower>義體培養艙已用光電力</AC.IsRunningOutPower>
+	<AC.SleeveInIncubatorIsDead>在義體培養艙中之義體已死亡</AC.SleeveInIncubatorIsDead>
+	<AC.RepurposeCorpse>重新利用屍體</AC.RepurposeCorpse>
+	<AC.RepurposeCorpseDesc>重新利用未完全腐爛的屍體並且轉變成空白義體。</AC.RepurposeCorpseDesc>
+	<AC.SleeveGrowerIsOccupied>義體培養艙已被占用。</AC.SleeveGrowerIsOccupied>
+	<AC.CancelRepurposingCorpse>取消重新利用屍體</AC.CancelRepurposingCorpse>
+	<AC.CancelRepurposingCorpseDesc>取消重新利用屍體轉變成義體。</AC.CancelRepurposingCorpseDesc>
+	<AC.CorticalStackMustBeRemovedFirst>皮層堆疊必須先被移除。</AC.CorticalStackMustBeRemovedFirst>
+	<AC.SleeveDesignCouldntBeFullyLoaded>已儲存的義體設計無法完全載入，缺乏所需的異種基因！</AC.SleeveDesignCouldntBeFullyLoaded>
+	<AC.PawnBodyCouldntBeFullyCopied>{PAWN_nameDef}的身體無法被完全複製。下列異種基因已被跳過：{1}</AC.PawnBodyCouldntBeFullyCopied>
+	<AC.StartGrowing>開始培養</AC.StartGrowing>
+	<AC.FinishedGrowingSleeve>義體培養艙：已完成培養義體！</AC.FinishedGrowingSleeve>
 	<!-- ================================ Stack Array ====================== -->
-	<AC.Backup>Backup</AC.Backup>
-	<AC.BackedUpStacksInArray>Cortical Stack backups saved in arrays: {0}</AC.BackedUpStacksInArray>
-	<AC.Erase>Delete the saved backup irreversibly.</AC.Erase>
-	<AC.Backups>Backups</AC.Backups>
-	<AC.BackupNow>Backup now</AC.BackupNow>
-	<AC.CannotBackupNoSuchPawn>Cannot backup {0}: there's no such pawn!</AC.CannotBackupNoSuchPawn>
-	<AC.CannotBackupPawnOnAnotherLocation>Cannot backup, {0} is on different location.</AC.CannotBackupPawnOnAnotherLocation>
-	<AC.CannotBackupNoPower>Cannot backup {0}, the building is not powered.</AC.CannotBackupNoPower>
-	<AC.EnableBackup>Enable automatic backup</AC.EnableBackup>
-	<AC.EnableBackupDesc>Allow the array to automatically make backups of all installed cortical stacks belonging to the player who are on the local map.</AC.EnableBackupDesc>
-	<AC.BackupAllStacks>Emergency Backup</AC.BackupAllStacks>
-	<AC.BackupAllStacksDesc>Make an emergency backup of all currently active cortical stacks on the local map that belong to the colony.</AC.BackupAllStacksDesc>
-	<AC.TimeSinceLastBackup>(last backup: {0})</AC.TimeSinceLastBackup>
-	<AC.CannotRestoreBackupNoOtherEmptyStacks>Restore stack from backup (no empty stacks in stockpile.)</AC.CannotRestoreBackupNoOtherEmptyStacks>
-	<AC.SuccessfullyRestoredStackFromBackup>{PAWN_nameDef} successfully restored cortical stack from backup.</AC.SuccessfullyRestoredStackFromBackup>
-	<AC.BackupsCompleted>Stack array: Backups Completed! {0} colonists were backed up!</AC.BackupsCompleted>
-	<AC.RestoreToStackAutomatically>Toggle if this person should be restored to a new stack automatically when the current stack is destroyed.</AC.RestoreToStackAutomatically>
-	<AC.EnableAutoRestore>Toggle automatic restoring</AC.EnableAutoRestore>
-	<AC.EnableAutoRestoreDesc>Allow the array to automatically restore backups if a pawn with an installed cortical stacks dies.</AC.EnableAutoRestoreDesc>
-	<AC.DuplicateStack>Duplicate Stack</AC.DuplicateStack>
-	<AC.DuplicateStackDesc>Make a exact copy of an existing filled cortical stack that is currently stored in the stack array.</AC.DuplicateStackDesc>
-	<AC.AlreadySetToDuplicate>Already set a stack to duplicate</AC.AlreadySetToDuplicate>
-	<AC.NoEnoughSpaceForNewStack>Not enough space for new stack</AC.NoEnoughSpaceForNewStack>
-	<AC.EjectStackTooltip>Eject this cortical stack from the array.</AC.EjectStackTooltip>
-	<AC.EjectStackConfirmation>Do you really want to eject {0}? It will be immediately ejected onto the ground nearby.</AC.EjectStackConfirmation>
-	<AC.NoStoredStackToDuplicate>There are no stored cortical stacks in the array to duplicate.</AC.NoStoredStackToDuplicate>
-	<AC.CancelStackDuplication>Cancel stack duplication</AC.CancelStackDuplication>
-	<AC.CancelStackDuplicationDesc>Cancel duplication of stored cortical stack.</AC.CancelStackDuplicationDesc>
-	<AC.MessageCantSelectOffMapPawn>{1_labelShort} is off the map or not in a sleeve.</AC.MessageCantSelectOffMapPawn>
-	<AC.StackStorage>Contents</AC.StackStorage>
-	<AC.CorticalStacksInArray>Cortical Stacks in array: ({0}/{1})</AC.CorticalStacksInArray>
-	<AC.CorticalStacksStored>Cortical Stacks stored: {0}/{1}</AC.CorticalStacksStored>
-	<AC.LastBackup>Last Backup: {0}</AC.LastBackup>
-	<AC.AllowColonistStacks>*Allow colonist cortical stacks</AC.AllowColonistStacks>
-	<AC.AllowStrangerStacks>*Allow stranger cortical stacks</AC.AllowStrangerStacks>
-	<AC.AllowHostileStacks>*Allow hostile cortical stacks</AC.AllowHostileStacks>
-	<AC.AllowArchoStacks>*Allow archo stacks</AC.AllowArchoStacks>
-	<AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} successfully duplicated cortical stack.</AC.SuccessfullyDuplicatedStack>
-	<AC.FailedToDuplicatedStack>{PAWN_nameDef} failed to duplicate cortical stack.</AC.FailedToDuplicatedStack>
-	<AC.EjectAll>Eject all</AC.EjectAll>
-	<AC.EjectAllDesc>Drop all contained stacks onto the ground.</AC.EjectAllDesc>
+	<AC.Backup>備份</AC.Backup>
+	<AC.BackedUpStacksInArray>皮質堆疊備份已被儲存於陣列：{0}</AC.BackedUpStacksInArray>
+	<AC.Erase>不可逆轉的刪除已儲存的備份。</AC.Erase>
+	<AC.Backups>備份</AC.Backups>
+	<AC.BackupNow>立刻備份</AC.BackupNow>
+	<AC.CannotBackupNoSuchPawn>無法備份{0}：沒有該位小人！</AC.CannotBackupNoSuchPawn>
+	<AC.CannotBackupPawnOnAnotherLocation>無法備份，{0}在不同地點。</AC.CannotBackupPawnOnAnotherLocation>
+	<AC.CannotBackupNoPower>無法備份{0}，建築並未供電。</AC.CannotBackupNoPower>
+	<AC.EnableBackup>開啟自動備份</AC.EnableBackup>
+	<AC.EnableBackupDesc>允許陣列自動對該地圖所有屬於玩家的已安裝皮質堆疊備份。</AC.EnableBackupDesc>
+	<AC.BackupAllStacks>緊急備份</AC.BackupAllStacks>
+	<AC.BackupAllStacksDesc>對本地地圖所有屬於殖民地的活躍皮質堆疊進行緊急備份。</AC.BackupAllStacksDesc>
+	<AC.TimeSinceLastBackup>(上次備份：{0})</AC.TimeSinceLastBackup>
+	<AC.CannotRestoreBackupNoOtherEmptyStacks>從備份中恢復堆疊(庫存中沒有空的堆疊。)</AC.CannotRestoreBackupNoOtherEmptyStacks>
+	<AC.SuccessfullyRestoredStackFromBackup>{PAWN_nameDef}成功從備份中恢復皮質堆疊。</AC.SuccessfullyRestoredStackFromBackup>
+	<AC.BackupsCompleted>堆疊陣列：備份已完成！{0}個殖民者已備份！</AC.BackupsCompleted>
+	<AC.RestoreToStackAutomatically>切換當前堆疊被摧毀時，該小人是否應該自動恢復新的堆疊。</AC.RestoreToStackAutomatically>
+	<AC.EnableAutoRestore>切換自動恢復</AC.EnableAutoRestore>
+	<AC.EnableAutoRestoreDesc>允許當植入皮層堆疊的小人死亡時，陣列自動從備份中恢復堆疊。</AC.EnableAutoRestoreDesc>
+	<AC.DuplicateStack>複製堆疊</AC.DuplicateStack>
+	<AC.DuplicateStackDesc>對儲存在堆疊陣列的已填充皮質堆疊進行精確複製。</AC.DuplicateStackDesc>
+	<AC.AlreadySetToDuplicate>已經設置了一個堆疊來複製</AC.AlreadySetToDuplicate>
+	<AC.NoEnoughSpaceForNewStack>沒有足夠的空間給新的堆疊</AC.NoEnoughSpaceForNewStack>
+	<AC.EjectStackTooltip>從陣列中彈射此皮層堆疊。</AC.EjectStackTooltip>
+	<AC.EjectStackConfirmation>你真的想要彈射{0}？這將會立刻彈射至附近的地面。</AC.EjectStackConfirmation>
+	<AC.NoStoredStackToDuplicate>陣列中沒有儲存的皮質堆疊可供複製。</AC.NoStoredStackToDuplicate>
+	<AC.CancelStackDuplication>取消堆疊複製</AC.CancelStackDuplication>
+	<AC.CancelStackDuplicationDesc>取消已儲存的皮層堆疊複製。</AC.CancelStackDuplicationDesc>
+	<AC.MessageCantSelectOffMapPawn>{1_labelShort}已經離開地圖或者不在義體內。</AC.MessageCantSelectOffMapPawn>
+	<AC.StackStorage>內容</AC.StackStorage>
+	<AC.CorticalStacksInArray>陣列中的皮質堆疊：({0}/{1})</AC.CorticalStacksInArray>
+	<AC.CorticalStacksStored>儲存的皮質堆疊：{0}/{1}</AC.CorticalStacksStored>
+	<AC.LastBackup>上次備份：{0}</AC.LastBackup>
+	<AC.AllowColonistStacks>*允許殖民者皮層堆疊</AC.AllowColonistStacks>
+	<AC.AllowStrangerStacks>*允許陌生者皮層堆疊</AC.AllowStrangerStacks>
+	<AC.AllowHostileStacks>*允許敵對者皮層堆疊</AC.AllowHostileStacks>
+	<AC.AllowArchoStacks>*允許超凡堆疊</AC.AllowArchoStacks>
+	<AC.SuccessfullyDuplicatedStack>{PAWN_nameDef}成功複製皮層堆疊。</AC.SuccessfullyDuplicatedStack>
+	<AC.FailedToDuplicatedStack>{PAWN_nameDef}未能成功複製皮層堆疊。</AC.FailedToDuplicatedStack>
+	<AC.EjectAll>全部彈射</AC.EjectAll>
+	<AC.EjectAllDesc>將所有儲存的皮層彈射至地上。</AC.EjectAllDesc>
 	<!-- ================================ Gene Centrifuge ====================== -->
-	<AC.SeparateGene>Separate gene</AC.SeparateGene>
-	<AC.SeparateGeneDesc>Select a genepack from which to separate a gene from.</AC.SeparateGeneDesc>
-	<AC.SeparatingGenes>Separating Genes</AC.SeparatingGenes>
-	<AC.SelectGene>Select gene</AC.SelectGene>
-	<AC.SelectGeneExplanation>The selected gene will be separated from the rest of the gene pack.</AC.SelectGeneExplanation>
-	<AC.SeparateGeneExplanation>After successful separation two genepacks will be spawned. One only with the selected gene, the other one with the rest. This process is not perfect and there is a small chance of one of the gene packs being destroyed.</AC.SeparateGeneExplanation>
-	<AC.StartSeparating>Start gene separating</AC.StartSeparating>
-	<AC.FinishedSeparatingMessage>Gene centrifuge finished separating genepacks!</AC.FinishedSeparatingMessage>
-	<AC.FinishedSeparatingDestroyedMessage>Gene centrifuge finished separating genepacks! {0} was destroyed during the process.</AC.FinishedSeparatingDestroyedMessage>
-	<AC.SeparatingProgress>Separating: {0}</AC.SeparatingProgress>
-	<AC.CentrigureWorking>Gene centrifuge is working.</AC.CentrigureWorking>
-	<AC.CancelGeneSeparating>Cancel gene separating</AC.CancelGeneSeparating>
-	<AC.CancelGeneSeparatingDesc>Cancel separating genes.</AC.CancelGeneSeparatingDesc>
-	<AC.ContainsGenepack>Contains: {0}</AC.ContainsGenepack>
-	<AC.SelectAGeneToSeparate>Select a gene to separate.</AC.SelectAGeneToSeparate>
+	<AC.SeparateGene>分離基因</AC.SeparateGene>
+	<AC.SeparateGeneDesc>選擇一個基因包，並從中分離基因。</AC.SeparateGeneDesc>
+	<AC.SeparatingGenes>分離多個基因</AC.SeparatingGenes>
+	<AC.SelectGene>選擇基因</AC.SelectGene>
+	<AC.SelectGeneExplanation>選擇的基因將會從剩下的基因包分離。</AC.SelectGeneExplanation>
+	<AC.SeparateGeneExplanation>成功分離後，將會產生兩個基因包。一個只有被選中的基因，而另一個則會有剩餘的基因。這個過程並不完美，因此其中一個基因包有小概率將會被摧毀。</AC.SeparateGeneExplanation>
+	<AC.StartSeparating>開始基因分離</AC.StartSeparating>
+	<AC.FinishedSeparatingMessage>基因離心機完成分離基因包！</AC.FinishedSeparatingMessage>
+	<AC.FinishedSeparatingDestroyedMessage>基因離心機完成分離基因包！{0}在分離過程中已被摧毀。</AC.FinishedSeparatingDestroyedMessage>
+	<AC.SeparatingProgress>分離中：{0}</AC.SeparatingProgress>
+	<AC.CentrigureWorking>基因離心機正在運作。</AC.CentrigureWorking>
+	<AC.CancelGeneSeparating>取消基因分離</AC.CancelGeneSeparating>
+	<AC.CancelGeneSeparatingDesc>取消分離基因。</AC.CancelGeneSeparatingDesc>
+	<AC.ContainsGenepack>包含：{0}</AC.ContainsGenepack>
+	<AC.SelectAGeneToSeparate>選擇一個基因分離。</AC.SelectAGeneToSeparate>
 	<!-- ================================ Xenogerm duplicator ====================== -->
-	<AC.DuplicateXenogerm>Duplicate xenogerm</AC.DuplicateXenogerm>
-	<AC.DuplicateXenogermDesc>Select a xenogerm to duplicate. Xenogerms with archite genes require archite capsules to be loaded.</AC.DuplicateXenogermDesc>
-	<AC.DuplicatorWorking>Xenogerm duplicator is working</AC.DuplicatorWorking>
-	<AC.CancelXenogermDuplication>Cancel xenogerm duplication</AC.CancelXenogermDuplication>
-	<AC.CancelXenogermDuplicationDesc>Cancel xenogerm duplication.</AC.CancelXenogermDuplicationDesc>
-	<AC.DuplicationProgress>Duplicating: {0}</AC.DuplicationProgress>
-	<AC.ContainsXenogerm>Contains: {0}</AC.ContainsXenogerm>
-	<AC.FinishedXenogermDuplicationMessage>Xenogerm duplicator finished duplicating xenogerm!</AC.FinishedXenogermDuplicationMessage>
-	<AC.NotEnoughArchiteCapsulesLoaded>Do you really want to duplicate the xenogerm? Not enough archite capsules are loaded to duplicate all any archite genes inside the xenogerm.</AC.NotEnoughArchiteCapsulesLoaded>
+	<AC.DuplicateXenogerm>複製異種基因</AC.DuplicateXenogerm>
+	<AC.DuplicateXenogermDesc>選擇一個異種基因來複製。包含遠古基因的異種基因需要裝載遠古膠囊。</AC.DuplicateXenogermDesc>
+	<AC.DuplicatorWorking>異種基因複製器正在運作</AC.DuplicatorWorking>
+	<AC.CancelXenogermDuplication>取消異種基因複製</AC.CancelXenogermDuplication>
+	<AC.CancelXenogermDuplicationDesc>取消異種基因複製。</AC.CancelXenogermDuplicationDesc>
+	<AC.DuplicationProgress>複製中：{0}</AC.DuplicationProgress>
+	<AC.ContainsXenogerm>包含：{0}</AC.ContainsXenogerm>
+	<AC.FinishedXenogermDuplicationMessage>異種基因複製器完成複製異種基因！</AC.FinishedXenogermDuplicationMessage>
+	<AC.NotEnoughArchiteCapsulesLoaded>你真的想要複製異種基因？沒有裝載足夠的遠古膠囊不足以複製異種基因內的所有遠古基因。</AC.NotEnoughArchiteCapsulesLoaded>
 	<!-- ================================ Other ====================== -->
-	<AC.CommandCallsNeuroformers>Call psylink neuroformers</AC.CommandCallsNeuroformers>
-	<AC.SleeveHealthPreview>Health</AC.SleeveHealthPreview>
-	<AC.SetBodyParts>Install body parts</AC.SetBodyParts>
-	<AC.OrganGrowingRecipesRequiresResearch>You need to research at least one organ growing recipe.</AC.OrganGrowingRecipesRequiresResearch>
-	<AC.NoBrainTemplatesFound>No brain templates found</AC.NoBrainTemplatesFound>
-	<AC.InsertBrainTemplate>Insert brain template</AC.InsertBrainTemplate>
-	<AC.InsertBrainTemplateDesc>Insert a brain template into the incubator.</AC.InsertBrainTemplateDesc>
-	<AC.RemoveCurrentBrainTemplate>Remove current brain template</AC.RemoveCurrentBrainTemplate>
-	<AC.FactionDemandsStacks>{FACTION_name} demands stacks of their members back.\n\n{0}</AC.FactionDemandsStacks>
-	<AC.AppeptFactionDemand>Accept: (+{0} goodwill)</AC.AppeptFactionDemand>
-	<AC.RejectFactionDemand>Reject: ({0} goodwill)</AC.RejectFactionDemand>
-	<AC.None>None</AC.None>
-	<AC.Copy>Copy</AC.Copy>
-	<AC.Original>Original</AC.Original>
-	<AC.Name>Name</AC.Name>
-	<AC.Search>Search</AC.Search>
-	<AC.AddFilter>Add filter</AC.AddFilter>
-	<AC.NoFilters>No filters</AC.NoFilters>
-	<AC.IsEmptySleeve>Is empty sleeve</AC.IsEmptySleeve>
-	<AC.OriginalGender>Original gender</AC.OriginalGender>
+	<AC.CommandCallsNeuroformers>呼叫心靈增幅器</AC.CommandCallsNeuroformers>
+	<AC.SleeveHealthPreview>健康</AC.SleeveHealthPreview>
+	<AC.SetBodyParts>植入身體部件</AC.SetBodyParts>
+	<AC.OrganGrowingRecipesRequiresResearch>你需要研究至少一個器官培養配方。</AC.OrganGrowingRecipesRequiresResearch>
+	<AC.NoBrainTemplatesFound>無法找到大腦模板</AC.NoBrainTemplatesFound>
+	<AC.InsertBrainTemplate>插入大腦模板</AC.InsertBrainTemplate>
+	<AC.InsertBrainTemplateDesc>將大腦模板插入培養艙。</AC.InsertBrainTemplateDesc>
+	<AC.RemoveCurrentBrainTemplate>移除當前大腦模板。</AC.RemoveCurrentBrainTemplate>
+	<AC.FactionDemandsStacks>{FACTION_name}需要拿回他們成員的皮層。\n\n{0}</AC.FactionDemandsStacks>
+	<AC.AppeptFactionDemand>接受：(+{0}好感度)</AC.AppeptFactionDemand>
+	<AC.RejectFactionDemand>拒絕：({0}好感度)</AC.RejectFactionDemand>
+	<AC.None>無</AC.None>
+	<AC.Copy>複製</AC.Copy>
+	<AC.Original>原始</AC.Original>
+	<AC.Name>名稱</AC.Name>
+	<AC.Search>查詢</AC.Search>
+	<AC.AddFilter>添加過濾器</AC.AddFilter>
+	<AC.NoFilters>沒有過濾器</AC.NoFilters>
+	<AC.IsEmptySleeve>為空白義體</AC.IsEmptySleeve>
+	<AC.OriginalGender>原始性別</AC.OriginalGender>
 	<!-- ================================ Decryption Bench ====================== -->
-	<AC.HackStack>Hack stack</AC.HackStack>
-	<AC.HackStackDesc>Convert a stack to the players faction.</AC.HackStackDesc>
-	<AC.ConvertStack>Convert stack ideo</AC.ConvertStack>
-	<AC.ConvertStackDesc>Convert a stack to the players ideology.</AC.ConvertStackDesc>
-	<AC.WipeStack>Reset stack</AC.WipeStack>
-	<AC.WipeStackDesc>Factory reset a filled cortical to be used on a new host. This process will deleted the pawn stored on it, effectively killing them.</AC.WipeStackDesc>
-	<AC.AlreadyOrderedToHackStack>This stack is set for hacking already on the decryption workbench. Remove the bill in order to add new operation on it.</AC.AlreadyOrderedToHackStack>
-	<AC.AlreadyOrderedToWipeStack>This stack is set for reseting already on a decryption workbench. Remove the bill in order to add new operation on it.</AC.AlreadyOrderedToWipeStack>
-	<AC.AlreadyOrderedToRewriteStack>This stack is set for rewriting already on a decryption workbench. Remove the bill in order to add new operation on it.</AC.AlreadyOrderedToRewriteStack>
-	<AC.FixedAncientStack>Decrypt Ancient Stacks: Fixed the ancient cortical stack!</AC.FixedAncientStack>
-	<AC.UnlockedNewTechnology>Decrypt Ancient Stacks: Unlocked new technology - {0}!</AC.UnlockedNewTechnology>
-	<AC.GainedProgressToTechnology>Decrypt Ancient Stacks: Gained progress to technology - {0}!</AC.GainedProgressToTechnology>
-	<AC.GainedEmptyCorticalStack>Decrypt Ancient Stacks: Gained empty cortical stack!</AC.GainedEmptyCorticalStack>
-	<AC.HackingBiocodedFailed>Hacking biocoded equipment: Failed, {0} destroyed!</AC.HackingBiocodedFailed>
-	<AC.HackingBiocodedSuccess>Hacking biocoded equipment: Successful! {0} is unlocked.</AC.HackingBiocodedSuccess>
-	<AC.RewriteStack>Rewrite stack</AC.RewriteStack>
-	<AC.RewriteStackDesc>Use exploits to edit the data stored on a filled cortical stack.</AC.RewriteStackDesc>
-	<AC.RewriteCorticalStack>Rewrite Cortical Stack</AC.RewriteCorticalStack>
-	<AC.CorticalStackEditExplanation>Cortical Stacks feature advanced encryption to prevent outside forces from messing with the stored consciousness. Known exploits allow for some data to be edited and rewritten at the cost of stack degradation.</AC.CorticalStackEditExplanation>
-	<AC.Backstories>Backstories</AC.Backstories>
-	<AC.NoDisabledWorkTypes>No disabled work types</AC.NoDisabledWorkTypes>
-	<AC.NoSkillPenalties>No skill penalties</AC.NoSkillPenalties>
-	<AC.FactionAllegiance>Faction allegiance</AC.FactionAllegiance>
-	<AC.RemoveUnwaveringLoyalTrait>Remove unwavering loyal trait:</AC.RemoveUnwaveringLoyalTrait>
-	<AC.Ideology>Ideology</AC.Ideology>
-	<AC.Belief>Belief</AC.Belief>
-	<AC.Certainty>Certainty</AC.Certainty>
-	<AC.ChangingPawnIdeologyWarning>Changing a pawn ideology will also remove any roles assosiated from them.</AC.ChangingPawnIdeologyWarning>
-	<AC.TotalTimeToRewrite>Total time to rewrite: {0}</AC.TotalTimeToRewrite>
-	<AC.TotalStackDegradation>Expected stack degradation: {0}</AC.TotalStackDegradation>
-	<AC.Tutorial>WARNING: The more you edit,the higher the stack degradation will be, causing the stored pawns personality to become more and more unstable. Stack degradation will go away over time after being installed in a body, but can take years.</AC.Tutorial>
-	<AC.ResetAll>Reset all</AC.ResetAll>
-	<AC.StackDegradation>Stack degradation: {0}</AC.StackDegradation>
-	<AC.StartRewriting>Start rewriting</AC.StartRewriting>
-	<AC.CancelStackReset>Cancel stack reset</AC.CancelStackReset>
-	<AC.CancelStackResetDesc>Cancel reseting cortical stack.</AC.CancelStackResetDesc>
-	<AC.CancelStackRewrite>Cancel stack rewrite</AC.CancelStackRewrite>
-	<AC.CancelStackRewriteDesc>Cancel rewriting cortical stack.</AC.CancelStackRewriteDesc>
+	<AC.HackStack>駭入堆疊</AC.HackStack>
+	<AC.HackStackDesc>將堆疊轉換成玩家派系。</AC.HackStackDesc>
+	<AC.ConvertStack>轉換堆疊理念</AC.ConvertStack>
+	<AC.ConvertStackDesc>將堆疊轉換成玩家目標理念。</AC.ConvertStackDesc>
+	<AC.WipeStack>重置堆疊</AC.WipeStack>
+	<AC.WipeStackDesc>出廠重設一個填充皮質堆疊以用於新東家。該操作將會刪除儲存於該堆疊之小人，從而有效的殺死它。</AC.WipeStackDesc>
+	<AC.AlreadyOrderedToHackStack>該堆疊已被放置於解密工作台執行駭入操作。移除訂單以執行新操作。</AC.AlreadyOrderedToHackStack>
+	<AC.AlreadyOrderedToWipeStack>該堆疊已被放置於解密工作台執行重設操作。移除訂單以執行新操作。</AC.AlreadyOrderedToWipeStack>
+	<AC.AlreadyOrderedToRewriteStack>該堆疊已被放置於解密工作台執行重寫操作。移除訂單以執行新操作。</AC.AlreadyOrderedToRewriteStack>
+	<AC.FixedAncientStack>解密遠古堆疊：已修復遠古皮質堆疊！</AC.FixedAncientStack>
+	<AC.UnlockedNewTechnology>解密遠古堆疊：已解鎖新科技 - {0}！</AC.UnlockedNewTechnology>
+	<AC.GainedProgressToTechnology>解密遠古堆疊：已獲得科技進展 - {0}！</AC.GainedProgressToTechnology>
+	<AC.GainedEmptyCorticalStack>解密遠古堆疊：已獲得空白皮質堆疊！</AC.GainedEmptyCorticalStack>
+	<AC.HackingBiocodedFailed>駭入裝備生物鎖：失敗，{0}已被摧毀！</AC.HackingBiocodedFailed>
+	<AC.HackingBiocodedSuccess>駭入裝備生物鎖： 成功！{0}已被解鎖。</AC.HackingBiocodedSuccess>
+	<AC.RewriteStack>重寫堆疊</AC.RewriteStack>
+	<AC.RewriteStackDesc>使用漏洞來編輯儲存於填充皮質堆疊上的數據。</AC.RewriteStackDesc>
+	<AC.RewriteCorticalStack>重寫皮質堆疊</AC.RewriteCorticalStack>
+	<AC.CorticalStackEditExplanation>皮質堆疊具有先進的加密功能，用以預防外部力量對存儲的意識進行破壞。已知的漏洞允許以堆疊退化為代價，編輯和重寫部分數據。</AC.CorticalStackEditExplanation>
+	<AC.Backstories>背景故事</AC.Backstories>
+	<AC.NoDisabledWorkTypes>沒有被禁用的工作類型</AC.NoDisabledWorkTypes>
+	<AC.NoSkillPenalties>沒有技能懲罰</AC.NoSkillPenalties>
+	<AC.FactionAllegiance>派系忠誠度</AC.FactionAllegiance>
+	<AC.RemoveUnwaveringLoyalTrait>移除愚忠的忠誠特質：</AC.RemoveUnwaveringLoyalTrait>
+	<AC.Ideology>理念</AC.Ideology>
+	<AC.Belief>信仰</AC.Belief>
+	<AC.Certainty>確定性</AC.Certainty>
+	<AC.ChangingPawnIdeologyWarning>修改小人的理念同時也會移除與她們相關的任何職位身分。</AC.ChangingPawnIdeologyWarning>
+	<AC.TotalTimeToRewrite>改寫總共所需時間：{0}</AC.TotalTimeToRewrite>
+	<AC.TotalStackDegradation>預期堆疊退化：{0}</AC.TotalStackDegradation>
+	<AC.Tutorial>警告：你編輯的數據越多，堆疊的退化程度越高。這將導致儲存於此的小人性格越來越不穩定。堆疊退化在安裝到身體上後將會隨時間而消失，但可能需要花上幾年。</AC.Tutorial>
+	<AC.ResetAll>全部重置</AC.ResetAll>
+	<AC.StackDegradation>堆疊退化：{0}</AC.StackDegradation>
+	<AC.StartRewriting>開始重寫</AC.StartRewriting>
+	<AC.CancelStackReset>取消堆疊重置</AC.CancelStackReset>
+	<AC.CancelStackResetDesc>取消重置皮質堆疊。</AC.CancelStackResetDesc>
+	<AC.CancelStackRewrite>取消堆疊重寫</AC.CancelStackRewrite>
+	<AC.CancelStackRewriteDesc>取消重寫皮質堆疊。</AC.CancelStackRewriteDesc>
 	<!-- ================================ Mod Settings ====================== -->
-	<AC.General>General</AC.General>
-	<AC.EnableStackSpawning>Enable Stack Spawning</AC.EnableStackSpawning>
-	<AC.EnableStackSpawningDesc>If disabled, Cortical Stacks and Archostacks will NOT spawn on any pawns. You can still craft them, get them as rewards or trade for them.</AC.EnableStackSpawningDesc>
-	<AC.EnableTechprintRequirement>Enable techprint requirements in research projects</AC.EnableTechprintRequirement>
-	<AC.EnableTechprintRequirementDesc>Only affects Royalty owners!</AC.EnableTechprintRequirementDesc>
-	<AC.SleeveGrowing>Sleeve Growing</AC.SleeveGrowing>
-	<AC.TimeToGrowSleeveMultiplier>Time to grow sleeve multiplicator:</AC.TimeToGrowSleeveMultiplier>
-	<AC.TimeToGrowSleeveMultiplierDesc>Multiplicator of the overall time needed to grow a new sleeve.</AC.TimeToGrowSleeveMultiplierDesc>
-	<AC.CostToGrowSleeveMultiplier>Cost to grow sleeve multiplicator:</AC.CostToGrowSleeveMultiplier>
-	<AC.CostToGrowSleeveMultiplierDesc>Multiplicator of the overall neutroamine cost needed to grow a new sleeve.</AC.CostToGrowSleeveMultiplierDesc>
-	<AC.StackRewriting>Stack Rewriting</AC.StackRewriting>
-	<AC.EnableStackDegradation>Enable Stack Degradation</AC.EnableStackDegradation>
-	<AC.EnableStackDegradationDesc>If disabled, Cortical Stacks can be edited to your heart's content without having to worry about stack degradation.</AC.EnableStackDegradationDesc>
-	<AC.StackRewriteEditTimeValueMultiplier>Stack editing time gain multiplier:</AC.StackRewriteEditTimeValueMultiplier>
-	<AC.StackRewriteEditTimeValueMultiplierDesc>Multiplicator of the overall stack editing time.</AC.StackRewriteEditTimeValueMultiplierDesc>
-	<AC.StackRewriteDegradationValueMultiplier>Stack Degradation gain multiplier:</AC.StackRewriteDegradationValueMultiplier>
-	<AC.StackRewriteDegradationValueMultiplierDesc>Multiplies the overall stack degradation that is accumulated through editing.</AC.StackRewriteDegradationValueMultiplierDesc>
-	<AC.EnableArchostackRewriting>Enable Archo Stack rewriting</AC.EnableArchostackRewriting>
-	<AC.EnableArchostackRewritingDesc>Allows you to edit the content of Archo Stacks.</AC.EnableArchostackRewritingDesc>
+	<AC.General>一般</AC.General>
+	<AC.EnableStackSpawning>開啟堆疊生成</AC.EnableStackSpawning>
+	<AC.EnableStackSpawningDesc>如果關閉，皮質堆疊以及超凡堆疊將不會生成於任何小人上。你仍然可以製作、以獎勵或是交易獲取它們。</AC.EnableStackSpawningDesc>
+	<AC.EnableTechprintRequirement>在研究項目啟用藍圖要求</AC.EnableTechprintRequirement>
+	<AC.EnableTechprintRequirementDesc>只影響於Royalty擁有者！</AC.EnableTechprintRequirementDesc>
+	<AC.SleeveGrowing>義體培養</AC.SleeveGrowing>
+	<AC.TimeToGrowSleeveMultiplier>義體培養時間倍率：</AC.TimeToGrowSleeveMultiplier>
+	<AC.TimeToGrowSleeveMultiplierDesc>培養新義體整體所需時間倍率。</AC.TimeToGrowSleeveMultiplierDesc>
+	<AC.CostToGrowSleeveMultiplier>義體培養花費倍率：</AC.CostToGrowSleeveMultiplier>
+	<AC.CostToGrowSleeveMultiplierDesc>培養新義體整體所需花費的中性胺倍率。</AC.CostToGrowSleeveMultiplierDesc>
+	<AC.StackRewriting>堆疊重寫</AC.StackRewriting>
+	<AC.EnableStackDegradation>允許堆疊退化</AC.EnableStackDegradation>
+	<AC.EnableStackDegradationDesc>如果關閉，皮質堆疊可以根據喜好編輯而不必擔心退化。</AC.EnableStackDegradationDesc>
+	<AC.StackRewriteEditTimeValueMultiplier>堆疊編輯時間倍率：</AC.StackRewriteEditTimeValueMultiplier>
+	<AC.StackRewriteEditTimeValueMultiplierDesc>堆疊編輯整體所需時間倍率。</AC.StackRewriteEditTimeValueMultiplierDesc>
+	<AC.StackRewriteDegradationValueMultiplier>堆疊退化累積倍率：</AC.StackRewriteDegradationValueMultiplier>
+	<AC.StackRewriteDegradationValueMultiplierDesc>透過編輯堆疊累積的整體退化倍率。</AC.StackRewriteDegradationValueMultiplierDesc>
+	<AC.EnableArchostackRewriting>允許超凡堆疊重寫</AC.EnableArchostackRewriting>
+	<AC.EnableArchostackRewritingDesc>允許你編輯超凡堆疊的內容。</AC.EnableArchostackRewritingDesc>
 
 </LanguageData>
