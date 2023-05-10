@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- ================================ Sleeve Incubator ====================== -->
+	<VFEU_SleeveIncubator.label>義體培養艙</VFEU_SleeveIncubator.label>
+	<VFEU_SleeveIncubator.description>一個極其複雜的營養艙，能夠培養出沒有自我思想的義體。在培養過程中使用了中性胺，以使身體在不同階段成長。在整個培養過程中，培養艙必須全程保持供電。如果長時間無電力供給，培養過程將會失敗。\n\n簡單低階的義體可以被快速製造出來，然而更複雜且精密的義體則需要花費更長時間，同時需要更多的營養物質來確保身體正常發育。一旦義體完成生長，應該要被取出和照顧，因為義體並沒有能力獨立移動或思考，包括自我餵養。</VFEU_SleeveIncubator.description>
+	<!-- ================================ Sleeve Casket	====================== -->
+	<VFEU_SleeveCasket.label>義體套筒</VFEU_SleeveCasket.label>
+	<VFEU_SleeveCasket.description>一個開放的石棺，設計用來使義體保持假死狀態的同時允許進行醫療服務，像是安裝植入物或是仿生物。</VFEU_SleeveCasket.description>
+	<!-- ================================ Decryption Bench ====================== -->
+	<VFEU_DecryptionBench.label>解密工作臺</VFEU_DecryptionBench.label>
+	<VFEU_DecryptionBench.description>一個複雜的工作臺，允許用戶連接至皮質堆疊以改變內涵數據，如改變效忠者或甚至是將資料清除乾淨。也可以解除物品上的生物鎖。\n\n由於這個過程相當激進，解密過程中有可能會摧毀物品。</VFEU_DecryptionBench.description>
+
+</LanguageData>

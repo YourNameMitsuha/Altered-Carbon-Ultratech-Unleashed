@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- ================================ Hacking Ancient Stacks ====================== -->
+	<VFEU_DecryptAncientStack.label>解密遠古堆疊</VFEU_DecryptAncientStack.label>
+	<VFEU_DecryptAncientStack.description>解密遠古堆疊，試圖修復他們或從中獲取訊息。</VFEU_DecryptAncientStack.description>
+	<VFEU_DecryptAncientStack.jobString>解密遠古堆疊。</VFEU_DecryptAncientStack.jobString>
+
+	<!-- ================================ Hacking Biocoded things ====================== -->
+	<VFEU_HackBiocodedThings.label>破解帶有生物鎖的物品</VFEU_HackBiocodedThings.label>
+	<VFEU_HackBiocodedThings.description>試圖駭入並移除武器和裝備上的生物鎖以使其可用。如果失敗，該物品將會被摧毀。</VFEU_HackBiocodedThings.description>
+	<VFEU_HackBiocodedThings.jobString>破解帶有生物鎖的物品。</VFEU_HackBiocodedThings.jobString>
+
+	<!-- ================================ Hacking - Wipe filled cortical stacks ====================== -->
+	<VFEU_WipeFilledCorticalStack.label>清除皮層堆疊</VFEU_WipeFilledCorticalStack.label>
+	<VFEU_WipeFilledCorticalStack.description>清除皮層堆疊，並移除儲存在內的小人。</VFEU_WipeFilledCorticalStack.description>
+	<VFEU_WipeFilledCorticalStack.jobString>清除皮層堆疊。</VFEU_WipeFilledCorticalStack.jobString>
+</LanguageData>
