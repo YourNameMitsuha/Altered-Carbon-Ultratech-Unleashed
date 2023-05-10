@@ -1,46 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<LanguageData>
 	<!-- ================================ Degradation Thoughts ====================== -->
-	<ThoughtDef>
-		<defName>AC_StackDegradationThought</defName>
-		<thoughtClass>AlteredCarbon.Thought_StackDegradation</thoughtClass>
-		<hediff>AC_StackDegradation</hediff>
-		<stackLimit>1</stackLimit>
-		<durationDays>12</durationDays>
-		<validWhileDespawned>true</validWhileDespawned>
-		<developmentalStageFilter>Child, Adult</developmentalStageFilter>
-		<doNotApplyToQuestLodgers>true</doNotApplyToQuestLodgers>
-		<stages>
-			<li>
-				<label>Bugging feeling</label>
-				<description>Somethings bugging me, but I can't but my finger on it.</description>
-				<baseMoodEffect>-3</baseMoodEffect>
-			</li>
-			<li>
-				<label>Feeling off</label>
-				<description>Something feels off, but whenever I put my finger on it it slips away...</description>
-				<baseMoodEffect>-8</baseMoodEffect>
-			</li>
-			<li>
-				<label>Something is wrong</label>
-				<description>Something is wrong with me, this isnt right...</description>
-				<baseMoodEffect>-12</baseMoodEffect>
-			</li>
-			<li>
-				<label>Feeling unlike myself</label>
-				<description>I dont feel like myself anymore, my memory... things dont make sense!</description>
-				<baseMoodEffect>-20</baseMoodEffect>
-			</li>
-			<li>
-				<label>Not myself</label>
-				<description>My memories and who I am now dont line up, someone messed with my mind!</description>
-				<baseMoodEffect>-25</baseMoodEffect>
-			</li>
-			<li>
-				<label>Stranger to myself</label>
-				<description>I feel like a stranger to myself. What memories are my own and which ones where altered? I cant live like this!</description>
-				<baseMoodEffect>-50</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-</Defs>
+	<AC_StackDegradationThought.stages.0.label>煩人的感覺</AC_StackDegradationThought.stages.0.label>
+	<AC_StackDegradationThought.stages.0.description>有些事情困擾著我，但我卻無法指出。</AC_StackDegradationThought.stages.0.description>
+
+	<AC_StackDegradationThought.stages.1.label>感覺不舒服</AC_StackDegradationThought.stages.0.label>
+	<AC_StackDegradationThought.stages.1.description>感覺有點不太對勁，但當我想指出時它卻溜走了...</AC_StackDegradationThought.stages.0.description>
+
+	<AC_StackDegradationThought.stages.2.label>事情不太對</AC_StackDegradationThought.stages.0.label>
+	<AC_StackDegradationThought.stages.2.description>我有點不太對勁，這是不對的...</AC_StackDegradationThought.stages.0.description>
+
+	<AC_StackDegradationThought.stages.3.label>感覺不像我自己</AC_StackDegradationThought.stages.0.label>
+	<AC_StackDegradationThought.stages.3.description>我不再感覺我是我自己了，我的記憶...一切事情都沒意義了！</AC_StackDegradationThought.stages.0.description>
+
+	<AC_StackDegradationThought.stages.4.label>不是我自己</AC_StackDegradationThought.stages.0.label>
+	<AC_StackDegradationThought.stages.4.description>我的記憶跟我現在的身分並不一致，有人擾亂了我的思緒！</AC_StackDegradationThought.stages.0.description>
+
+	<AC_StackDegradationThought.stages.5.label>陌生的自己</AC_StackDegradationThought.stages.0.label>
+	<AC_StackDegradationThought.stages.5.description>我覺得我自己像個陌生人，哪些記憶是我的而哪些記憶是被改變的？我不能在這樣生活下去了！</AC_StackDegradationThought.stages.0.description>
+</LanguageData>

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-	<!-- ================================ Used Archostack ====================== -->
-	<HistoryEventDef>
-		<defName>AC_UsedArchoStack</defName>
-		<label>killed faction member with archo stack</label>
-	</HistoryEventDef>
-	<!-- ================================ Rewrote Stack ====================== -->
-	<HistoryEventDef>
-		<defName>AC_RewroteStack</defName>
-		<label>rewrote stack of faction member</label>
-	</HistoryEventDef>
-</Defs>
+<LanguageData>
+
+	<AC_UsedArchoStack.label>以超凡堆疊殺死派系成員</AC_UsedArchoStack.label>
+	<AC_RewroteStack.label>重寫了派系成員的堆疊</AC_RewroteStack.label>
+
+</LanguageData>

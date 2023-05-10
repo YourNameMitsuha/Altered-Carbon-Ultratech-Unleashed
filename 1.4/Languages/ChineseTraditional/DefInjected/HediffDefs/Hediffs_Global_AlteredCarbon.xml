@@ -1,45 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Defs>
-	<!-- ================================ Cortical Stack Degradation ====================== -->
-	<HediffDef>
-		<defName>AC_StackDegradation</defName>
-		<label>degradation</label>
-		<labelNoun>stack degradation</labelNoun>
-		<hediffClass>AlteredCarbon.Hediff_StackDegradation</hediffClass>
-		<description>Cortical stack degradation caused by an unauthorized, aggressive rewrite.</description>
-		<isBad>false</isBad>
-		<defaultLabelColor>(1, 0, 0)</defaultLabelColor>
-	</HediffDef>
-	<!-- ================================ Degradation - Brain Trauma ====================== -->
-	<HediffDef>
-		<defName>AC_BrainTrauma</defName>
-		<label>brain trauma</label>
-		<labelNoun>a brain trauma</labelNoun>
-		<description>A brain injury resulting in loss of communication, forgetfulness, and involuntary motor functions.</description>
-		<hediffClass>HediffWithComps</hediffClass>
-		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
-		<stages>
-			<li>
-				<partIgnoreMissingHP>true</partIgnoreMissingHP>
-				<!-- to avoid penalties from brain injuries, so manipulation is 100%+ -->
-				<opinionOfOthersFactor>0</opinionOfOthersFactor>
-				<partEfficiencyOffset>-0.15</partEfficiencyOffset>
-				<forgetMemoryThoughtMtbDays>14</forgetMemoryThoughtMtbDays>
-				<capMods>
-					<li>
-						<capacity>Talking</capacity>
-						<setMax>0</setMax>
-					</li>
-					<li>
-						<capacity>Hearing</capacity>
-						<setMax>0</setMax>
-					</li>
-					<li>
-						<capacity>Manipulation</capacity>
-						<offset>0.5</offset>
-					</li>
-				</capMods>
-			</li>
-		</stages>
-	</HediffDef>
-</Defs>
+<LanguageData>
+
+	<AC_StackDegradation.label>退化</AC_StackDegradation.label>
+	<AC_StackDegradation.labelNoun>堆疊退化</AC_StackDegradation.labelNoun>
+	<AC_StackDegradation.description>由未經授權且激進的重寫所導致的皮層堆疊退化。</AC_StackDegradation.description>
+
+	<AC_BrainTrauma.label>腦外傷</AC_BrainTrauma.label>
+	<AC_BrainTrauma.labelNoun>腦外傷</AC_BrainTrauma.labelNoun>
+	<AC_BrainTrauma.description>導致喪失交流、遺忘和不自主運動功能的腦外傷。</AC_BrainTrauma.description>
+
+</LanguageData>

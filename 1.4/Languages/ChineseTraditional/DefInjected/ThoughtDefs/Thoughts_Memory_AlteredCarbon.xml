@@ -1,156 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Defs>
+<LanguageData>
 	<!-- ================================ Duplication Thoughts - Lovers ====================== -->
-	<ThoughtDef>
-		<defName>AC_JustCopy</defName>
-		<durationDays>60</durationDays>
-		<stackLimit>1</stackLimit>
-		<nullifyingTraits>
-			<li>Transhumanist</li>
-			<li>Psychopath</li>
-		</nullifyingTraits>
-		<nullifyingPrecepts>
-			<li MayRequire="Ludeon.RimWorld.Ideology">AC_StackDuplicating_DontCare</li>
-			<li MayRequire="Ludeon.RimWorld.Ideology">AC_StackDuplicating_Enlightened</li>
-		</nullifyingPrecepts>
-		<stages>
-			<li>
-				<label>Just a copy</label>
-				<description>I am nothing more than a copy... What even am I?</description>
-				<baseMoodEffect>-15</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef>
-		<defName>AC_LostMySpouse</defName>
-		<durationDays>30</durationDays>
-		<stackLimit>1</stackLimit>
-		<stages>
-			<li>
-				<label>Lost my spouse</label>
-				<description>My spouse stayed with my original, but I still love them. This isn't fair...</description>
-				<baseMoodEffect>-10</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef>
-		<defName>AC_LostMyFiance</defName>
-		<durationDays>30</durationDays>
-		<stackLimit>1</stackLimit>
-		<stages>
-			<li>
-				<label>Lost my fiance</label>
-				<description>My fiance stayed with my original but I still love them. This isn't fair...</description>
-				<baseMoodEffect>-10</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef>
-		<defName>AC_LostMyLover</defName>
-		<durationDays>30</durationDays>
-		<stackLimit>1</stackLimit>
-		<stages>
-			<li>
-				<label>Lost my lover</label>
-				<description>My lover stayed with my original, but I still love them. This isn't fair...</description>
-				<baseMoodEffect>-10</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
+	<AC_JustCopy.label>只是個複製品</AC_JustCopy.label>
+	<AC_JustCopy.description>我只不過是個複製品...我到底是什麼？</AC_JustCopy.description>
+
+	<AC_LostMySpouse.label>失去我的配偶</AC_LostMySpouse.label>
+	<AC_LostMySpouse.description>我的配偶愛著原先的我，但是我仍然愛他們。這不公平...</AC_LostMySpouse.description>
+
+	<AC_LostMyFiance.label>失去我的未婚夫</AC_LostMyFiance.label>
+	<AC_LostMyFiance.description>我的未婚夫原先的我，但是我仍然愛他們。這不公平...</AC_LostMyFiance.description>
+
+	<AC_LostMyLover.label>失去我的愛人</AC_LostMyLover.label>
+	<AC_LostMyLover.description>我的愛人原先的我，但是我仍然愛他們。這不公平...</AC_LostMyLover.description>
+
 	<!-- ================================ Duplication Thoughts - Original Died or Lost ====================== -->
-	<ThoughtDef ParentName="DeathMemoryFamily">
-		<defName>AC_MyOriginalDied</defName>
-		<nullifyingTraits>
-			<li>Psychopath</li>
-			<li>Bloodlust</li>
-		</nullifyingTraits>
-		<stages>
-			<li>
-				<label>my original copy {0} died</label>
-				<description>My original copy is dead. I am alone again.</description>
-				<baseMoodEffect>-15</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef ParentName="LostMemoryFamily">
-		<defName>AC_MyOriginalLostMale</defName>
-		<stages>
-			<li>
-				<label>my original copy {0} is missing</label>
-				<description>My original copy has gone missing. I hope he will get back to us someday.</description>
-				<baseMoodEffect>-14</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef ParentName="LostMemoryFamily">
-		<defName>AC_MyOriginalLostFemale</defName>
-		<stages>
-			<li>
-				<label>my original copy {0} is missing</label>
-				<description>My original copy has gone missing. I hope she will get back to us someday.</description>
-				<baseMoodEffect>-14</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef>
-		<defName>AC_KilledMyOriginal</defName>
-		<thoughtClass>Thought_MemorySocial</thoughtClass>
-		<durationDays>120</durationDays>
-		<stackLimit>300</stackLimit>
-		<stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
-		<stages>
-			<li>
-				<label>killed my original</label>
-				<baseOpinionOffset>-80</baseOpinionOffset>
-			</li>
-		</stages>
-	</ThoughtDef>
+	<AC_MyOriginalDied.label>最原始的我{0}死了</AC_MyOriginalDied.label>
+	<AC_MyOriginalDied.description>最原始的我死了，現在我又是孤單一人。</AC_MyOriginalDied.description>
+
+	<AC_MyOriginalLostMale.label>最原始的我{0}失蹤了</AC_MyOriginalLostMale.label>
+	<AC_MyOriginalLostMale.description>最原始的我失蹤了，希望他有天能回來我們身邊。</AC_MyOriginalLostMale.description>
+
+	<AC_MyOriginalLostFemale.label>最原始的我{0}失蹤了</AC_MyOriginalLostFemale.label>
+	<AC_MyOriginalLostFemale.description>最原始的我失蹤了，希望她有天能回來我們身邊。</AC_MyOriginalLostFemale.description>
+
+	<AC_KilledMyOriginal.label>殺死了最原始的我</AC_KilledMyOriginal.label>
+
 	<!-- ================================ Duplication Thoughts - Copy Died or Lost ====================== -->
-	<ThoughtDef ParentName="DeathMemoryFamily">
-		<defName>AC_MyCopyDied</defName>
-		<nullifyingTraits>
-			<li>Psychopath</li>
-			<li>Bloodlust</li>
-		</nullifyingTraits>
-		<stages>
-			<li>
-				<label>my copy {0} died</label>
-				<description>My copy is dead. I am alone again.</description>
-				<baseMoodEffect>-15</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef ParentName="LostMemoryFamily">
-		<defName>AC_MyCopyLostMale</defName>
-		<stages>
-			<li>
-				<label>my copy {0} is missing</label>
-				<description>My copy has gone missing. I hope he will get back to us someday.</description>
-				<baseMoodEffect>-14</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef ParentName="LostMemoryFamily">
-		<defName>AC_MyCopyLostFemale</defName>
-		<stages>
-			<li>
-				<label>my copy {0} is missing</label>
-				<description>My copy has gone missing. I hope she will get back to us someday.</description>
-				<baseMoodEffect>-14</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	<ThoughtDef>
-		<defName>AC_KilledMyCopy</defName>
-		<thoughtClass>Thought_MemorySocial</thoughtClass>
-		<durationDays>120</durationDays>
-		<stackLimit>300</stackLimit>
-		<stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
-		<stages>
-			<li>
-				<label>killed my copy</label>
-				<baseOpinionOffset>-80</baseOpinionOffset>
-			</li>
-		</stages>
-	</ThoughtDef>
-</Defs>
+	<AC_MyCopyDied.label>我的複製品{0}死了</AC_MyCopyDied.label>
+	<AC_MyCopyDied.description>我的複製品死了，現在我又是孤單一人。</AC_MyCopyDied.description>
+
+	<AC_MyCopyLostMale.label>我最初的複製品{0}失蹤了</AC_MyCopyLostMale.label>
+	<AC_MyCopyLostMale.description>我最初的複製品失蹤了，希望他有天能回來我們身邊。</AC_MyCopyLostMale.description>
+
+	<AC_MyCopyLostFemale.label>我最初的複製品{0}失蹤了</AC_MyCopyLostFemale.label>
+	<AC_MyCopyLostFemale.description>我最初的複製品失蹤了，希望她有天能回來我們身邊。</AC_MyCopyLostFemale.description>
+
+	<AC_KilledMyCopy.label>殺死了我的複製品</AC_KilledMyCopy.label>
+</LanguageData>

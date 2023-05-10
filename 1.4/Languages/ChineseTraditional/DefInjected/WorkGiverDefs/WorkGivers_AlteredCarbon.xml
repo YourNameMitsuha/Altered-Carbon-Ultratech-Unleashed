@@ -1,95 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Defs>
-	<!-- ================================ Duplicate Stack ====================== -->
-	<WorkGiverDef>
-		<defName>AC_DuplicateStacks</defName>
-		<label>duplicate stacks</label>
-		<giverClass>AlteredCarbon.WorkGiver_DuplicateStacks</giverClass>
-		<workType>Research</workType>
-		<verb>duplicate</verb>
-		<gerund>duplicating</gerund>
-		<priorityInType>999</priorityInType>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-	<!-- ================================ Banking stacks ====================== -->
-	<WorkGiverDef>
-		<defName>AC_HaulStacksToStorage</defName>
-		<label>haul stacks</label>
-		<giverClass>AlteredCarbon.WorkGiver_HaulStacks</giverClass>
-		<workType>Hauling</workType>
-		<verb>bank</verb>
-		<gerund>banking</gerund>
-		<priorityInType>1000</priorityInType>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-	<!-- ================================ Create stack from backup ====================== -->
-	<WorkGiverDef>
-		<defName>AC_CreateStackFromBackup</defName>
-		<label>restore stack from backup</label>
-		<giverClass>AlteredCarbon.WorkGiver_CreateStackFromBackup</giverClass>
-		<workType>Research</workType>
-		<verb>restore stack from backup</verb>
-		<gerund>restoring stack from backup</gerund>
-		<priorityInType>999</priorityInType>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-	<!-- ================================ Inserting genepack ====================== -->
-	<WorkGiverDef>
-		<defName>AC_InsertGenepack</defName>
-		<label>insert genepack into gene centrifuge</label>
-		<giverClass>AlteredCarbon.WorkGiver_InsertGenepack</giverClass>
-		<workType>Hauling</workType>
-		<verb>insert into gene centrifuge</verb>
-		<gerund>inserting into gene centrifuge</gerund>
-		<priorityInType>1000</priorityInType>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-	<!-- ================================ Inserting xenogerm ====================== -->
-	<WorkGiverDef>
-		<defName>AC_InsertXenogerm</defName>
-		<label>insert xenogerm into xenogerm duplicator</label>
-		<giverClass>AlteredCarbon.WorkGiver_InsertXenogerm</giverClass>
-		<workType>Hauling</workType>
-		<verb>insert into xenogerm duplicator</verb>
-		<gerund>inserting into xenogerm duplicator</gerund>
-		<priorityInType>1000</priorityInType>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-	<!-- ================================ Hauling corpse to sleeve grower ====================== -->
-	<WorkGiverDef>
-		<defName>AC_HaulCorpseToSleeveGrower</defName>
-		<label>haul corpse to sleeve grower</label>
-		<giverClass>AlteredCarbon.WorkGiver_HaulCorpseToSleeveGrower</giverClass>
-		<workType>Hauling</workType>
-		<verb>haul corpse to</verb>
-		<gerund>hauling corpse to</gerund>
-		<priorityInType>1000</priorityInType>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-	<!-- ================================ Cancel body repurposing ====================== -->
-	<WorkGiverDef>
-		<defName>AC_CancelRepurposingBody</defName>
-		<label>cancel repurposing body</label>
-		<giverClass>AlteredCarbon.WorkGiver_CancelRepurposingBody</giverClass>
-		<workType>BasicWorker</workType>
-		<priorityInType>50</priorityInType>
-		<verb>cancel repurposing body</verb>
-		<gerund>canceling repurposing body at</gerund>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-		<prioritizeSustains>true</prioritizeSustains>
-	</WorkGiverDef>
-</Defs>
+<LanguageData>
+	<AC_DuplicateStacks.label>複製堆疊</AC_DuplicateStacks.label>
+	<AC_DuplicateStacks.verb>複製堆疊</AC_DuplicateStacks.verb>
+	<AC_DuplicateStacks.gerund>複製堆疊</AC_DuplicateStacks.gerund>
+
+	<AC_HaulStacksToStorage.label>搬運堆疊</AC_HaulStacksToStorage.label>
+	<AC_HaulStacksToStorage.verb>搬運堆疊</AC_HaulStacksToStorage.verb>
+	<AC_HaulStacksToStorage.gerund>搬運堆疊</AC_HaulStacksToStorage.gerund>
+
+	<AC_CreateStackFromBackup.label>從備份中恢復堆疊</AC_CreateStackFromBackup.label>
+	<AC_CreateStackFromBackup.verb>從備份中恢復堆疊</AC_CreateStackFromBackup.verb>
+	<AC_CreateStackFromBackup.gerund>從備份中恢復堆疊</AC_CreateStackFromBackup.gerund>
+
+	<AC_InsertGenepack.label>將基因包插入基因離心機</AC_InsertGenepack.label>
+	<AC_InsertGenepack.verb>將基因包插入基因離心機</AC_InsertGenepack.verb>
+	<AC_InsertGenepack.gerund>將基因包插入基因離心機</AC_InsertGenepack.gerund>
+
+	<AC_InsertXenogerm.label>將異種基因插入異種基因複製機</AC_InsertXenogerm.label>
+	<AC_InsertXenogerm.verb>將異種基因插入異種基因複製機</AC_InsertXenogerm.verb>
+	<AC_InsertXenogerm.gerund>將異種基因插入異種基因複製機</AC_InsertXenogerm.gerund>
+
+	<AC_HaulCorpseToSleeveGrower.label>將屍體搬至異體培養艙</AC_HaulCorpseToSleeveGrower.label>
+	<AC_HaulCorpseToSleeveGrower.verb>將屍體搬至</AC_HaulCorpseToSleeveGrower.verb>
+	<AC_HaulCorpseToSleeveGrower.gerund>將屍體搬至</AC_HaulCorpseToSleeveGrower.gerund>
+
+	<AC_CancelRepurposingBody.label>取消屍體再利用</AC_CancelRepurposingBody.label>
+	<AC_CancelRepurposingBody.verb>取消屍體再利用</AC_CancelRepurposingBody.verb>
+	<AC_CancelRepurposingBody.gerund>取消屍體再利用於</AC_CancelRepurposingBody.gerund>
+</LanguageData>

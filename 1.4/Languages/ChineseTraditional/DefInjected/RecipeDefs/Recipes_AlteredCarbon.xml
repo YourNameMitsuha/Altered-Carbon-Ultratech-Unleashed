@@ -1,173 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Defs>
-	<!-- ================================ Craft cortical stacks ====================== -->
-	<RecipeDef>
-		<defName>AC_MakeEmptyCorticalStack</defName>
-		<label>make empty cortical stack</label>
-		<description>Make empty cortical stack.</description>
-		<jobString>Making empty cortical stack.</jobString>
-		<workAmount>18500</workAmount>
-		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-		<effectWorking>Cook</effectWorking>
-		<soundWorking>Recipe_Machining</soundWorking>
-		<unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>ComponentSpacer</li>
-					</thingDefs>
-				</filter>
-				<count>6</count>
-			</li>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Plasteel</li>
-					</thingDefs>
-				</filter>
-				<count>15</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>ComponentSpacer</li>
-				<li>Plasteel</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<products>
-			<VFEU_EmptyCorticalStack>1</VFEU_EmptyCorticalStack>
-		</products>
-		<researchPrerequisite>AC_CorticalCrafting</researchPrerequisite>
-		<workSkill>Crafting</workSkill>
-		<skillRequirements>
-			<Crafting>15</Crafting>
-		</skillRequirements>
-		<displayPriority>15</displayPriority>
-	</RecipeDef>
-	<!-- ================================ Archostacks - Install Empty ====================== -->
-	<RecipeDef ParentName="SurgeryInstallImplantBase">
-		<defName>AC_InstallEmptyArchoStack</defName>
-		<label>install empty archo stack</label>
-		<description>Install an empty archo stack.</description>
-		<descriptionHyperlinks>
-			<ThingDef>AC_EmptyArchoStack</ThingDef>
-		</descriptionHyperlinks>
-		<workerClass>AlteredCarbon.Recipe_InstallCorticalStack</workerClass>
-		<jobString>Installing archo stack.</jobString>
-		<uiIconThing>AC_EmptyArchoStack</uiIconThing>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>AC_EmptyArchoStack</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>AC_EmptyArchoStack</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<appliedOnFixedBodyParts>
-			<li>Neck</li>
-		</appliedOnFixedBodyParts>
-		<addsHediff>AC_ArchoStack</addsHediff>
-	</RecipeDef>
-	<!-- ================================ Archostacks - Install Filled ====================== -->
-	<RecipeDef ParentName="SurgeryInstallImplantBase">
-		<defName>AC_InstallArchoStack</defName>
-		<label>install filled archo stack</label>
-		<description>Install an archo stack.</description>
-		<descriptionHyperlinks>
-			<ThingDef>AC_FilledArchoStack</ThingDef>
-		</descriptionHyperlinks>
-		<workerClass>AlteredCarbon.Recipe_InstallFilledCorticalStack</workerClass>
-		<jobString>Installing archo stack.</jobString>
-		<uiIconThing>AC_FilledArchoStack</uiIconThing>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>AC_FilledArchoStack</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>AC_FilledArchoStack</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<appliedOnFixedBodyParts>
-			<li>Neck</li>
-		</appliedOnFixedBodyParts>
-		<addsHediff>AC_ArchoStack</addsHediff>
-	</RecipeDef>
-	<!-- ================================ Archostacks - Remove ====================== -->
-	<RecipeDef ParentName="SurgeryRemoveImplantBase">
-		<defName>AC_RemoveArchoStack</defName>
-		<label>remove archo stack</label>
-		<description>Remove archo stack.</description>
-		<descriptionHyperlinks>
-			<ThingDef>AC_FilledArchoStack</ThingDef>
-		</descriptionHyperlinks>
-		<workerClass>AlteredCarbon.Recipe_RemoveCorticalStack</workerClass>
-		<jobString>Removing archo stack.</jobString>
-		<uiIconThing>AC_FilledArchoStack</uiIconThing>
-		<removesHediff>AC_ArchoStack</removesHediff>
-	</RecipeDef>
-	<!-- ================================ Rewrite filled cortical stacks ====================== -->
-	<RecipeDef ParentName="VFEU_RecipeHacking">
-		<defName>AC_RewriteFilledCorticalStack</defName>
-		<label>Rewrite cortical stack</label>
-		<description>Rewrite a cortical stack.</description>
-		<jobString>rewriting cortical stack.</jobString>
-		<workerClass>AlteredCarbon.Recipe_RewriteFilledCorticalStack</workerClass>
-		<workAmount>10000000000</workAmount>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>VFEU_FilledCorticalStack</li>
-					</thingDefs>
-					<specialFiltersToAllow>
-						<li>VFEU_AllowStacksColonist</li>
-						<li>VFEU_AllowStacksStranger</li>
-						<li>VFEU_AllowStacksHostile</li>
-					</specialFiltersToAllow>
-				</filter>
-				<count>1</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>VFEU_FilledCorticalStack</li>
-			</thingDefs>
-			<specialFiltersToAllow>
-				<li>VFEU_AllowStacksColonist</li>
-				<li>VFEU_AllowStacksStranger</li>
-				<li>VFEU_AllowStacksHostile</li>
-			</specialFiltersToAllow>
-		</fixedIngredientFilter>
-		<defaultIngredientFilter>
-			<thingDefs>
-				<li>VFEU_FilledCorticalStack</li>
-			</thingDefs>
-			<specialFiltersToAllow>
-				<li>VFEU_AllowStacksColonist</li>
-				<li>VFEU_AllowStacksStranger</li>
-				<li>VFEU_AllowStacksHostile</li>
-			</specialFiltersToAllow>
-		</defaultIngredientFilter>
-		<skillRequirements>
-			<Intellectual>10</Intellectual>
-		</skillRequirements>
-		<researchPrerequisites>
-			<li>AC_RewriteCorticalStack</li>
-		</researchPrerequisites>
-	</RecipeDef>
-</Defs>
+<LanguageData>
+
+	<AC_MakeEmptyCorticalStack.label>製作空白皮質堆疊</AC_MakeEmptyCorticalStack.label>
+	<AC_MakeEmptyCorticalStack.description>製作空白皮質堆疊。</AC_MakeEmptyCorticalStack.description>
+	<AC_MakeEmptyCorticalStack.jobString>製作空白皮質堆疊。</AC_MakeEmptyCorticalStack.jobString>
+
+	<AC_InstallEmptyArchoStack.label>安裝空白超凡堆疊</AC_InstallEmptyArchoStack.label>
+	<AC_InstallEmptyArchoStack.description>安裝一個空白超凡堆疊。</AC_InstallEmptyArchoStack.description>
+	<AC_InstallEmptyArchoStack.jobString>安裝超凡堆疊。</AC_InstallEmptyArchoStack.jobString>
+
+	<AC_InstallArchoStack.label>安裝已填充的超凡堆疊</AC_InstallArchoStack.label>
+	<AC_InstallArchoStack.description>安裝一個超凡堆疊。</AC_InstallArchoStack.description>
+	<AC_InstallArchoStack.jobString>安裝超凡堆疊。</AC_InstallArchoStack.jobString>
+
+	<AC_RemoveArchoStack.label>移除超凡堆疊</AC_RemoveArchoStack.label>
+	<AC_RemoveArchoStack.description>移除超凡堆疊。</AC_RemoveArchoStack.description>
+	<AC_RemoveArchoStack.jobString>移除超凡堆疊。</AC_RemoveArchoStack.jobString>
+
+	<AC_RewriteFilledCorticalStack.label>重寫皮質堆疊</AC_RewriteFilledCorticalStack.label>
+	<AC_RewriteFilledCorticalStack.description>重寫一個皮質堆疊。</AC_RewriteFilledCorticalStack.description>
+	<AC_RewriteFilledCorticalStack.jobString>重寫超凡堆疊。</AC_RewriteFilledCorticalStack.jobString>
+
+</LanguageData>

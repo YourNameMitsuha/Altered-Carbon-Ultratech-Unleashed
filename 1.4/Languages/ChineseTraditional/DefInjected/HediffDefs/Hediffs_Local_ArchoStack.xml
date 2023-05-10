@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Defs>
-	<!-- ================================ Archostack ====================== -->
-	<HediffDef ParentName="ImplantHediffBase">
-		<defName>AC_ArchoStack</defName>
-		<label>archo stack</label>
-		<labelNoun>a archo stack</labelNoun>
-		<hediffClass>AlteredCarbon.Hediff_CorticalStack</hediffClass>
-		<description>An installed archo stack.</description>
-		<descriptionHyperlinks>
-			<ThingDef>AC_FilledArchoStack</ThingDef>
-		</descriptionHyperlinks>
-		<spawnThingOnRemoved>AC_FilledArchoStack</spawnThingOnRemoved>
-		<isBad>false</isBad>
-		<addedPartProps>
-			<solid>true</solid>
-			<partEfficiency>1.25</partEfficiency>
-			<betterThanNatural>true</betterThanNatural>
-		</addedPartProps>
-	</HediffDef>
-</Defs>
+<LanguageData>
+
+	<AC_ArchoStack.label>超凡堆疊</AC_ArchoStack.label>
+	<AC_ArchoStack.labelNoun>一個超凡堆疊</AC_ArchoStack.labelNoun>
+	<AC_ArchoStack.description>一個已植入的超凡堆疊。</AC_ArchoStack.description>
+
+</LanguageData>

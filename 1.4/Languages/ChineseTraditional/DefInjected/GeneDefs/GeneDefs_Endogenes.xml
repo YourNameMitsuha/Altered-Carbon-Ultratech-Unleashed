@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-	<!-- ================================ Gene - Classic Orange Hair ====================== -->
-	<GeneDef ParentName="GeneHairColorBase">
-		<defName>AC_Hair_OrangeReddish</defName>
-		<label>bright-red hair</label>
-		<hairColorOverride>(233, 146, 85)</hairColorOverride>
-		<selectionWeight>0.05</selectionWeight>
-		<displayOrderInCategory>90</displayOrderInCategory>
-	</GeneDef>
-</Defs>
+<LanguageData>
+	<AC_Hair_OrangeReddish.label>亮紅色頭髮</AC_Hair_OrangeReddish.label>
+</LanguageData>

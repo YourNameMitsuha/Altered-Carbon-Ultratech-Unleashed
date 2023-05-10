@@ -171,12 +171,12 @@
 	<!-- ================================ Xenogerm duplicator ====================== -->
 	<AC.DuplicateXenogerm>複製異種基因</AC.DuplicateXenogerm>
 	<AC.DuplicateXenogermDesc>選擇一個異種基因來複製。包含遠古基因的異種基因需要裝載遠古膠囊。</AC.DuplicateXenogermDesc>
-	<AC.DuplicatorWorking>異種基因複製器正在運作</AC.DuplicatorWorking>
+	<AC.DuplicatorWorking>異種基因複製機正在運作</AC.DuplicatorWorking>
 	<AC.CancelXenogermDuplication>取消異種基因複製</AC.CancelXenogermDuplication>
 	<AC.CancelXenogermDuplicationDesc>取消異種基因複製。</AC.CancelXenogermDuplicationDesc>
 	<AC.DuplicationProgress>複製中：{0}</AC.DuplicationProgress>
 	<AC.ContainsXenogerm>包含：{0}</AC.ContainsXenogerm>
-	<AC.FinishedXenogermDuplicationMessage>異種基因複製器完成複製異種基因！</AC.FinishedXenogermDuplicationMessage>
+	<AC.FinishedXenogermDuplicationMessage>異種基因複製機完成複製異種基因！</AC.FinishedXenogermDuplicationMessage>
 	<AC.NotEnoughArchiteCapsulesLoaded>你真的想要複製異種基因？沒有裝載足夠的遠古膠囊不足以複製異種基因內的所有遠古基因。</AC.NotEnoughArchiteCapsulesLoaded>
 	<!-- ================================ Other ====================== -->
 	<AC.CommandCallsNeuroformers>呼叫心靈增幅器</AC.CommandCallsNeuroformers>
