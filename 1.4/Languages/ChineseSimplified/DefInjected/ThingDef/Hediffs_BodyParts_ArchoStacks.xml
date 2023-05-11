@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AC_EmptyArchoStack.label>空白超凡堆疊</AC_EmptyArchoStack.label>
+	<AC_EmptyArchoStack.description>一個空的，可以儲存人類意識的遠古技術植入物，可以直接植入宿主的脖子。比其超科技衍生品更加堅固，它們不可能被製造出來，只能被偶然發現。</AC_EmptyArchoStack.description>
+
+	<AC_FilledArchoStack.label>超凡堆疊</AC_FilledArchoStack.label>
+	<AC_FilledArchoStack.description>一種遠古技術植入物，上面儲存著人類的意識。可以植入一個空的義體或隨機的身體，並使儲存在皮質堆中的人類復活。</AC_FilledArchoStack.description>
+
+</LanguageData>

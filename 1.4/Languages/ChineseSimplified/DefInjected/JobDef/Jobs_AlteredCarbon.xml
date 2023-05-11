@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AC_DuplicateStack.reportString>複製皮質堆疊</AC_DuplicateStack.reportString>
+	<AC_CreateStackFromBackup.reportString>從備份中恢復皮質堆疊</AC_CreateStackFromBackup.reportString>
+	<AC_HaulingStacks.reportString>將目標A拖至目標B。</AC_HaulingStacks.reportString>
+	<AC_InsertingThingIntoProcessor.reportString>將目標A插入至目標B。</AC_InsertingThingIntoProcessor.reportString>
+	<AC_HaulCorpseToSleeveGrower.reportString>將目標A拖至目標B。</AC_HaulCorpseToSleeveGrower.reportString>
+	<AC_CancelRepurposingBody.reportString>取消在義體培養艙的身體再利用</AC_CancelRepurposingBody.reportString>
+
+</LanguageData>
