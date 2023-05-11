@@ -8,13 +8,13 @@
 	<!-- ================================ Sleeve Base ====================== -->
 	<VFEU_EmptySleeve.label>空白義體</VFEU_EmptySleeve.label>
 	<VFEU_EmptySleeve.description>一個空白義體。</VFEU_EmptySleeve.description>
-	<VFEU_EmptySleeve.stages.empty.label>空白</VFEU_EmptySleeve.0.label>
+	<VFEU_EmptySleeve.stages.empty.label>空白</VFEU_EmptySleeve.stages.empty.label>
 
 	<!-- ================================ Sleeve Shock Hediff ====================== -->
-	<VFEU_SleeveShock.label>義體休克</VFEU_SleeveShock.label>
-	<VFEU_SleeveShock.description>由於轉換身體而處於休克狀態。</VFEU_SleeveShock.description>
-	<VFEU_SleeveShock.stages.wearing_off.label>磨損</VFEU_SleeveShock.0.label>
-	<VFEU_SleeveShock.stages.irritated.label>發炎</VFEU_SleeveShock.1.label>
+	<VFEU_SleeveShock.label>義體衝擊</VFEU_SleeveShock.label>
+	<VFEU_SleeveShock.description>由於轉換身體而處於衝擊狀態。</VFEU_SleeveShock.description>
+	<VFEU_SleeveShock.stages.wearing_off.label>磨損</VFEU_SleeveShock.stages.wearing_off.label>
+	<VFEU_SleeveShock.stages.irritated.label>發炎</VFEU_SleeveShock.stages.irritated.label>
 
 	<!-- ================================ Sleeve Qualitys ====================== -->
 	<VFEU_Sleeve_Quality_Awful.label>糟糕品質的義體</VFEU_Sleeve_Quality_Awful.label>
