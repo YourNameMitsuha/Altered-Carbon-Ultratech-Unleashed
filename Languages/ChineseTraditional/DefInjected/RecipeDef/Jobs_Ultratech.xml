@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- ================================ Cortical Stack Jobs ====================== -->
+	<VFEU_ExtractStack.reportString>從目標中提取皮質堆疊</VFEU_ExtractStack.reportString>
+
+	<!-- ================================ Sleeve Jobs ====================== -->
+	<VFEU_ReleaseSleeve.reportString>釋放義體</VFEU_ReleaseSleeve.reportString>
+	<VFEU_StartIncubatingProcess.reportString>開始培養艙的培養程序</VFEU_StartIncubatingProcess.reportString>
+	<VFEU_CancelIncubatingProcess.reportString>取消培養艙的培養程序</VFEU_CancelIncubatingProcess.reportString>
+	<AC_TakeEmptySleeve.reportString>取出空白義體。</AC_TakeEmptySleeve.reportString>
+
+</LanguageData>
