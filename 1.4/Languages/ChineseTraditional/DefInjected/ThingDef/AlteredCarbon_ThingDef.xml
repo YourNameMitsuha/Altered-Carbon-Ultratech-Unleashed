@@ -7,6 +7,12 @@
     <VFEU_Apparel_ProtectorArmor.label>保護者裝甲</VFEU_Apparel_ProtectorArmor.label>
     <VFEU_Apparel_ProtectorArmor.description>一套保護者發行的動力裝甲。與標準的海軍陸戰裝甲相比，它的保護能力得到提升。整個裝甲都是由塑鋼為原料製成，同時具有機載處理器協助活動與抑制痛覺感受器。</VFEU_Apparel_ProtectorArmor.description>
 
+    <AC_Gun_Autorevolver.label>自動左輪手槍</AC_Gun_Autorevolver.label>
+	<AC_Gun_Autorevolver.description>一把老式自動左輪手槍。它結合了普通手槍和經典左輪手槍的優點。它的拔槍速度很快。</AC_Gun_Autorevolver.description>
+    <AC_Gun_Autorevolver.tools.grip.label>把手</AC_Gun_Autorevolver.tools.grip.label>
+    <AC_Gun_Autorevolver.tools.barrel.label>砲管</AC_Gun_Autorevolver.tools.barrel.label>
+    <AC_Gun_Autorevolver.verbs.Verb_Shoot.label>自動左輪手槍。</AC_Gun_Autorevolver.verbs.Verb_Shoot.label>
+
 	<!-- ================================ Ancient Cortical Stacks ====================== -->
 	<VFEU_AncientStack.label>遠古皮質堆疊</VFEU_AncientStack.label>
 	<VFEU_AncientStack.description>一個古老的超科技植入物，曾經儲存了一個人的意識。由於年代久遠和多年的疏忽而損壞，但可能仍有值得搶救的數據。</VFEU_AncientStack.description>
@@ -70,11 +76,5 @@
 	<AC_XenoGermDuplicator.description>一臺非常簡單的機器，可以合成遺傳物質以便大量製造現有異種基因的精確副本。這個建築可以複製任何現有的異種基因，包括任何現有的遠古基因，只要能提供它足夠數量的遠古膠囊。</AC_XenoGermDuplicator.description>
     <AC_XenoGermDuplicator.comps.CompRefuelable.fuelGizmoLabel>遠古膠囊</AC_XenoGermDuplicator.comps.CompRefuelable.fuelGizmoLabel>
     <AC_XenoGermDuplicator.comps.CompRefuelable.fuelLabel>遠古膠囊</AC_XenoGermDuplicator.comps.CompRefuelable.fuelLabel>
-
-    <AC_Gun_Autorevolver.label>自動左輪手槍</AC_Gun_Autorevolver.label>
-	<AC_Gun_Autorevolver.description>一把老式自動左輪手槍。它結合了普通手槍和經典左輪手槍的優點。它的拔槍速度很快。</AC_Gun_Autorevolver.description>
-    <AC_Gun_Autorevolver.tools.grip.label>把手</AC_Gun_Autorevolver.tools.grip.label>
-    <AC_Gun_Autorevolver.tools.barrel.label>砲管</AC_Gun_Autorevolver.tools.barrel.label>
-    <AC_Gun_Autorevolver.verbs.Verb_Shoot.label>自動左輪手槍。</AC_Gun_Autorevolver.verbs.Verb_Shoot.label>
 
 </LanguageData>
