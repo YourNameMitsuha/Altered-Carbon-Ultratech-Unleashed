@@ -27,8 +27,8 @@
 	<AC_DigitalUpbringing.titleShort>虛擬</AC_DigitalUpbringing.titleShort>
 	<AC_DigitalUpbringing.baseDesc>[PAWN_nameDef]在他們的堆疊整合後不久就經歷了義體死亡，而[PAWN_possessive]的父母沒有能力購買一個合適的義體。因此，[PAWN_pronoun]得到負擔得起的少量虛擬課程和經驗，並產生了不安全感和認同缺乏。</AC_DigitalUpbringing.baseDesc>
 
-	<AC_EarlyResleeving.title>early resleeving</AC_EarlyResleeving.title>
-	<AC_EarlyResleeving.titleShort>resleeved</AC_EarlyResleeving.titleShort>
+	<AC_EarlyResleeving.title>早年義體化</AC_EarlyResleeving.title>
+	<AC_EarlyResleeving.titleShort>義體化</AC_EarlyResleeving.titleShort>
 	<AC_EarlyResleeving.baseDesc>[PAWN_nameDef]在[PAWN_possessive]早年經歷了義體的意外死亡，按照受害者的要求他獲得了新的義體。這個義體在各方面都完全不同。義體與堆疊間的失衡意味著[PAWN_pronoun]以一種混亂的方式體驗生活。</AC_EarlyResleeving.baseDesc>
 
 	<AC_RichAspirant.title>富有抱負之人</AC_RichAspirant.title>
