@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install filled cortical stack -->
+  <VFEU_InstallCorticalStack.label>安装已填充皮质堆叠</VFEU_InstallCorticalStack.label>
+  <!-- EN: Install a cortical stack. -->
+  <VFEU_InstallCorticalStack.description>安装一个已填充的皮质堆叠。</VFEU_InstallCorticalStack.description>
+  <!-- EN: Installing cortical stack. -->
+  <VFEU_InstallCorticalStack.jobString>安装一个已填充的皮质堆叠。</VFEU_InstallCorticalStack.jobString>
+  
+  <!-- EN: install empty cortical stack -->
+  <VFEU_InstallEmptyCorticalStack.label>安装空白皮质堆叠</VFEU_InstallEmptyCorticalStack.label>
+  <!-- EN: Install an empty cortical stack. -->
+  <VFEU_InstallEmptyCorticalStack.description>安装一个空白皮质堆叠。</VFEU_InstallEmptyCorticalStack.description>
+  <!-- EN: Installing cortical stack. -->
+  <VFEU_InstallEmptyCorticalStack.jobString>安装一个空白皮质堆叠。</VFEU_InstallEmptyCorticalStack.jobString>
+  
+  <!-- EN: remove cortical stack -->
+  <VFEU_RemoveCorticalStack.label>移除皮质堆叠</VFEU_RemoveCorticalStack.label>
+  <!-- EN: Remove cortical stack. -->
+  <VFEU_RemoveCorticalStack.description>移除皮质堆叠。</VFEU_RemoveCorticalStack.description>
+  <!-- EN: Removing cortical stack. -->
+  <VFEU_RemoveCorticalStack.jobString>移除皮质堆叠。</VFEU_RemoveCorticalStack.jobString>
+  
+  <!-- EN: shred cortical stacks -->
+  <VFEU_ShredCorticalStacks.label>撕碎皮质堆叠</VFEU_ShredCorticalStacks.label>
+  <!-- EN: Shred a cortical stack to try to salvage usable material. -->
+  <VFEU_ShredCorticalStacks.description>撕碎一个皮质堆叠以试图抢救可用的材料。</VFEU_ShredCorticalStacks.description>
+  <!-- EN: Shredding cortical stacks. -->
+  <VFEU_ShredCorticalStacks.jobString>撕碎皮质堆叠。</VFEU_ShredCorticalStacks.jobString>
+  
+  <!-- EN: smash cortical stacks -->
+  <VFEU_SmashCorticalStacks.label>砸碎皮质堆叠</VFEU_SmashCorticalStacks.label>
+  <!-- EN: Smash a cortical stack with simple hand tools to salvage usable material. -->
+  <VFEU_SmashCorticalStacks.description>用简单的手工工具砸碎一个皮质堆叠，以试图抢救可用的材料。</VFEU_SmashCorticalStacks.description>
+  <!-- EN: Smashing cortical stacks. -->
+  <VFEU_SmashCorticalStacks.jobString>砸碎皮质堆叠。</VFEU_SmashCorticalStacks.jobString>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge shot -->
+  <AC_Bullet_ChargeIncursionarRifle.label>充能射擊</AC_Bullet_ChargeIncursionarRifle.label>
+  
+  <!-- EN: charge shotgun blast -->
+  <AC_Bullet_ChargeIncursionarShotgun.label>充能霰彈爆射</AC_Bullet_ChargeIncursionarShotgun.label>
+  
+  <!-- EN: charge incursionar -->
+  <AC_Gun_ChargeIncursionar.label>充能入侵者</AC_Gun_ChargeIncursionar.label>
+  <!-- EN: A multi-purpose charged-shot incursionar rifle with two shooting modes. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. Shotgun mode will eliminate any close targets with a powerful,charge blast, whilst Rifle mode allows users to engage enemies at long range. -->
+  <AC_Gun_ChargeIncursionar.description>多用途充能射擊入侵者步槍，有兩種射擊模式。脈衝充電技術可在每一發子彈離開槍管時為其注入不穩定能量。撞擊時釋放的充能可大大增加傷害。霰彈槍模式可以用強大的充能爆射消滅任何近距離目標，而步槍模式則允許用戶與遠距離敵人作戰。</AC_Gun_ChargeIncursionar.description>
+  <!-- EN: Rifle mode (Charged shot) -->
+  <AC_Gun_ChargeIncursionar.comps.Comp_VerbProps.verbProps.0.label>步槍模式(充能射擊)</AC_Gun_ChargeIncursionar.comps.Comp_VerbProps.verbProps.0.label>
+  <!-- EN: Shotgun mode (Charged blast) -->
+  <AC_Gun_ChargeIncursionar.comps.Comp_VerbProps.verbProps.1.label>霰彈槍模式(充能爆射)</AC_Gun_ChargeIncursionar.comps.Comp_VerbProps.verbProps.1.label>
+  <!-- EN: stock -->
+  <AC_Gun_ChargeIncursionar.tools.stock.label>槍托</AC_Gun_ChargeIncursionar.tools.stock.label>
+  <!-- EN: barrel -->
+  <AC_Gun_ChargeIncursionar.tools.barrel.label>槍管</AC_Gun_ChargeIncursionar.tools.barrel.label>
+  <!-- EN: Rifle mode (Charged shot) -->
+  <AC_Gun_ChargeIncursionar.verbs.Rifle_mode_Charged_shot.label>步槍模式(充能射擊)</AC_Gun_ChargeIncursionar.verbs.Rifle_mode_Charged_shot.label>
+  <!-- EN: Shotgun mode (Charged blast) -->
+  <AC_Gun_ChargeIncursionar.verbs.Shotgun_mode_Charged_blast.label>霰彈槍模式(充能爆射)</AC_Gun_ChargeIncursionar.verbs.Shotgun_mode_Charged_blast.label>
+  
+</LanguageData>

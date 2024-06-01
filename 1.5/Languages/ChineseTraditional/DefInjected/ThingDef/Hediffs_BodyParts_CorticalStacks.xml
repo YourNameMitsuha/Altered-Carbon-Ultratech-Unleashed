@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: empty cortical stack -->
+  <VFEU_EmptyCorticalStack.label>空白皮質堆疊</VFEU_EmptyCorticalStack.label>
+  <!-- EN: An empty, ultra tech implant which can store a human consciousness. Being implanted directly into a person's neck, blunt force trauma and bullets to the head and neck should be avoided at all cost. Extremely rare and hard to make. -->
+  <VFEU_EmptyCorticalStack.description>一個空白的，可以儲存人類意識並植入宿主脖子的超科技植入物。應不惜一切代價避免脖子與頭部被子彈擊中或受到鈍器重擊。極其罕見且難以製造。</VFEU_EmptyCorticalStack.description>
+  
+  <!-- EN: cortical stack -->
+  <VFEU_FilledCorticalStack.label>皮質堆疊</VFEU_FilledCorticalStack.label>
+  <!-- EN: An ultra tech implant with a human consciousness stored on it. Can be implanted into an empty sleeve or random body to bring back the person stored on the cortical stack. -->
+  <VFEU_FilledCorticalStack.description>一種超科技植入物，上面儲存著人類的意識。可以植入一個空的義體或隨機的身體，並使儲存在皮質堆中的人類復活。</VFEU_FilledCorticalStack.description>
+  
+</LanguageData>

@@ -9,19 +9,20 @@
   <author>五等分の三葉</author>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <modDependencies>
 		<li>
 			<packageId>hlx.ultratechalteredcarbon</packageId>
-			<displayName>Altered Carbon: Ultratech Unleashed</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2196278117</steamWorkshopUrl>
+			<displayName>Altered Carbon: Ultratech Unleashed (Continued)</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3258617589</steamWorkshopUrl>
 		</li>
-	</modDependencies>	
+	</modDependencies>
   <description>
   This is just a language pack, you can jump to the original MOD through the required items on the right or manually search for the original MOD name
   Altered Carbon: Ultratech Unleashed的中文翻譯包。
   
-  此為1.4版本的個人翻譯，可能會有缺漏或是名詞差異
+  此為1.4-1.5版本的個人翻譯，可能會有缺漏或是名詞差異
   有問題或改善建議可在底下回覆，有看到將會更新
 
   簡體中文翻譯部分為繁體轉換，有看不習慣的用詞可以底下回饋修正

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cortical stack -->
+  <VFEU_CorticalStack.label>皮质堆叠</VFEU_CorticalStack.label>
+  <!-- EN: An installed cortical stack. -->
+  <VFEU_CorticalStack.description>一个已安装的皮质堆叠。</VFEU_CorticalStack.description>
+  <!-- EN: a cortical stack -->
+  <VFEU_CorticalStack.labelNoun>一个皮质堆叠</VFEU_CorticalStack.labelNoun>
+  
+  <!-- EN: empty sleeve -->
+  <VFEU_EmptySleeve.label>空白义体</VFEU_EmptySleeve.label>
+  <!-- EN: An empty sleeve. -->
+  <VFEU_EmptySleeve.description>一个空白义体。</VFEU_EmptySleeve.description>
+  <!-- EN: empty -->
+  <VFEU_EmptySleeve.stages.empty.label>空白</VFEU_EmptySleeve.stages.empty.label>
+  
+  <!-- EN: awful quality sleeve -->
+  <VFEU_Sleeve_Quality_Awful.label>糟糕品质的义体</VFEU_Sleeve_Quality_Awful.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Awful.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Awful.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Awful.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Awful.stages.DEV.label>
+  
+  <!-- EN: excellent quality sleeve -->
+  <VFEU_Sleeve_Quality_Excellent.label>优良品质的义体</VFEU_Sleeve_Quality_Excellent.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Excellent.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Excellent.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Excellent.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Excellent.stages.DEV.label>
+  
+  <!-- EN: good quality sleeve -->
+  <VFEU_Sleeve_Quality_Good.label>不错品质的义体</VFEU_Sleeve_Quality_Good.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Good.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Good.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Good.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Good.stages.DEV.label>
+  
+  <!-- EN: legendary quality sleeve -->
+  <VFEU_Sleeve_Quality_Legendary.label>传奇品质的义体</VFEU_Sleeve_Quality_Legendary.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Legendary.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Legendary.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Legendary.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Legendary.stages.DEV.label>
+  
+  <!-- EN: masterwork quality sleeve -->
+  <VFEU_Sleeve_Quality_Masterwork.label>大师品质的义体</VFEU_Sleeve_Quality_Masterwork.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Masterwork.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Masterwork.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Masterwork.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Masterwork.stages.DEV.label>
+  
+  <!-- EN: normal quality sleeve -->
+  <VFEU_Sleeve_Quality_Normal.label>普通品质的义体</VFEU_Sleeve_Quality_Normal.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Normal.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Normal.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Normal.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Normal.stages.DEV.label>
+  
+  <!-- EN: poor quality sleeve -->
+  <VFEU_Sleeve_Quality_Poor.label>低劣品质的义体</VFEU_Sleeve_Quality_Poor.label>
+  <!-- EN: LEFTOVER! This hediff is no longer used and only in the game for the sake of compatibility with old saves. -->
+  <VFEU_Sleeve_Quality_Poor.description>弃用它! 该健康状态已不再被使用，在游戏中使用只是为了使旧存档兼容。</VFEU_Sleeve_Quality_Poor.description>
+  <!-- EN: DEV -->
+  <VFEU_Sleeve_Quality_Poor.stages.DEV.label>TODO</VFEU_Sleeve_Quality_Poor.stages.DEV.label>
+  
+  <!-- EN: sleeve shock -->
+  <VFEU_SleeveShock.label>义体冲击</VFEU_SleeveShock.label>
+  <!-- EN: In shock due to switching bodies. -->
+  <VFEU_SleeveShock.description>由于转换身体而处于冲击状态。</VFEU_SleeveShock.description>
+  <!-- EN: wearing off -->
+  <VFEU_SleeveShock.stages.wearing_off.label>磨损</VFEU_SleeveShock.stages.wearing_off.label>
+  <!-- EN: irritated -->
+  <VFEU_SleeveShock.stages.irritated.label>发炎</VFEU_SleeveShock.stages.irritated.label>
+  
+</LanguageData>

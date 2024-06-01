@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: genome revitalizer -->
+  <AC_GenomeRevitalizer.label>基因組活化器</AC_GenomeRevitalizer.label>
+  <!-- EN: A large structure that performs reactionary  measures to adverse effects during the growth  process of a sleeve. When linked to an incubator, it fully takes over the task of monitoring the sleeves genome, working more efficiently than the  incubator could on its own, reducing the amount of time needed to grow a sleeve.\n\nAn add-on to the sleeve incubator, this device needs to be placed in close proximity to it and will cut reduce growth time by 25%. -->
+  <AC_GenomeRevitalizer.description>一種在義體生長過程中對不利影響採取反應措施的大型結構。與培養艙連接後，它將完全接管監測義體基因組的任務。該設備工作效率比培養艙本身還要高，從而能減少義體生長所需時間。\n\n該設備是義體培養艙的附加設備，需要靠近培養艙放置，並且可減少25%的培養時間。</AC_GenomeRevitalizer.description>
+  
+  <!-- EN: neutroamine dialyzer -->
+  <AC_NeutroamineDialyzer.label>中性胺透析器</AC_NeutroamineDialyzer.label>
+  <!-- EN: A structure designed to filter neutroamine that is compromised or breaking down out of the incubators loop. Once cleaned and stabilised it is reintroduced to the incubator. By doing so it significantly lowers the amount of wasted neutroamine in the growth process.\n\nAn add-on to the sleeve incubator, this device needs to be placed in close proximity to it and will cut reduce growth time by 10%. -->
+  <AC_NeutroamineDialyzer.description>該結構用於將已損壞或分解的中性胺從培養艙循環中過濾出來。經過清洗與穩定後可再將中性胺重新放回培養艙中。藉由該步驟可以大大減少生長過程所浪費的中性胺。\n\n該設備是義體培養艙的附加設備，需要靠近培養艙放置，並且可減少10%的培養時間。</AC_NeutroamineDialyzer.description>
+  
+  <!-- EN: neutroamine injector pump -->
+  <AC_NeutroaminePump.label>中性胺注射泵</AC_NeutroaminePump.label>
+  <!-- EN: A small element that links to a sleeve incubator and allows for it to more efficiently pump neutroamine during the growth process of a sleeve, reducing the needed neutroamine.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut one day from the injection time.An add-on to the sleeve incubator, this device needs to be placed in close proximity to it and will cut reduce growth time by 25%. -->
+  <AC_NeutroaminePump.description>一種與義體培養艙連接的小型元件，用於在義體培養過程中更有效的泵送，並減少成長所需的中性胺。\n\n該設備是基因裁減艙的附加設備，需要靠近裁減艙放置，並且可減少一天的注射時間。該設備是義體培養艙的附加設備，需要靠近培養艙放置，並且可減少25%的培養時間。</AC_NeutroaminePump.description>
+  
+  <!-- EN: stack array -->
+  <AC_StackArray.label>堆疊陣列</AC_StackArray.label>
+  <!-- EN: A quantum computing array, designed to store cortical stacks and make backups of them that can be restored if needed. Cortical stacks can be duplicated, when placed inside the array. Backups are synced between arrays, allowing for multiple ones to be built. \n\nStack Arrays will make an automatic backup of any colony cortical stacks that are installed on the local map every 24 hours. Backups are restored to empty cortical stacks if the original stack is destroyed. -->
+  <AC_StackArray.description>一個量子計算陣列，被設計用來儲存皮質堆疊並對其進行備份以備不時之需。皮質堆疊可以被複製，當被放置於陣列內時，備份在陣列之間是同步的，允許建立多個陣列。\n\n堆疊陣列將每24小時對安裝在本地地圖上的任何殖民地皮質堆疊進行一次自動備份，如果原始堆疊被摧毀，備份會被恢復回空的皮質堆疊。</AC_StackArray.description>
+  
+  <!-- EN: decryption bench -->
+  <VFEU_DecryptionBench.label>解密工作臺</VFEU_DecryptionBench.label>
+  <!-- EN: A sophisticated workbench that allows the user to connect to cortical stacks in order to alter the contained information, such as changing allegiance, or even wipe them clean. Can also strip the biocoding from items.\n\nAs the process is quite aggressive, there is a risk of the decryption process destroying the item. -->
+  <VFEU_DecryptionBench.description>一個複雜的工作臺，允許用戶連接至皮質堆疊以改變內涵數據，如改變效忠者或甚至是將資料清除乾淨。也可以解除物品上的生物鎖。\n\n由於這個過程相當激進，解密過程中有可能會摧毀物品。</VFEU_DecryptionBench.description>
+  
+</LanguageData>

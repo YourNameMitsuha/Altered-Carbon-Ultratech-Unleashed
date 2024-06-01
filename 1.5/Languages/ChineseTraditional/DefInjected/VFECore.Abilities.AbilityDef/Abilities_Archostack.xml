@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stack skip -->
+  <AC_ArchoStackSkip.label>跳過堆疊</AC_ArchoStackSkip.label>
+  <!-- EN: Skip the archo stack into the targets body, taking control over it. Kills the target and the sleeve the archostack is currently in. This is useful if the current sleeve is near death. -->
+  <AC_ArchoStackSkip.description>跳過超凡堆疊進入並直接操控目標身體，殺死目標與超凡堆疊當前所在的義體。這在當前義體快要死亡時是很有用的。</AC_ArchoStackSkip.description>
+  <!-- EN: Using ability: {0} -->
+  <AC_ArchoStackSkip.jobReportString>使用能力:{0}</AC_ArchoStackSkip.jobReportString>
+  <!-- EN: stack skip -->
+  <AC_ArchoStackSkip.verbProperties.label>跳過堆疊</AC_ArchoStackSkip.verbProperties.label>
+  
+</LanguageData>

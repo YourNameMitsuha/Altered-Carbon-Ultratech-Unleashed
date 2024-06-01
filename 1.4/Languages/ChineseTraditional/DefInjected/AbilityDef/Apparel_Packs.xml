@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wing jump -->
+  <AC_WingJumpAbility.label>翅膀跳躍</AC_WingJumpAbility.label>
+  <!-- EN: text.todo. -->
+  <AC_WingJumpAbility.description>TODO</AC_WingJumpAbility.description>
+  <!-- EN: jump -->
+  <AC_WingJumpAbility.verbProperties.label>跳躍</AC_WingJumpAbility.verbProperties.label>
+  
+</LanguageData>

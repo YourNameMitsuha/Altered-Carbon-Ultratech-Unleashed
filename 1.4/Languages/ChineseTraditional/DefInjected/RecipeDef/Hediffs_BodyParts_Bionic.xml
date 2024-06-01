@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install dreamcatcher implant -->
+  <AC_InstallDreamcatcherImplant.label>安裝捕夢者植入體</AC_InstallDreamcatcherImplant.label>
+  <!-- EN: Install a dreamcatcher implant. -->
+  <AC_InstallDreamcatcherImplant.description>安裝捕夢者植入體。</AC_InstallDreamcatcherImplant.description>
+  <!-- EN: Installing dreamcatcher implant. -->
+  <AC_InstallDreamcatcherImplant.jobString>正在安裝捕夢者植入體。</AC_InstallDreamcatcherImplant.jobString>
+  
+  <!-- EN: install mental fuse -->
+  <AC_InstallMentalFuse.label>安裝心靈保險絲</AC_InstallMentalFuse.label>
+  <!-- EN: Install a mental fuse. -->
+  <AC_InstallMentalFuse.description>安裝心靈保險絲。</AC_InstallMentalFuse.description>
+  <!-- EN: Installing mental fuse. -->
+  <AC_InstallMentalFuse.jobString>正在安裝心靈保險絲。</AC_InstallMentalFuse.jobString>
+  
+  <!-- EN: install voice synthesizer -->
+  <AC_InstallVoiceSynthesizer.label>安裝聲音合成器</AC_InstallVoiceSynthesizer.label>
+  <!-- EN: Install a voice synthesizer. -->
+  <AC_InstallVoiceSynthesizer.description>安裝聲音合成器。</AC_InstallVoiceSynthesizer.description>
+  <!-- EN: Installing voice synthesizer. -->
+  <AC_InstallVoiceSynthesizer.jobString>正在安裝聲音合成器。</AC_InstallVoiceSynthesizer.jobString>
+  
+  <!-- EN: remove dreamcatcher implant -->
+  <AC_RemoveDreamcatcherImplant.label>移除捕夢者植入體</AC_RemoveDreamcatcherImplant.label>
+  <!-- EN: Remove dreamcatcher implant. -->
+  <AC_RemoveDreamcatcherImplant.description>移除捕夢者植入體。</AC_RemoveDreamcatcherImplant.description>
+  <!-- EN: Removing dreamcatcher implant. -->
+  <AC_RemoveDreamcatcherImplant.jobString>正在移除捕夢者植入體。</AC_RemoveDreamcatcherImplant.jobString>
+  
+  <!-- EN: remove mental fuse -->
+  <AC_RemoveMentalFuse.label>移除心靈保險絲</AC_RemoveMentalFuse.label>
+  <!-- EN: Remove mental fuse. -->
+  <AC_RemoveMentalFuse.description>移除心靈保險絲。</AC_RemoveMentalFuse.description>
+  <!-- EN: Removing mental fuse. -->
+  <AC_RemoveMentalFuse.jobString>正在移除心靈保險絲。</AC_RemoveMentalFuse.jobString>
+  
+  <!-- EN: remove voice synthesizer -->
+  <AC_RemoveVoiceSynthesizer.label>移除聲音合成器</AC_RemoveVoiceSynthesizer.label>
+  <!-- EN: Remove voice synthesizer. -->
+  <AC_RemoveVoiceSynthesizer.description>移除聲音合成器。</AC_RemoveVoiceSynthesizer.description>
+  <!-- EN: Removing voice synthesizer. -->
+  <AC_RemoveVoiceSynthesizer.jobString>正在移除聲音合成器。</AC_RemoveVoiceSynthesizer.jobString>
+  
+</LanguageData>

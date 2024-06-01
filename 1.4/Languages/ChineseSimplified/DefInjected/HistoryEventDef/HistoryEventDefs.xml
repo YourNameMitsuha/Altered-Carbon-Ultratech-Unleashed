@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rewrote stack of faction member -->
+  <AC_RewroteStack.label>重写了派系成员的堆叠</AC_RewroteStack.label>
+  
+  <!-- EN: killed faction member with archo stack -->
+  <AC_UsedArchoStack.label>以超凡堆叠杀死派系成员</AC_UsedArchoStack.label>
+  
+</LanguageData>

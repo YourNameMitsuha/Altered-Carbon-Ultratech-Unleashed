@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cancel growing process -->
+  <VFEU_CancelIncubatingProcess.label>取消培養程序</VFEU_CancelIncubatingProcess.label>
+  <!-- EN: canceling growth process at -->
+  <VFEU_CancelIncubatingProcess.gerund>取消培養程序</VFEU_CancelIncubatingProcess.gerund>
+  <!-- EN: cancel growing process -->
+  <VFEU_CancelIncubatingProcess.verb>取消培養程序</VFEU_CancelIncubatingProcess.verb>
+  
+  <!-- EN: hack stacks -->
+  <VFEU_DoBillsDecryptionBench.label>駭入堆疊</VFEU_DoBillsDecryptionBench.label>
+  <!-- EN: hacking stacks at -->
+  <VFEU_DoBillsDecryptionBench.gerund>駭入堆疊</VFEU_DoBillsDecryptionBench.gerund>
+  <!-- EN: hack stacks -->
+  <VFEU_DoBillsDecryptionBench.verb>駭入堆疊於</VFEU_DoBillsDecryptionBench.verb>
+  
+  <!-- EN: extracting cortical stack -->
+  <VFEU_ExtractStack.label>提取皮質堆疊</VFEU_ExtractStack.label>
+  <!-- EN: extracting cortical stack -->
+  <VFEU_ExtractStack.gerund>提取皮質堆疊</VFEU_ExtractStack.gerund>
+  <!-- EN: extract cortical stack -->
+  <VFEU_ExtractStack.verb>提取皮質堆疊</VFEU_ExtractStack.verb>
+  
+  <!-- EN: start growing process -->
+  <VFEU_StartIncubatingProcess.label>進行培養程序</VFEU_StartIncubatingProcess.label>
+  <!-- EN: starting growth process at -->
+  <VFEU_StartIncubatingProcess.gerund>進行培養程序</VFEU_StartIncubatingProcess.gerund>
+  <!-- EN: start growing process -->
+  <VFEU_StartIncubatingProcess.verb>進行培養程序</VFEU_StartIncubatingProcess.verb>
+  
+</LanguageData>

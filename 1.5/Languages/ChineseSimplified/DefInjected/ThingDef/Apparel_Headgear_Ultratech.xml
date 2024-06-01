@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fusilier helmet -->
+  <AC_Apparel_FusilierHelmet.label>轻骑兵头盔</AC_Apparel_FusilierHelmet.label>
+  <!-- EN: A powered armor helmet, built to provide the best protection available for humanity. Every helmet is manufactured at a specialized facility, which effectively prints the entirety as one piece, molecule by molecule. The result is levels of protection unmatched by military hardware, as the production costs are staggering and unsustainable for mass production.\n\nIncludes a package of several multi-spectrum sensors and a classifier AI, allowing the user to see in darkness and smokey conditions as if it were bright and clear conditions. The integrated ballistic rangefinder provides optimal firing solutions, increasing the user’s effective range by 50%. -->
+  <AC_Apparel_FusilierHelmet.description>一种动力装甲头盔，为人类提供最好的保护。每个头盔都是在专门的工厂生产的，这可以有效的将整个头盔作为一个整体，一个分子一个分子地打印出来。结果由于生产成本高的吓人而无法大规模生产，其保护水平是军事硬体无法比拟的。\n\n包含一个由多颗多光谱传感器和人工智慧分类器组成的软体包，使用户在黑暗和烟雾瀰漫的环境中也能看清状况。集成的弹道测距仪可提供最佳射击方案，使用户的有效射程增加50%。</AC_Apparel_FusilierHelmet.description>
+  
+  <!-- EN: overseer helmet -->
+  <AC_Apparel_OverseerHelmet.label>监管者头盔</AC_Apparel_OverseerHelmet.label>
+  <!-- EN: text.todo -->
+  <AC_Apparel_OverseerHelmet.description>TODO</AC_Apparel_OverseerHelmet.description>
+  
+  <!-- EN: protector helmet -->
+  <VFEU_Apparel_ProtectorHelmet.label>保护者头盔</VFEU_Apparel_ProtectorHelmet.label>
+  <!-- EN: A helmet of protector-issue power armor. Improved protection over standard marine power armor, offered by molecular plasteel integration thoughout the helmet. Complete with tactical telemetry feed and aim assist. -->
+  <VFEU_Apparel_ProtectorHelmet.description>一个保护者动力装甲头盔。与标准的海军陆战装甲相比，该头盔透过分子塑钢一体化技术提高防护能力。具有战术遥测回馈与瞄准辅助功能。</VFEU_Apparel_ProtectorHelmet.description>
+  
+</LanguageData>

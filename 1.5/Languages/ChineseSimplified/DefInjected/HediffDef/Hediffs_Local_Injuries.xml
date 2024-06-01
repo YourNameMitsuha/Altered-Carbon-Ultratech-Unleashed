@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deterioration -->
+  <VFEU_Deterioration.label>恶化</VFEU_Deterioration.label>
+  <!-- EN: A deterioration. -->
+  <VFEU_Deterioration.description>恶化。</VFEU_Deterioration.description>
+  <!-- EN: a deterioration -->
+  <VFEU_Deterioration.labelNoun>恶化</VFEU_Deterioration.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VFEU_Deterioration.labelNounPretty>{0}在{1}之中</VFEU_Deterioration.labelNounPretty>
+  
+</LanguageData>

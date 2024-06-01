@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: canceling body repurposing on sleeve grower -->
+  <AC_CancelRepurposingBody.reportString>取消在义体培养舱的身体再利用</AC_CancelRepurposingBody.reportString>
+  
+  <!-- EN: restoring cortical stack from backup -->
+  <AC_CreateStackFromBackup.reportString>从备份中恢復皮质堆叠</AC_CreateStackFromBackup.reportString>
+  
+  <!-- EN: duplicating cortical stack -->
+  <AC_DuplicateStack.reportString>複製皮质堆叠</AC_DuplicateStack.reportString>
+  
+  <!-- EN: hauling TargetA to TargetB. -->
+  <AC_HaulCorpseToSleeveGrower.reportString>将目标A拖至目标B。</AC_HaulCorpseToSleeveGrower.reportString>
+  
+  <!-- EN: hauling TargetA to TargetB. -->
+  <AC_HaulingStacks.reportString>将目标A拖至目标B。</AC_HaulingStacks.reportString>
+  
+  <!-- EN: inserting TargetA to TargetB. -->
+  <AC_InsertingThingIntoProcessor.reportString>将目标A插入至目标B。</AC_InsertingThingIntoProcessor.reportString>
+  
+</LanguageData>

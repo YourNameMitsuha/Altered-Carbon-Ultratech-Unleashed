@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Smokepop -->
+  <AC_FusilierSmokepop.label>煙霧噴發</AC_FusilierSmokepop.label>
+  <!-- EN: Deploy a cloud of protective smoke, covering your escape. Does not consume fuel, but requires time to recharge. -->
+  <AC_FusilierSmokepop.description>部署一團保護性煙霧以掩護你逃生。不消耗燃料，但需要時間重新充能。</AC_FusilierSmokepop.description>
+  <!-- EN: Using ability: {0} -->
+  <AC_FusilierSmokepop.jobReportString>使用能力:{0}</AC_FusilierSmokepop.jobReportString>
+  <!-- EN: Smokepop -->
+  <AC_FusilierSmokepop.verbProperties.label>煙霧噴發</AC_FusilierSmokepop.verbProperties.label>
+  
+</LanguageData>

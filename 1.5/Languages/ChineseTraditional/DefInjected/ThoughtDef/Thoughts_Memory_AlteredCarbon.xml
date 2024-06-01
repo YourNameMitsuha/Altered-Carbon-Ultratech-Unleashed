@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Just a copy -->
+  <AC_JustCopy.stages.Just_a_copy.label>只是個複製品</AC_JustCopy.stages.Just_a_copy.label>
+  <!-- EN: I am nothing more than a copy... What even am I? -->
+  <AC_JustCopy.stages.Just_a_copy.description>我只不過是個複製品...我到底是什麼？</AC_JustCopy.stages.Just_a_copy.description>
+  
+  <!-- EN: killed my copy -->
+  <AC_KilledMyCopy.stages.killed_my_copy.label>殺死了我的複製品</AC_KilledMyCopy.stages.killed_my_copy.label>
+  
+  <!-- EN: killed my original -->
+  <AC_KilledMyOriginal.stages.killed_my_original.label>殺死了最原始的我</AC_KilledMyOriginal.stages.killed_my_original.label>
+  
+  <!-- EN: Lost my fiance -->
+  <AC_LostMyFiance.stages.Lost_my_fiance.label>失去我的未婚夫</AC_LostMyFiance.stages.Lost_my_fiance.label>
+  <!-- EN: My fiance stayed with my original but I still love them. This isn't fair... -->
+  <AC_LostMyFiance.stages.Lost_my_fiance.description>我的未婚夫原先的我，但是我仍然愛他們。這不公平...</AC_LostMyFiance.stages.Lost_my_fiance.description>
+  
+  <!-- EN: Lost my lover -->
+  <AC_LostMyLover.stages.Lost_my_lover.label>失去我的愛人</AC_LostMyLover.stages.Lost_my_lover.label>
+  <!-- EN: My lover stayed with my original, but I still love them. This isn't fair... -->
+  <AC_LostMyLover.stages.Lost_my_lover.description>我的愛人原先的我，但是我仍然愛他們。這不公平...</AC_LostMyLover.stages.Lost_my_lover.description>
+  
+  <!-- EN: Lost my spouse -->
+  <AC_LostMySpouse.stages.Lost_my_spouse.label>失去我的配偶</AC_LostMySpouse.stages.Lost_my_spouse.label>
+  <!-- EN: My spouse stayed with my original, but I still love them. This isn't fair... -->
+  <AC_LostMySpouse.stages.Lost_my_spouse.description>我的配偶愛著原先的我，但是我仍然愛他們。這不公平...</AC_LostMySpouse.stages.Lost_my_spouse.description>
+  
+  <!-- EN: my copy {0} died -->
+  <AC_MyCopyDied.stages.my_copy_died.label>我的複製品{0}死了</AC_MyCopyDied.stages.my_copy_died.label>
+  <!-- EN: My copy is dead. I am alone again. -->
+  <AC_MyCopyDied.stages.my_copy_died.description>我的複製品死了，現在我又是孤單一人。</AC_MyCopyDied.stages.my_copy_died.description>
+  
+  <!-- EN: my copy {0} is missing -->
+  <AC_MyCopyLostFemale.stages.my_copy_is_missing.label>我最初的複製品{0}失蹤了</AC_MyCopyLostFemale.stages.my_copy_is_missing.label>
+  <!-- EN: My copy has gone missing. I hope she will get back to us someday. -->
+  <AC_MyCopyLostFemale.stages.my_copy_is_missing.description>我最初的複製品失蹤了，希望她有天能回來我們身邊。</AC_MyCopyLostFemale.stages.my_copy_is_missing.description>
+  
+  <!-- EN: my copy {0} is missing -->
+  <AC_MyCopyLostMale.stages.my_copy_is_missing.label>我最初的複製品{0}失蹤了</AC_MyCopyLostMale.stages.my_copy_is_missing.label>
+  <!-- EN: My copy has gone missing. I hope he will get back to us someday. -->
+  <AC_MyCopyLostMale.stages.my_copy_is_missing.description>我最初的複製品失蹤了，希望他有天能回來我們身邊。</AC_MyCopyLostMale.stages.my_copy_is_missing.description>
+  
+  <!-- EN: my original copy {0} died -->
+  <AC_MyOriginalDied.stages.my_original_copy_died.label>最原始的我{0}死了</AC_MyOriginalDied.stages.my_original_copy_died.label>
+  <!-- EN: My original copy is dead. I am alone again. -->
+  <AC_MyOriginalDied.stages.my_original_copy_died.description>最原始的我死了，現在我又是孤單一人。</AC_MyOriginalDied.stages.my_original_copy_died.description>
+  
+  <!-- EN: my original copy {0} is missing -->
+  <AC_MyOriginalLostFemale.stages.my_original_copy_is_missing.label>最原始的我{0}失蹤了</AC_MyOriginalLostFemale.stages.my_original_copy_is_missing.label>
+  <!-- EN: My original copy has gone missing. I hope she will get back to us someday. -->
+  <AC_MyOriginalLostFemale.stages.my_original_copy_is_missing.description>最原始的我失蹤了，希望她有天能回來我們身邊。</AC_MyOriginalLostFemale.stages.my_original_copy_is_missing.description>
+  
+  <!-- EN: my original copy {0} is missing -->
+  <AC_MyOriginalLostMale.stages.my_original_copy_is_missing.label>最原始的我{0}失蹤了</AC_MyOriginalLostMale.stages.my_original_copy_is_missing.label>
+  <!-- EN: My original copy has gone missing. I hope he will get back to us someday. -->
+  <AC_MyOriginalLostMale.stages.my_original_copy_is_missing.description>最原始的我失蹤了，希望他有天能回來我們身邊。</AC_MyOriginalLostMale.stages.my_original_copy_is_missing.description>
+  
+</LanguageData>

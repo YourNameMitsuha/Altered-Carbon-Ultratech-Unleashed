@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glide pack -->
+  <AC_Apparel_WingJump.label>滑翔背包</AC_Apparel_WingJump.label>
+  <!-- EN: A single-person set of mechanical wings for short-ranged flight. With its artificial polymer muscles and guidance assistant, the jump wing allows anyone to leap distances at high speed, while staying completely silent. It must be recharged after several uses.\n\nSome spacer tech militaries have melee combat specialists who use jump wings for covert infiltration or black ops missions. -->
+  <AC_Apparel_WingJump.description>一套用於短程飛行的單人用機械翅膀。憑藉著其人工聚合物肌肉與引導助理，跳躍翅膀允許任何人以高速跳躍，同時保持完全無聲。它在使用幾次後必須重新充電。\n\n一些太空科技軍隊近戰專家使用跳躍翅膀進行秘密滲透或是秘密軍事行動。</AC_Apparel_WingJump.description>
+  
+</LanguageData>

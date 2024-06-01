@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: taking empty sleeve. -->
+  <AC_TakeEmptySleeve.reportString>帶走空白義體。</AC_TakeEmptySleeve.reportString>
+  
+  <!-- EN: canceling growth process on incubator -->
+  <VFEU_CancelIncubatingProcess.reportString>取消培養艙的培養程序</VFEU_CancelIncubatingProcess.reportString>
+  
+  <!-- EN: extracts cortical stack from target -->
+  <VFEU_ExtractStack.reportString>從目標中提取皮質堆疊</VFEU_ExtractStack.reportString>
+  
+  <!-- EN: releasing sleeve -->
+  <VFEU_ReleaseSleeve.reportString>釋放義體</VFEU_ReleaseSleeve.reportString>
+  
+  <!-- EN: starting growth process on incubator -->
+  <VFEU_StartIncubatingProcess.reportString>在培養艙上開始培養程序</VFEU_StartIncubatingProcess.reportString>
+  
+</LanguageData>

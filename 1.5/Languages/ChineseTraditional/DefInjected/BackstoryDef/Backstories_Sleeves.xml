@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: This body was grown in a vat. Having no consciousness inside, it is effectively braindead and only serves as a sleeve for someone's cortical stack. -->
+  <VFEU_VatGrownAdult.description>這個身體是在培養艙中生長的，裡面沒有意識。實際上來說他是腦死的且只能作為某人的皮層堆疊義體。</VFEU_VatGrownAdult.description>
+  <!-- EN: This body was grown in a vat. Having no consciousness inside, it is effectively braindead and only serves as a sleeve for someone's cortical stack. -->
+  <VFEU_VatGrownAdult.baseDesc>這個身體是在培養艙中生長的，裡面沒有意識。實際上來說他是腦死的且只能作為某人的皮層堆疊義體。</VFEU_VatGrownAdult.baseDesc>
+  <!-- EN: Vat-Grown Sleeve -->
+  <VFEU_VatGrownAdult.title>培養義體</VFEU_VatGrownAdult.title>
+  <!-- EN: Vat-Grown Sleeve -->
+  <VFEU_VatGrownAdult.titleShort>義體</VFEU_VatGrownAdult.titleShort>
+  
+  <!-- EN: This body was grown in a vat. Having no consciousness inside, it is effectively braindead and only serves as a sleeve for someone's cortical stack. -->
+  <VFEU_VatGrownChild.description>這個身體是在培養艙中生長的，裡面沒有意識。實際上來說他是腦死的且只能作為某人的皮層堆疊義體。</VFEU_VatGrownChild.description>
+  <!-- EN: This body was grown in a vat. Having no consciousness inside, it is effectively braindead and only serves as a sleeve for someone's cortical stack. -->
+  <VFEU_VatGrownChild.baseDesc>這個身體是在培養艙中生長的，裡面沒有意識。實際上來說他是腦死的且只能作為某人的皮層堆疊義體。</VFEU_VatGrownChild.baseDesc>
+  <!-- EN: Vat-Grown Sleeve -->
+  <VFEU_VatGrownChild.title>培養義體</VFEU_VatGrownChild.title>
+  <!-- EN: Vat-Grown Sleeve -->
+  <VFEU_VatGrownChild.titleShort>義體</VFEU_VatGrownChild.titleShort>
+  
+</LanguageData>

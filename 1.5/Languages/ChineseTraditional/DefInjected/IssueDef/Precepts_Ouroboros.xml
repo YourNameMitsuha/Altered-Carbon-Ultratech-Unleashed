@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cross-sleeving -->
+  <AC_CrossSleeving.label>交互義體化</AC_CrossSleeving.label>
+  
+  <!-- EN: sleeving -->
+  <AC_Sleeving.label>義體化</AC_Sleeving.label>
+  
+  <!-- EN: duplicating -->
+  <AC_StackDuplicating.label>複製</AC_StackDuplicating.label>
+  
+  <!-- EN: stacking -->
+  <AC_Stacking.label>堆疊</AC_Stacking.label>
+  
+  <!-- EN: xeno-sleeving -->
+  <AC_XenoSleeving.label>異種義體</AC_XenoSleeving.label>
+  
+</LanguageData>

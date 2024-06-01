@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deactivate cortex overseer -->
+  <AC_DeactivateCortexOverseer.label>停用皮質監管者</AC_DeactivateCortexOverseer.label>
+  <!-- EN: Deactivate cortex overseer -->
+  <AC_DeactivateCortexOverseer.description>停用皮質監管者</AC_DeactivateCortexOverseer.description>
+  <!-- EN: deactivating cortex overseer. -->
+  <AC_DeactivateCortexOverseer.jobString>正在停用皮質監管者。</AC_DeactivateCortexOverseer.jobString>
+  
+  <!-- EN: install cortex overseer -->
+  <AC_InstallCortexOverseer.label>安裝皮質監管者</AC_InstallCortexOverseer.label>
+  <!-- EN: Install a cortex overseer. -->
+  <AC_InstallCortexOverseer.description>安裝皮質監管者。</AC_InstallCortexOverseer.description>
+  <!-- EN: Installing cortex overseer. -->
+  <AC_InstallCortexOverseer.jobString>正在安裝皮質監管者。</AC_InstallCortexOverseer.jobString>
+  
+</LanguageData>

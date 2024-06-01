@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sleeve casket -->
+  <VFEU_SleeveCasket.label>义体储存棺</VFEU_SleeveCasket.label>
+  <!-- EN: An open sarcophagus designed to keep a sleeve in a state of suspended animation while still allowing medical access, such as installing implants or bionics. -->
+  <VFEU_SleeveCasket.description>一个开放的石棺，设计用来使义体保持假死状态的同时允许进行医疗服务，像是安装植入物或是彷生物。</VFEU_SleeveCasket.description>
+  
+  <!-- EN: sleeve incubator -->
+  <VFEU_SleeveIncubator.label>义体培养舱</VFEU_SleeveIncubator.label>
+  <!-- EN: An exceedingly complex vat of nutrients that is capable of gestating sleeves, empty shells without a mind of their own. Neutroamine is used in order to grow the body through its different stages and the incubator must remains powered throughout this process. Should it lose power for extended periods, the gestation process will fail. \n\nSimple, low grade sleeves can be churned out quite quickly for minimal resources. However, more complex and sophisticated sleeves take longer and require more nutrients to ensure the body is properly formed. \n\nOnce the sleeve has finished growing, it should be extracted and cared for as it is incapable of independent movement or thought, including feeding itself. -->
+  <VFEU_SleeveIncubator.description>一个极其複杂的营养舱，能够培养出没有自我思想的义体。在培养过程中使用了中性胺，以使身体在不同阶段成长。在整个培养过程中，培养舱必须全程保持供电。如果长时间无电力供给，培养过程将会失败。\n\n简单低阶的义体可以被快速製造出来，然而更複杂且精密的义体则需要花费更长时间，同时需要更多的营养物质来确保身体正常发育。一旦义体完成生长，应该要被取出和照顾，因为义体并没有能力独立移动或思考，包括自我餵养。</VFEU_SleeveIncubator.description>
+  <!-- EN: Neutroamine -->
+  <VFEU_SleeveIncubator.comps.CompRefuelable.fuelGizmoLabel>中性胺</VFEU_SleeveIncubator.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Neutroamine -->
+  <VFEU_SleeveIncubator.comps.CompRefuelable.fuelLabel>中性胺</VFEU_SleeveIncubator.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot grow: Needs neutroamine -->
+  <VFEU_SleeveIncubator.comps.CompRefuelable.outOfFuelMessage>无法培养：需要中性胺</VFEU_SleeveIncubator.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

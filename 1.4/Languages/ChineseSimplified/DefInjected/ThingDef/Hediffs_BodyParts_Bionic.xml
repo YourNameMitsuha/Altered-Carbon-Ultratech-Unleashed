@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dreamcatcher implant -->
+  <AC_DreamcatcherImplant.label>捕梦者植入体</AC_DreamcatcherImplant.label>
+  <!-- EN: A brain implant that stimulates and improves the brain's ability to consolidate memories. It automatically activates during the REM phases of sleep, analysing new memories and boosting positive ones, while slightly suppressing negative memories. A pleasant side effect for the user is that nearly all their dreams will be positive, near therapeutic, leading to an overall higher mental wellbeing. -->
+  <AC_DreamcatcherImplant.description>一种能刺激并提高大脑巩固记忆能力的脑部植入物。它能在快速动眼睡眠周期阶段自动启动，并分析新的记忆且增强正向记忆，同时略微抑制负面记忆。一个令人愉悦的副作用是，对使用者来说几乎所有的梦境都是正面的、近乎治疗性的，从而提高了整体的精神健康水平。</AC_DreamcatcherImplant.description>
+  
+  <!-- EN: mental fuse -->
+  <AC_MentalFuse.label>心灵保险丝</AC_MentalFuse.label>
+  <!-- EN: A brain implant that monitors the user's neural activity and acts as a safeguard against mental breakdowns. If a mental breakdown is detected it will “reboot” the brain, leading to split second unconsciousness and a potential wipe of the users short term memories./n/n While Mental Fuses ensure mental fortitude under even the most extreme conditions, it comes at the cost of a slight numbness to the world around them. Heavy usage has been reported to be dangerous and can lead to permanent brain damage. -->
+  <AC_MentalFuse.description>一种能监测使用者的精神活动并防止精神崩溃的脑部植入物。如果检测到精神崩溃它就会"重启"大脑，导致使用者瞬间失去知觉，并有可能消除其短期记忆。\n\n虽然心灵保险丝能确保在最极端的条件下也能保持精神坚韧，但代价是他们会对周围世界产生轻微的麻木感。根据报导，重度使用会造成危险并可能导致永久性脑损伤。</AC_MentalFuse.description>
+  
+  <!-- EN: voice synthesizer -->
+  <AC_VoiceSynthesizer.label>声音合成器</AC_VoiceSynthesizer.label>
+  <!-- EN: An ultratech vocal synthesiser, designed for seamless vocal transformation. Embedded with adaptive sound modulation, it allows the user to alter their voice at will, ranging from subtle inflections to entirely different personas. -->
+  <AC_VoiceSynthesizer.description>一款专为无缝人声转换设计的超科技声音合成器。嵌入了自适应声音调製功能，从而允许用户随意改变自己的声音，范围从细微的语气到完全不同的角色。</AC_VoiceSynthesizer.description>
+  
+</LanguageData>

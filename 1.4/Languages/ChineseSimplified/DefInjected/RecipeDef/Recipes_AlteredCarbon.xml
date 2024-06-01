@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hack biocoded things -->
+  <AC_HackBiocodedThings.label>骇入生物编码物品</AC_HackBiocodedThings.label>
+  <!-- EN: Attempt to hack and remove biocoding from weapons and equipment to make them usable. If unsuccessful, the item will break. -->
+  <AC_HackBiocodedThings.description>尝试骇入并解锁生物编码的武器与装备并使它们变为可使用。如果失败，物品将会被摧毁。</AC_HackBiocodedThings.description>
+  <!-- EN: hacking biocoded things. -->
+  <AC_HackBiocodedThings.jobString>正在骇入生物编码物品。</AC_HackBiocodedThings.jobString>
+  
+  <!-- EN: install filled archo stack -->
+  <AC_InstallArchoStack.label>安装已填充的超凡堆叠</AC_InstallArchoStack.label>
+  <!-- EN: Install an archo stack. -->
+  <AC_InstallArchoStack.description>安装一个超凡堆叠。</AC_InstallArchoStack.description>
+  <!-- EN: Installing archo stack. -->
+  <AC_InstallArchoStack.jobString>安装超凡堆叠。</AC_InstallArchoStack.jobString>
+  
+  <!-- EN: install empty archo stack -->
+  <AC_InstallEmptyArchoStack.label>安装空白超凡堆叠</AC_InstallEmptyArchoStack.label>
+  <!-- EN: Install an empty archo stack. -->
+  <AC_InstallEmptyArchoStack.description>安装一个空白超凡堆叠。</AC_InstallEmptyArchoStack.description>
+  <!-- EN: Installing archo stack. -->
+  <AC_InstallEmptyArchoStack.jobString>安装超凡堆叠。</AC_InstallEmptyArchoStack.jobString>
+  
+  <!-- EN: make empty cortical stack -->
+  <AC_MakeEmptyCorticalStack.label>製作空白皮质堆叠</AC_MakeEmptyCorticalStack.label>
+  <!-- EN: Make empty cortical stack. -->
+  <AC_MakeEmptyCorticalStack.description>製作空白皮质堆叠。</AC_MakeEmptyCorticalStack.description>
+  <!-- EN: Making empty cortical stack. -->
+  <AC_MakeEmptyCorticalStack.jobString>製作空白皮质堆叠。</AC_MakeEmptyCorticalStack.jobString>
+  
+  <!-- EN: remove archo stack -->
+  <AC_RemoveArchoStack.label>移除超凡堆叠</AC_RemoveArchoStack.label>
+  <!-- EN: Remove archo stack. -->
+  <AC_RemoveArchoStack.description>移除超凡堆叠。</AC_RemoveArchoStack.description>
+  <!-- EN: Removing archo stack. -->
+  <AC_RemoveArchoStack.jobString>移除超凡堆叠。</AC_RemoveArchoStack.jobString>
+  
+  <!-- EN: Rewrite cortical stack -->
+  <AC_RewriteFilledCorticalStack.label>重写皮质堆叠</AC_RewriteFilledCorticalStack.label>
+  <!-- EN: Rewrite a cortical stack. -->
+  <AC_RewriteFilledCorticalStack.description>重写一个皮质堆叠。</AC_RewriteFilledCorticalStack.description>
+  <!-- EN: rewriting cortical stack. -->
+  <AC_RewriteFilledCorticalStack.jobString>重写皮质堆叠。</AC_RewriteFilledCorticalStack.jobString>
+  
+</LanguageData>

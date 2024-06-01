@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: autorevolver -->
+  <AC_Gun_Autorevolver.label>自动左轮手枪</AC_Gun_Autorevolver.label>
+  <!-- EN: An ancient pattern automatic revolver. It combines the strengths of a normal pistol and a classic revolver. It is quick on the draw. -->
+  <AC_Gun_Autorevolver.description>一把老式自动左轮手枪。它结合了普通手枪和经典左轮手枪的优点。它的拔枪速度很快。</AC_Gun_Autorevolver.description>
+  <!-- EN: grip -->
+  <AC_Gun_Autorevolver.tools.grip.label>把手</AC_Gun_Autorevolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <AC_Gun_Autorevolver.tools.barrel.label>枪管</AC_Gun_Autorevolver.tools.barrel.label>
+  <!-- EN: autorevolver -->
+  <AC_Gun_Autorevolver.verbs.Verb_Shoot.label>自动左轮手枪</AC_Gun_Autorevolver.verbs.Verb_Shoot.label>
+  
+</LanguageData>

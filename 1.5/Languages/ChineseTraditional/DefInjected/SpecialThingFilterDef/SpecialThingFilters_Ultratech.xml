@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allow colonist stacks -->
+  <VFEU_AllowStacksColonist.label>允許殖民者堆疊</VFEU_AllowStacksColonist.label>
+  <!-- EN: Allow the stacks of colonists. -->
+  <VFEU_AllowStacksColonist.description>允許殖民者的堆疊。</VFEU_AllowStacksColonist.description>
+  
+  <!-- EN: allow hostile stacks -->
+  <VFEU_AllowStacksHostile.label>允許敵對者堆疊</VFEU_AllowStacksHostile.label>
+  <!-- EN: Allow the stacks of hostiles and enemies. -->
+  <VFEU_AllowStacksHostile.description>允許敵對者的堆疊。</VFEU_AllowStacksHostile.description>
+  
+  <!-- EN: allow stranger stacks -->
+  <VFEU_AllowStacksStranger.label>允許陌生者堆疊</VFEU_AllowStacksStranger.label>
+  <!-- EN: Allow the stacks of strangers. -->
+  <VFEU_AllowStacksStranger.description>允許陌生者的堆疊。</VFEU_AllowStacksStranger.description>
+  
+</LanguageData>

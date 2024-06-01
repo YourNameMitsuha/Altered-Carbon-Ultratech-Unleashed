@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm blade -->
+  <AC_ArmBlade.label>手臂鐮刀</AC_ArmBlade.label>
+  <!-- EN: An advanced artificial combat focused arm. A razor-sharp, retractable blade powered by silenced nano-motors replace the radius and ulna. When extended the blade allows for devastating attacks, offering unparalleled swiftness and precision. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+  <AC_ArmBlade.description>一種先進的人工戰鬥用手臂，橈骨與尺骨由靜音奈米馬達驅動的鋒利可伸縮刀片取代。當刀片伸展時可進行毀滅性攻擊，並提供無與倫比的迅捷度與精確度。刀片縮回時，神經肌肉同步則使其外觀與功能都和正常手臂無異。</AC_ArmBlade.description>
+  
+  <!-- EN: mono arm blade -->
+  <AC_MonoArmBlade.label>單分子手臂鐮刀</AC_MonoArmBlade.label>
+  <!-- EN: An advanced artificial combat focused arm. A razor-sharp, retractable blade powered by silenced nano-motors replace the radius and ulna. When extended the blade allows for devastating attacks, offering unparalleled swiftness, precision and armour penetration. When retracted neuromuscular synchronisation makes them appear and function like a normal arm.\n\nThis variation uses a crystal-metallic blade infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armour with ease, and its light weight permits fast attacks. -->
+  <AC_MonoArmBlade.description>一種先進的人工戰鬥用手臂，橈骨與尺骨由靜音奈米馬達驅動的鋒利可伸縮刀片取代。當刀片縮回時，神經肌肉同步則使其外觀與功能都和正常手臂無異。\n\n該變種使用的是充滿機械感的水晶金屬刀片以保持單分子切削刃。它甚至能輕鬆切開厚重的盔甲。並且重量輕且攻擊速度快。</AC_MonoArmBlade.description>
+  
+  <!-- EN: plasma arm blade -->
+  <AC_PlasmaArmBlade.label>等離子手臂鐮刀</AC_PlasmaArmBlade.label>
+  <!-- EN: An advanced artificial combat focused arm. A razor-sharp, retractable blade powered by silenced nano-motors replace the radius and ulna. When extended the blade allows for devastating attacks, offering unparalleled swiftness, precision and armour penetration. When retracted neuromuscular synchronisation makes them appear and function like a normal arm.\n\nThis variation uses a metal-cored blade with a cutting edge. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath. -->
+  <AC_PlasmaArmBlade.description>一種先進的人工戰鬥用手臂，橈骨與尺骨由靜音奈米馬達驅動的鋒利可伸縮刀片取代。當刀片縮回時，神經肌肉同步則使其外觀與功能都和正常手臂無異。\n\n該變種使用的是帶切割刃的金屬芯刀片。等離子體包裹著核心並被能量場固定。目標忌諱被金屬核心切割，也會被等離子鞘點燃或燃燒。</AC_PlasmaArmBlade.description>
+  
+</LanguageData>

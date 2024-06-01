@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cortex overseer -->
+  <AC_CortexOverseerDeactivated.stages.cortex_overseer.label>皮質監督者</AC_CortexOverseerDeactivated.stages.cortex_overseer.label>
+  <!-- EN: I know its deactivated, but its still inside me. I will never not feel uneasy... -->
+  <AC_CortexOverseerDeactivated.stages.cortex_overseer.description>我知道它已經關閉，但它還在我體內，我永遠不會不感到不安...</AC_CortexOverseerDeactivated.stages.cortex_overseer.description>
+  
+  <!-- EN: Free again -->
+  <AC_CortexOverseerFreed.stages.Free_again.label>重獲自由</AC_CortexOverseerFreed.stages.Free_again.label>
+  <!-- EN: My cortex overseer was removed, I am finally free again! -->
+  <AC_CortexOverseerFreed.stages.Free_again.description>我的皮質監管者被移除了，我終於又自由了!</AC_CortexOverseerFreed.stages.Free_again.description>
+  
+  <!-- EN: cortex overseer -->
+  <AC_CortexOverseerInstalled.stages.cortex_overseer.label>皮質監督者</AC_CortexOverseerInstalled.stages.cortex_overseer.label>
+  <!-- EN: I have no saying anymore in my life... unless I am willing to end it... -->
+  <AC_CortexOverseerInstalled.stages.cortex_overseer.description>在我的生活中，我再也沒有什麼可說的了...除非我願意終結這一切...</AC_CortexOverseerInstalled.stages.cortex_overseer.description>
+  
+  <!-- EN: Bugging feeling -->
+  <AC_StackDegradationThought.stages.Bugging_feeling.label>煩人的感覺</AC_StackDegradationThought.stages.Bugging_feeling.label>
+  <!-- EN: Somethings bugging me, but I can't but my finger on it. -->
+  <AC_StackDegradationThought.stages.Bugging_feeling.description>有些事情困擾著我，但我卻無法確切指出。</AC_StackDegradationThought.stages.Bugging_feeling.description>
+  <!-- EN: Feeling off -->
+  <AC_StackDegradationThought.stages.Feeling_off.label>感覺不舒服</AC_StackDegradationThought.stages.Feeling_off.label>
+  <!-- EN: Something feels off, but whenever I put my finger on it it slips away... -->
+  <AC_StackDegradationThought.stages.Feeling_off.description>感覺有點不太對勁，但當我想指出時它卻從腦中溜走了...</AC_StackDegradationThought.stages.Feeling_off.description>
+  <!-- EN: Something is wrong -->
+  <AC_StackDegradationThought.stages.Something_is_wrong.label>事情不太對</AC_StackDegradationThought.stages.Something_is_wrong.label>
+  <!-- EN: Something is wrong with me, this isnt right... -->
+  <AC_StackDegradationThought.stages.Something_is_wrong.description>我有點不太對勁，這是不對的...</AC_StackDegradationThought.stages.Something_is_wrong.description>
+  <!-- EN: Feeling unlike myself -->
+  <AC_StackDegradationThought.stages.Feeling_unlike_myself.label>感覺不像我自己</AC_StackDegradationThought.stages.Feeling_unlike_myself.label>
+  <!-- EN: I dont feel like myself anymore, my memory... things dont make sense! -->
+  <AC_StackDegradationThought.stages.Feeling_unlike_myself.description>我不再感覺我是我自己了，我的記憶...一切事情都沒意義了！</AC_StackDegradationThought.stages.Feeling_unlike_myself.description>
+  <!-- EN: Not myself -->
+  <AC_StackDegradationThought.stages.Not_myself.label>這不是我自己</AC_StackDegradationThought.stages.Not_myself.label>
+  <!-- EN: My memories and who I am now dont line up, someone messed with my mind! -->
+  <AC_StackDegradationThought.stages.Not_myself.description>我的記憶跟我現在的身分並不一致，有人擾亂了我的思緒！</AC_StackDegradationThought.stages.Not_myself.description>
+  <!-- EN: Stranger to myself -->
+  <AC_StackDegradationThought.stages.Stranger_to_myself.label>陌生的自己</AC_StackDegradationThought.stages.Stranger_to_myself.label>
+  <!-- EN: I feel like a stranger to myself. What memories are my own and which ones where altered? I cant live like this! -->
+  <AC_StackDegradationThought.stages.Stranger_to_myself.description>我覺得我自己像個陌生人，哪些記憶是我的而哪些記憶是被改變的？我不能在這樣生活下去了！</AC_StackDegradationThought.stages.Stranger_to_myself.description>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dreamcatcher implant -->
+  <AC_DreamcatcherImplant.label>捕梦者植入体</AC_DreamcatcherImplant.label>
+  <!-- EN: An installed dreamcatcher implant. -->
+  <AC_DreamcatcherImplant.description>一个捕梦者植入体。</AC_DreamcatcherImplant.description>
+  <!-- EN: a dreamcatcher implant -->
+  <AC_DreamcatcherImplant.labelNoun>一个捕梦者植入体</AC_DreamcatcherImplant.labelNoun>
+  
+  <!-- EN: mental fuse -->
+  <AC_MentalFuse.label>心灵保险丝</AC_MentalFuse.label>
+  <!-- EN: An installed mental fuse. -->
+  <AC_MentalFuse.description>一个已安装的心灵保险丝。</AC_MentalFuse.description>
+  <!-- EN: a mental fuse -->
+  <AC_MentalFuse.labelNoun>一个心灵保险丝</AC_MentalFuse.labelNoun>
+  
+  <!-- EN: voice synthesizer -->
+  <AC_VoiceSynthesizer.label>声音合成器</AC_VoiceSynthesizer.label>
+  <!-- EN: An installed voice synthesizer. -->
+  <AC_VoiceSynthesizer.description>一个已安装的声音合成器。</AC_VoiceSynthesizer.description>
+  <!-- EN: a voice synthesizer -->
+  <AC_VoiceSynthesizer.labelNoun>一个声音合成器</AC_VoiceSynthesizer.labelNoun>
+  
+</LanguageData>

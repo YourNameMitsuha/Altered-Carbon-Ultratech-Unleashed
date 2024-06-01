@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cortex overseer -->
+  <AC_CortexOverseer.label>皮質監管者</AC_CortexOverseer.label>
+  <!-- EN: An installed cortex overseer. -->
+  <AC_CortexOverseer.description>一個已安裝的皮質監管者。</AC_CortexOverseer.description>
+  <!-- EN: a cortex overseer -->
+  <AC_CortexOverseer.labelNoun>一個皮質監管者</AC_CortexOverseer.labelNoun>
+  
+</LanguageData>

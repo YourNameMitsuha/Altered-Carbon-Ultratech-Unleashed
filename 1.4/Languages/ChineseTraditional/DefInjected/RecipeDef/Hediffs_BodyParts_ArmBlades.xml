@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install arm blade -->
+  <AC_InstallArmBlade.label>安裝手臂鐮刀</AC_InstallArmBlade.label>
+  <!-- EN: Install an arm blade. -->
+  <AC_InstallArmBlade.description>安裝手臂鐮刀。</AC_InstallArmBlade.description>
+  <!-- EN: Installing arm blade. -->
+  <AC_InstallArmBlade.jobString>正在安裝手臂鐮刀。</AC_InstallArmBlade.jobString>
+  
+  <!-- EN: install mono arm blade -->
+  <AC_InstallMonoArmBlade.label>安裝單分子手臂鐮刀</AC_InstallMonoArmBlade.label>
+  <!-- EN: Install a mono arm blade. -->
+  <AC_InstallMonoArmBlade.description>安裝單分子手臂鐮刀。</AC_InstallMonoArmBlade.description>
+  <!-- EN: Installing mono arm blade. -->
+  <AC_InstallMonoArmBlade.jobString>正在安裝單分子手臂鐮刀。</AC_InstallMonoArmBlade.jobString>
+  
+  <!-- EN: install plasma arm blade -->
+  <AC_InstallPlasmaArmBlade.label>安裝等離子手臂鐮刀</AC_InstallPlasmaArmBlade.label>
+  <!-- EN: Install a plasma arm blade. -->
+  <AC_InstallPlasmaArmBlade.description>安裝等離子手臂鐮刀。</AC_InstallPlasmaArmBlade.description>
+  <!-- EN: Installing plasma arm blade. -->
+  <AC_InstallPlasmaArmBlade.jobString>正在安裝等離子手臂鐮刀</AC_InstallPlasmaArmBlade.jobString>
+  
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cancel repurposing body -->
+  <AC_CancelRepurposingBody.label>取消尸体再利用</AC_CancelRepurposingBody.label>
+  <!-- EN: canceling repurposing body at -->
+  <AC_CancelRepurposingBody.gerund>取消尸体再利用于</AC_CancelRepurposingBody.gerund>
+  <!-- EN: cancel repurposing body -->
+  <AC_CancelRepurposingBody.verb>取消尸体再利用</AC_CancelRepurposingBody.verb>
+  
+  <!-- EN: restore stack from backup -->
+  <AC_CreateStackFromBackup.label>从备份中恢復堆叠</AC_CreateStackFromBackup.label>
+  <!-- EN: restoring stack from backup -->
+  <AC_CreateStackFromBackup.gerund>从备份中恢復堆叠</AC_CreateStackFromBackup.gerund>
+  <!-- EN: restore stack from backup -->
+  <AC_CreateStackFromBackup.verb>从备份中恢復堆叠</AC_CreateStackFromBackup.verb>
+  
+  <!-- EN: duplicate stacks -->
+  <AC_DuplicateStacks.label>複製堆叠</AC_DuplicateStacks.label>
+  <!-- EN: duplicating -->
+  <AC_DuplicateStacks.gerund>複製堆叠</AC_DuplicateStacks.gerund>
+  <!-- EN: duplicate -->
+  <AC_DuplicateStacks.verb>複製堆叠</AC_DuplicateStacks.verb>
+  
+  <!-- EN: haul corpse to sleeve grower -->
+  <AC_HaulCorpseToSleeveGrower.label>将尸体搬至义体培养舱</AC_HaulCorpseToSleeveGrower.label>
+  <!-- EN: hauling corpse to -->
+  <AC_HaulCorpseToSleeveGrower.gerund>将尸体搬至</AC_HaulCorpseToSleeveGrower.gerund>
+  <!-- EN: haul corpse to -->
+  <AC_HaulCorpseToSleeveGrower.verb>将尸体搬至</AC_HaulCorpseToSleeveGrower.verb>
+  
+  <!-- EN: haul stacks -->
+  <AC_HaulStacksToStorage.label>搬运堆叠</AC_HaulStacksToStorage.label>
+  <!-- EN: banking -->
+  <AC_HaulStacksToStorage.gerund>搬运堆叠</AC_HaulStacksToStorage.gerund>
+  <!-- EN: bank -->
+  <AC_HaulStacksToStorage.verb>搬运堆叠</AC_HaulStacksToStorage.verb>
+  
+  <!-- EN: insert genepack into gene centrifuge -->
+  <AC_InsertGenepack.label>将基因包插入基因离心机</AC_InsertGenepack.label>
+  <!-- EN: inserting into gene centrifuge -->
+  <AC_InsertGenepack.gerund>将基因包插入基因离心机</AC_InsertGenepack.gerund>
+  <!-- EN: insert into gene centrifuge -->
+  <AC_InsertGenepack.verb>将基因包插入基因离心机</AC_InsertGenepack.verb>
+  
+  <!-- EN: insert xenogerm into xenogerm duplicator -->
+  <AC_InsertXenogerm.label>将异种基因插入异种基因複製机</AC_InsertXenogerm.label>
+  <!-- EN: inserting into xenogerm duplicator -->
+  <AC_InsertXenogerm.gerund>将异种基因插入异种基因複製机</AC_InsertXenogerm.gerund>
+  <!-- EN: insert into xenogerm duplicator -->
+  <AC_InsertXenogerm.verb>将异种基因插入异种基因複製机</AC_InsertXenogerm.verb>
+  
+</LanguageData>

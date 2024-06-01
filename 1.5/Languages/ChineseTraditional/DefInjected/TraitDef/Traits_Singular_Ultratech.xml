@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: free mind -->
+  <VFEU_FreeMind.degreeDatas.free_mind.label>思想開放</VFEU_FreeMind.degreeDatas.free_mind.label>
+  <!-- EN: {PAWN_nameDef} has always seen their body as nothing more than a vessel for the mind. {PAWN_pronoun} does not care about the gender, age or looks of their body. -->
+  <VFEU_FreeMind.degreeDatas.free_mind.description>{PAWN_nameDef}一直認為他們的身體只不過是心靈的容器。{Pawn_pronoun}並不關心他們身體的性別、年齡或長相。</VFEU_FreeMind.degreeDatas.free_mind.description>
+  
+  <!-- EN: sleever -->
+  <VFEU_Sleever.degreeDatas.sleever.label>義體自由</VFEU_Sleever.degreeDatas.sleever.label>
+  <!-- EN: {PAWN_nameDef} can change sleeves as easily as changing clothes. {PAWN_pronoun} doesn’t care how often {PAWN_pronoun} switches sleeves or what sleeve {PAWN_pronoun} is currently riding. -->
+  <VFEU_Sleever.degreeDatas.sleever.description>{PAWN_nameDef}使切換義體像換衣服一樣自由。{Pawn_pronoun}並不關心{Pawn_pronoun}切換義體的頻率，也不關心{Pawn_pronoun}現在正在使用哪個義體。</VFEU_Sleever.degreeDatas.sleever.description>
+  
+</LanguageData>

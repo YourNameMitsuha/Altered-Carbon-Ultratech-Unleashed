@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A man’s body -->
+  <VFEU_MansBody.stages.A_mans_body.label>男性的義體</VFEU_MansBody.stages.A_mans_body.label>
+  <!-- EN: I am in the body of a man, I don't like it! -->
+  <VFEU_MansBody.stages.A_mans_body.description>我在使用男性的義體，我並不喜歡這樣！</VFEU_MansBody.stages.A_mans_body.description>
+  
+  <!-- EN: New sleeve -->
+  <VFEU_NewSleeve.stages.New_sleeve.label>新的義體</VFEU_NewSleeve.stages.New_sleeve.label>
+  <!-- EN: I have a new body, this will take some getting used to. -->
+  <VFEU_NewSleeve.stages.New_sleeve.description>我現在有了新的義體，這需要一點時間習慣。</VFEU_NewSleeve.stages.New_sleeve.description>
+  
+  <!-- EN: New sleeve -->
+  <VFEU_NewSleeveDouble.stages.New_sleeve.label>新的義體</VFEU_NewSleeveDouble.stages.New_sleeve.label>
+  <!-- EN: I have a new body, this will take some getting used to. -->
+  <VFEU_NewSleeveDouble.stages.New_sleeve.description>我現在有了新的義體，這需要一點時間習慣。</VFEU_NewSleeveDouble.stages.New_sleeve.description>
+  
+  <!-- EN: A woman's body -->
+  <VFEU_WomansBody.stages.A_womans_body.label>女性的義體</VFEU_WomansBody.stages.A_womans_body.label>
+  <!-- EN: I am in the body of a woman, I don't like it! -->
+  <VFEU_WomansBody.stages.A_womans_body.description>我在使用女性的義體，我並不喜歡這樣！</VFEU_WomansBody.stages.A_womans_body.description>
+  
+  <!-- EN: different sleeve gender -->
+  <VFEU_WrongGender.stages.different_sleeve_gender.label>不一樣的性別</VFEU_WrongGender.stages.different_sleeve_gender.label>
+  <!-- EN: The gender of my sleeve is not my own, this feels wrong. -->
+  <VFEU_WrongGender.stages.different_sleeve_gender.description>這具義體的性別並不屬於我，這是錯的。</VFEU_WrongGender.stages.different_sleeve_gender.description>
+  
+  <!-- EN: different sleeve gender -->
+  <VFEU_WrongGenderDouble.stages.different_sleeve_gender.label>不一樣的性別</VFEU_WrongGenderDouble.stages.different_sleeve_gender.label>
+  <!-- EN: The gender of my sleeve is not my own, this is wrong. -->
+  <VFEU_WrongGenderDouble.stages.different_sleeve_gender.description>這具義體的性別並不屬於我，這是錯的。</VFEU_WrongGenderDouble.stages.different_sleeve_gender.description>
+  
+  <!-- EN: VFEU_WrongGenderPregnant -->
+  <VFEU_WrongGenderPregnant.stages.VFEU_WrongGenderPregnant.label>異性懷孕</VFEU_WrongGenderPregnant.stages.VFEU_WrongGenderPregnant.label>
+  <!-- EN: I'm pregnant but my sleeve is the wrong gender. -->
+  <VFEU_WrongGenderPregnant.stages.VFEU_WrongGenderPregnant.description>我懷孕了，但這具義體的性別是錯誤的。</VFEU_WrongGenderPregnant.stages.VFEU_WrongGenderPregnant.description>
+  
+  <!-- EN: different sleeve xenotype -->
+  <VFEU_WrongXenotype.stages.different_sleeve_xenotype.label>不一致的異種基因</VFEU_WrongXenotype.stages.different_sleeve_xenotype.label>
+  <!-- EN: The xenotype of my sleeve is not my own, this feels wrong. -->
+  <VFEU_WrongXenotype.stages.different_sleeve_xenotype.description>這義體上的異種基因並不是我的，這感覺不太對。</VFEU_WrongXenotype.stages.different_sleeve_xenotype.description>
+  
+</LanguageData>

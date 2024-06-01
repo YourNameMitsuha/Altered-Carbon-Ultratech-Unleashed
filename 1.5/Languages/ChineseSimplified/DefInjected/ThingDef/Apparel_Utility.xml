@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cuirassier belt -->
+  <AC_CuirassierBelt.label>骑兵腰带</AC_CuirassierBelt.label>
+  <!-- EN: An advanced ultratech projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. This model does not prevents the wearer from firing out, but still shuts down instantly if hit by EMP. -->
+  <AC_CuirassierBelt.description>一种先进的超科技弹丸斥力装置。它能阻挡射来的弹丸或弹片，但对底抗近战攻击或热量无能为力。该装置不会阻止配戴者朝外射击，但被电磁脉冲命中仍会使其立刻关闭。</AC_CuirassierBelt.description>
+  
+</LanguageData>

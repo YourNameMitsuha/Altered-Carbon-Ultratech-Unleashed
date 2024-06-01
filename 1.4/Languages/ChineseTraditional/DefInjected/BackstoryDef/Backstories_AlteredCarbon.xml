@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was picked up at a young age by the core worlds military for displaying particular qualities that would make [PAWN_possessive] an uncompromising soldier. Most training having occurred in virtual and in special combat Sleeves, [PAWN_pronoun] proved a valuable asset for the Praetorians. -->
+  <AC_CoreWorldRecruit.description>[PAWN_nameDef]年輕時就被核心世界的軍隊選中，因為他表現出的特質使[PAWN_possessive]成為一名不屈不饒的士兵。大多數訓練都是在虛擬和戰鬥特化義體中進行的。[PAWN_pronoun]被證明是禁衛軍的寶貴財產。</AC_CoreWorldRecruit.description>
+  <!-- EN: [PAWN_nameDef] was picked up at a young age by the core worlds military for displaying particular qualities that would make [PAWN_possessive] an uncompromising soldier. Most training having occurred in virtual and in special combat Sleeves, [PAWN_pronoun] proved a valuable asset for the Praetorians. -->
+  <AC_CoreWorldRecruit.baseDesc>[PAWN_nameDef]年輕時就被核心世界的軍隊選中，因為他表現出的特質使[PAWN_possessive]成為一名不屈不饒的士兵。大多數訓練都是在虛擬和戰鬥特化義體中進行的。[PAWN_pronoun]被證明是禁衛軍的寶貴財產。</AC_CoreWorldRecruit.baseDesc>
+  <!-- EN: praetorian recruit -->
+  <AC_CoreWorldRecruit.title>禁衛軍新兵</AC_CoreWorldRecruit.title>
+  <!-- EN: recruit -->
+  <AC_CoreWorldRecruit.titleShort>新兵</AC_CoreWorldRecruit.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] experienced sleeve death not long after their stack was integrated, and [PAWN_possessive] parents were unable to afford an appropriate sleeve. As such, [PAWN_pronoun] was given what little virtual lessons and experience as could be afforded and has developed insecurities and a lack of identity. -->
+  <AC_DigitalUpbringing.description>[PAWN_nameDef]在他們的堆疊整合後不久就經歷了義體死亡，而[PAWN_possessive]的父母沒有能力購買一個合適的義體。因此，[PAWN_pronoun]得到負擔得起的少量虛擬課程和經驗，並產生了不安全感和認同缺乏。</AC_DigitalUpbringing.description>
+  <!-- EN: [PAWN_nameDef] experienced sleeve death not long after their stack was integrated, and [PAWN_possessive] parents were unable to afford an appropriate sleeve. As such, [PAWN_pronoun] was given what little virtual lessons and experience as could be afforded and has developed insecurities and a lack of identity. -->
+  <AC_DigitalUpbringing.baseDesc>[PAWN_nameDef]在他們的堆疊整合後不久就經歷了義體死亡，而[PAWN_possessive]的父母沒有能力購買一個合適的義體。因此，[PAWN_pronoun]得到負擔得起的少量虛擬課程和經驗，並產生了不安全感和認同缺乏。</AC_DigitalUpbringing.baseDesc>
+  <!-- EN: digital upbringing -->
+  <AC_DigitalUpbringing.title>數位化教養</AC_DigitalUpbringing.title>
+  <!-- EN: virtual -->
+  <AC_DigitalUpbringing.titleShort>虛擬</AC_DigitalUpbringing.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] experienced accidental sleeve death during [PAWN_possessive] early years and was given a new sleeve as per victim restitution. The sleeve was completely different in all aspects. The imbalance between the sleeve and the stack meant [PAWN_pronoun] experienced life in a chaotic manner. -->
+  <AC_EarlyResleeving.description>[PAWN_nameDef]在[PAWN_possessive]早年經歷了義體的意外死亡，按照受害者的要求他獲得了新的義體。這個義體在各方面都完全不同。義體與堆疊間的失衡意味著[PAWN_pronoun]以一種混亂的方式體驗生活。</AC_EarlyResleeving.description>
+  <!-- EN: [PAWN_nameDef] experienced accidental sleeve death during [PAWN_possessive] early years and was given a new sleeve as per victim restitution. The sleeve was completely different in all aspects. The imbalance between the sleeve and the stack meant [PAWN_pronoun] experienced life in a chaotic manner. -->
+  <AC_EarlyResleeving.baseDesc>[PAWN_nameDef]在[PAWN_possessive]早年經歷了義體的意外死亡，按照受害者的要求他獲得了新的義體。這個義體在各方面都完全不同。義體與堆疊間的失衡意味著[PAWN_pronoun]以一種混亂的方式體驗生活。</AC_EarlyResleeving.baseDesc>
+  <!-- EN: early resleeving -->
+  <AC_EarlyResleeving.title>早年義體化</AC_EarlyResleeving.title>
+  <!-- EN: resleeved -->
+  <AC_EarlyResleeving.titleShort>義體化</AC_EarlyResleeving.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised on a remote colony that had been recently discovered as habitable. It is somewhat difficult to integrate for human life. Thanks to this hardship and the struggle to put food on the table, [PAWN_pronoun] learned to appreciate the simple things and never shunned a day on the fields or with the barn animals. -->
+  <AC_FrontierUpbringing.description>[PAWN_nameDef]在最近被發現宜居的偏遠殖民地長大。這使其有點難以融入人類生活。多虧這種艱辛以及把食物擺上餐桌的掙扎，[PAWN_pronoun]學會欣賞簡單的事物，並且從不迴避在田野或與穀倉動物相處的一天。</AC_FrontierUpbringing.description>
+  <!-- EN: [PAWN_nameDef] was raised on a remote colony that had been recently discovered as habitable. It is somewhat difficult to integrate for human life. Thanks to this hardship and the struggle to put food on the table, [PAWN_pronoun] learned to appreciate the simple things and never shunned a day on the fields or with the barn animals. -->
+  <AC_FrontierUpbringing.baseDesc>[PAWN_nameDef]在最近被發現宜居的偏遠殖民地長大。這使其有點難以融入人類生活。多虧這種艱辛以及把食物擺上餐桌的掙扎，[PAWN_pronoun]學會欣賞簡單的事物，並且從不迴避在田野或與穀倉動物相處的一天。</AC_FrontierUpbringing.baseDesc>
+  <!-- EN: frontier upbringing -->
+  <AC_FrontierUpbringing.title>邊疆教養</AC_FrontierUpbringing.title>
+  <!-- EN: colonial -->
+  <AC_FrontierUpbringing.titleShort>移民</AC_FrontierUpbringing.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] believes in the righteousness of the rich and powerful, that they are living, breathing gods among mere mortals and that with enough worship, [PAWN_pronoun] would be blessed to join their ranks. Naturally, [PAWN_pronoun] was discarded when no longer useful but that dogmatic faith remains. -->
+  <AC_PowerFanatic.description>[PAWN_nameDef]相信有權有勢的人是正義的，他們是凡人中活生生的神。只要有足夠的崇拜，[PAWN_pronoun]將會有幸加入他們的行列。自然的，[PAWN_pronoun]在不再有用的時候被遺棄，但這種教條式的信仰仍然存在。</AC_PowerFanatic.description>
+  <!-- EN: [PAWN_nameDef] believes in the righteousness of the rich and powerful, that they are living, breathing gods among mere mortals and that with enough worship, [PAWN_pronoun] would be blessed to join their ranks. Naturally, [PAWN_pronoun] was discarded when no longer useful but that dogmatic faith remains. -->
+  <AC_PowerFanatic.baseDesc>[PAWN_nameDef]相信有權有勢的人是正義的，他們是凡人中活生生的神。只要有足夠的崇拜，[PAWN_pronoun]將會有幸加入他們的行列。自然的，[PAWN_pronoun]在不再有用的時候被遺棄，但這種教條式的信仰仍然存在。</AC_PowerFanatic.baseDesc>
+  <!-- EN: power fanatic -->
+  <AC_PowerFanatic.title>權力狂熱者</AC_PowerFanatic.title>
+  <!-- EN: fanatic -->
+  <AC_PowerFanatic.titleShort>狂熱者</AC_PowerFanatic.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] learned about the lifestyles of the rich and powerful early on and decided [PAWN_pronoun] wanted that experience as well. Having no scruples with illicit or morally ambiguous behaviour, [PAWN_pronoun] managed to work their way up the social hierarchy and managed to touch the lives of the powerful as part of their early career. -->
+  <AC_PowerObsessed.description>[PAWN_nameDef]很早就瞭解了富人和權貴的生活方式，因此[PAWN_pronoun]決定也想要這種體驗。由於對非法或道德上模糊的行為沒有任何顧忌，[PAWN_pronoun]以設法在社會階級中工作並設法接觸權貴的生活作為早期職業生涯中的一部分。</AC_PowerObsessed.description>
+  <!-- EN: [PAWN_nameDef] learned about the lifestyles of the rich and powerful early on and decided [PAWN_pronoun] wanted that experience as well. Having no scruples with illicit or morally ambiguous behaviour, [PAWN_pronoun] managed to work their way up the social hierarchy and managed to touch the lives of the powerful as part of their early career. -->
+  <AC_PowerObsessed.baseDesc>[PAWN_nameDef]很早就瞭解了富人和權貴的生活方式，因此[PAWN_pronoun]決定也想要這種體驗。由於對非法或道德上模糊的行為沒有任何顧忌，[PAWN_pronoun]以設法在社會階級中工作並設法接觸權貴的生活作為早期職業生涯中的一部分。</AC_PowerObsessed.baseDesc>
+  <!-- EN: power obsessed -->
+  <AC_PowerObsessed.title>權力癡迷者</AC_PowerObsessed.title>
+  <!-- EN: obsessed -->
+  <AC_PowerObsessed.titleShort>癡迷者</AC_PowerObsessed.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was part of the core world military forces and saw numerous battles on different worlds in different sleeves. Relying on reacclimation drugs, [PAWN_pronoun] was able to use many combat sleeves over time but has developed numerous social deficiencies. -->
+  <AC_PraetorianSoldier.description>[PAWN_nameDef]是核心世界軍事力量的一部分，並且以不同的義體經歷過不同世界的多場戰鬥。依靠重新適應的藥物，[PAWN_pronoun]隨著時間推移可以使用多個戰鬥義體，卻也因此發展出許多社會缺陷。</AC_PraetorianSoldier.description>
+  <!-- EN: [PAWN_nameDef] was part of the core world military forces and saw numerous battles on different worlds in different sleeves. Relying on reacclimation drugs, [PAWN_pronoun] was able to use many combat sleeves over time but has developed numerous social deficiencies. -->
+  <AC_PraetorianSoldier.baseDesc>[PAWN_nameDef]是核心世界軍事力量的一部分，並且以不同的義體經歷過不同世界的多場戰鬥。依靠重新適應的藥物，[PAWN_pronoun]隨著時間推移可以使用多個戰鬥義體，卻也因此發展出許多社會缺陷。</AC_PraetorianSoldier.baseDesc>
+  <!-- EN: praetorian soldier -->
+  <AC_PraetorianSoldier.title>禁衛軍士兵</AC_PraetorianSoldier.title>
+  <!-- EN: praetorian -->
+  <AC_PraetorianSoldier.titleShort>禁衛軍</AC_PraetorianSoldier.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] had a single encounter with someone rich during a charity event that impacted [PAWN_possessive] life. [PAWN_possessive] was willing to do whatever it took to also become equally rich. The viability of this dream might be somewhat difficult, as [PAWN_pronoun] wants to use the power to help others rather than hoard wealth. -->
+  <AC_RichAspirant.description>[PAWN_nameDef]在一次慈善活動中與富人有所接觸，並影響了[PAWN_possessive]的生活。[PAWN_possessive]願意不惜一切代價也要變的同樣富有。這個夢想的可行性有點困難，原因在於[PAWN_pronoun]想用權力幫助別人而不是累積財富。</AC_RichAspirant.description>
+  <!-- EN: [PAWN_nameDef] had a single encounter with someone rich during a charity event that impacted [PAWN_possessive] life. [PAWN_possessive] was willing to do whatever it took to also become equally rich. The viability of this dream might be somewhat difficult, as [PAWN_pronoun] wants to use the power to help others rather than hoard wealth. -->
+  <AC_RichAspirant.baseDesc>[PAWN_nameDef]在一次慈善活動中與富人有所接觸，並影響了[PAWN_possessive]的生活。[PAWN_possessive]願意不惜一切代價也要變的同樣富有。這個夢想的可行性有點困難，原因在於[PAWN_pronoun]想用權力幫助別人而不是累積財富。</AC_RichAspirant.baseDesc>
+  <!-- EN: rich aspirant -->
+  <AC_RichAspirant.title>富有抱負之人</AC_RichAspirant.title>
+  <!-- EN: aspirant -->
+  <AC_RichAspirant.titleShort>有志者</AC_RichAspirant.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] used to be rich and powerful before being cast out by their relatives for being an embarrassment. No longer privileged to obscene wealth and decadence, [PAWN_pronoun] has been forced to live as a lowly grounder outside of the core worlds. -->
+  <AC_RichOutcast.description>[PAWN_nameDef]曾經富可敵國，後來因為出糗而被親戚趕走且不再享有淫穢的財富與頹廢的特權。[PAWN_pronoun]被迫在核心世界之外過著卑微的地主生活。</AC_RichOutcast.description>
+  <!-- EN: [PAWN_nameDef] used to be rich and powerful before being cast out by their relatives for being an embarrassment. No longer privileged to obscene wealth and decadence, [PAWN_pronoun] has been forced to live as a lowly grounder outside of the core worlds. -->
+  <AC_RichOutcast.baseDesc>[PAWN_nameDef]曾經富可敵國，後來因為出糗而被親戚趕走且不再享有淫穢的財富與頹廢的特權。[PAWN_pronoun]被迫在核心世界之外過著卑微的地主生活。</AC_RichOutcast.baseDesc>
+  <!-- EN: rich outcast -->
+  <AC_RichOutcast.title>被遺棄的富豪</AC_RichOutcast.title>
+  <!-- EN: outcast -->
+  <AC_RichOutcast.titleShort>遺棄者</AC_RichOutcast.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew tired of the drab and boring lifestyle of living in cities ruled by the rich, rather than the local authorities. Disillusioned with the government failures, [PAWN_pronoun] took the first affordable transit off [PAWN_possessive] world in order to gain some semblance of control over [PAWN_possessive] life. -->
+  <AC_SettledCivilian.description>[PAWN_nameDef]逐漸厭倦了生活在富人而不是地方政府統治的城市之生活方式。由於對政府的失敗感到幻滅，[PAWN_pronoun]採取了第一個可負擔的方式離開[PAWN_possessive]世界以為了獲得對[PAWN_possessive]生活的某種控制。</AC_SettledCivilian.description>
+  <!-- EN: [PAWN_nameDef] grew tired of the drab and boring lifestyle of living in cities ruled by the rich, rather than the local authorities. Disillusioned with the government failures, [PAWN_pronoun] took the first affordable transit off [PAWN_possessive] world in order to gain some semblance of control over [PAWN_possessive] life. -->
+  <AC_SettledCivilian.baseDesc>[PAWN_nameDef]逐漸厭倦了生活在富人而不是地方政府統治的城市之生活方式。由於對政府的失敗感到幻滅，[PAWN_pronoun]採取了第一個可負擔的方式離開[PAWN_possessive]世界以為了獲得對[PAWN_possessive]生活的某種控制。</AC_SettledCivilian.baseDesc>
+  <!-- EN: settled civilian -->
+  <AC_SettledCivilian.title>定居的平民</AC_SettledCivilian.title>
+  <!-- EN: urbanite -->
+  <AC_SettledCivilian.titleShort>都市居民</AC_SettledCivilian.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] once inhabited one of the remote Settled Worlds during its initial developmental stages and helped keep their colony running. Life was dull and uninteresting compared to living on a Rimworld, as [PAWN_pronoun] was always under the watchful eye of the local authorities. -->
+  <AC_SettledColonist.description>[PAWN_nameDef]曾經在一個偏遠的定居世界最初發展階段中居住過，並幫助他們維持殖民地的運行。與生活在環世界相比生活是枯燥無味的，因為[PAWN_pronoun]總是處於當地政府的監視之下。</AC_SettledColonist.description>
+  <!-- EN: [PAWN_nameDef] once inhabited one of the remote Settled Worlds during its initial developmental stages and helped keep their colony running. Life was dull and uninteresting compared to living on a Rimworld, as [PAWN_pronoun] was always under the watchful eye of the local authorities. -->
+  <AC_SettledColonist.baseDesc>[PAWN_nameDef]曾經在一個偏遠的定居世界最初發展階段中居住過，並幫助他們維持殖民地的運行。與生活在環世界相比生活是枯燥無味的，因為[PAWN_pronoun]總是處於當地政府的監視之下。</AC_SettledColonist.baseDesc>
+  <!-- EN: settled colonist -->
+  <AC_SettledColonist.title>定居的殖民者</AC_SettledColonist.title>
+  <!-- EN: colonist -->
+  <AC_SettledColonist.titleShort>殖民者</AC_SettledColonist.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] managed to obtain transit to a remote settled world under a resettlement program. Fleeing from a life of danger and conflict, [PAWN_pronoun] hoped to start a new life without having to worry about raiders and criminals coming to take [PAWN_possessive] hard-earned belongings. -->
+  <AC_SettledRefugee.description>[PAWN_nameDef]根據一項重新安置計畫，設法獲得了定居世界的過境權。為了逃離危險和衝突，[PAWN_pronoun]希望開始不用擔心突襲者和罪判搶奪[PAWN_possessive]辛苦得來的財產的新生活。</AC_SettledRefugee.description>
+  <!-- EN: [PAWN_nameDef] managed to obtain transit to a remote settled world under a resettlement program. Fleeing from a life of danger and conflict, [PAWN_pronoun] hoped to start a new life without having to worry about raiders and criminals coming to take [PAWN_possessive] hard-earned belongings. -->
+  <AC_SettledRefugee.baseDesc>[PAWN_nameDef]根據一項重新安置計畫，設法獲得了定居世界的過境權。為了逃離危險和衝突，[PAWN_pronoun]希望開始不用擔心突襲者和罪判搶奪[PAWN_possessive]辛苦得來的財產的新生活。</AC_SettledRefugee.baseDesc>
+  <!-- EN: settled refugee -->
+  <AC_SettledRefugee.title>定居的難民</AC_SettledRefugee.title>
+  <!-- EN: refugee -->
+  <AC_SettledRefugee.titleShort>難民</AC_SettledRefugee.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in one of the many shanty towns on a highly populated industrial world in a local community. Food was hard to come by and had to be scavenged, [PAWN_pronoun] used numerous methods to survive without drawing too much attention from law enforcement. -->
+  <AC_SlumDweller.description>[PAWN_nameDef]在人口眾多的工業世界眾多棚戶區的一個地方社區長大的。食物很難獲得且只能靠搜刮獲取，[PAWN_pronoun]使用許多方法來生存，並且沒有引起執法部門的太多注意。</AC_SlumDweller.description>
+  <!-- EN: [PAWN_nameDef] was raised in one of the many shanty towns on a highly populated industrial world in a local community. Food was hard to come by and had to be scavenged, [PAWN_pronoun] used numerous methods to survive without drawing too much attention from law enforcement. -->
+  <AC_SlumDweller.baseDesc>[PAWN_nameDef]在人口眾多的工業世界眾多棚戶區的一個地方社區長大的。食物很難獲得且只能靠搜刮獲取，[PAWN_pronoun]使用許多方法來生存，並且沒有引起執法部門的太多注意。</AC_SlumDweller.baseDesc>
+  <!-- EN: slum dweller -->
+  <AC_SlumDweller.title>貧民窟居民</AC_SlumDweller.title>
+  <!-- EN: favelado -->
+  <AC_SlumDweller.titleShort>貧民窟</AC_SlumDweller.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised on one of the core worlds as a lowly grounder to a family just wealthy enough to avoid living in the slums. Having never eaten anything other than processed foods, [PAWN_pronoun] attended schools and learned a broad education of the history of humanity. -->
+  <AC_UrbanUpbringing.description>[PAWN_nameDef]在核心世界之一長大。作為一個低賤者，它的家庭剛好足夠遇到避免生活在貧民窟。由於從未吃過加工食品以外的東西，[PAWN_pronoun]在學校學習了人類歷史的廣泛教育。</AC_UrbanUpbringing.description>
+  <!-- EN: [PAWN_nameDef] was raised on one of the core worlds as a lowly grounder to a family just wealthy enough to avoid living in the slums. Having never eaten anything other than processed foods, [PAWN_pronoun] attended schools and learned a broad education of the history of humanity. -->
+  <AC_UrbanUpbringing.baseDesc>[PAWN_nameDef]在核心世界之一長大。作為一個低賤者，它的家庭剛好足夠遇到避免生活在貧民窟。由於從未吃過加工食品以外的東西，[PAWN_pronoun]在學校學習了人類歷史的廣泛教育。</AC_UrbanUpbringing.baseDesc>
+  <!-- EN: urban upbringing -->
+  <AC_UrbanUpbringing.title>城市教養</AC_UrbanUpbringing.title>
+  <!-- EN: grounder -->
+  <AC_UrbanUpbringing.titleShort>滾球</AC_UrbanUpbringing.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent an astronomical amount of money on experiencing all that virtual reality could offer. Whether it was other worlds, blood arenas, sexperiences or the lives of meths, [PAWN_pronoun] was eventually forced to go cold-turkey when [PAWN_possessive] debtors started trying to collect what they were owed. -->
+  <AC_VirtualAddict.description>[PAWN_nameDef]花費天文數字的金錢來體驗虛擬現實所能提供的一切。無論是其他世界還是血腥競技場、性體驗或是生活的方法。當[PAWN_possessive]債務人開始嘗試收回他們所欠的錢時，[PAWN_pronoun]最終被迫採取冷處理。</AC_VirtualAddict.description>
+  <!-- EN: [PAWN_nameDef] spent an astronomical amount of money on experiencing all that virtual reality could offer. Whether it was other worlds, blood arenas, sexperiences or the lives of meths, [PAWN_pronoun] was eventually forced to go cold-turkey when [PAWN_possessive] debtors started trying to collect what they were owed. -->
+  <AC_VirtualAddict.baseDesc>[PAWN_nameDef]花費天文數字的金錢來體驗虛擬現實所能提供的一切。無論是其他世界還是血腥競技場、性體驗或是生活的方法。當[PAWN_possessive]債務人開始嘗試收回他們所欠的錢時，[PAWN_pronoun]最終被迫採取冷處理。</AC_VirtualAddict.baseDesc>
+  <!-- EN: virtual addict -->
+  <AC_VirtualAddict.title>虛擬成癮者</AC_VirtualAddict.title>
+  <!-- EN: addict -->
+  <AC_VirtualAddict.titleShort>癮君子</AC_VirtualAddict.titleShort>
+  
+</LanguageData>

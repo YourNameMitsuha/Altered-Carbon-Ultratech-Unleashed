@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain trauma -->
+  <AC_BrainTrauma.label>脑外伤</AC_BrainTrauma.label>
+  <!-- EN: A brain injury resulting in loss of communication, forgetfulness, and involuntary motor functions. -->
+  <AC_BrainTrauma.description>导致丧失交流、遗忘和不自主运动功能的脑外伤。</AC_BrainTrauma.description>
+  <!-- EN: a brain trauma -->
+  <AC_BrainTrauma.labelNoun>脑外伤</AC_BrainTrauma.labelNoun>
+  
+  <!-- EN: pain protection -->
+  <AC_PainProtection.label>疼痛防护</AC_PainProtection.label>
+  <!-- EN: pain protection -->
+  <AC_PainProtection.description>疼痛防护</AC_PainProtection.description>
+  <!-- EN: pain protection -->
+  <AC_PainProtection.labelNoun>疼痛防护</AC_PainProtection.labelNoun>
+  
+  <!-- EN: degradation -->
+  <AC_StackDegradation.label>退化</AC_StackDegradation.label>
+  <!-- EN: Cortical stack degradation caused by an unauthorized, aggressive rewrite. -->
+  <AC_StackDegradation.description>由未经授权且激进的重写所导致的皮层堆叠退化。</AC_StackDegradation.description>
+  <!-- EN: stack degradation -->
+  <AC_StackDegradation.labelNoun>堆叠退化</AC_StackDegradation.labelNoun>
+  
+</LanguageData>

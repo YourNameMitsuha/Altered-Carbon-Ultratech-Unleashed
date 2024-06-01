@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: empty archo stack -->
+  <AC_EmptyArchoStack.label>空白超凡堆叠</AC_EmptyArchoStack.label>
+  <!-- EN: An empty, archo tech implant which can store a human consciousness, which are implanted directly into the host's neck. Considerably more robust than its ultra tech derivatives, they are impossible to manufacture and can only be found by chance. -->
+  <AC_EmptyArchoStack.description>一个空的，可以储存人类意识的远古技术植入物，可以直接植入宿主的脖子。比其超科技衍生品更加坚固，它们不可能被製造出来，只能被偶然发现。</AC_EmptyArchoStack.description>
+  
+  <!-- EN: archo stack -->
+  <AC_FilledArchoStack.label>超凡堆叠</AC_FilledArchoStack.label>
+  <!-- EN: An archo tech implant with a human consciousness stored on it. Can be implanted into an empty sleeve or random body to bring back the person stored on the cortical stack. -->
+  <AC_FilledArchoStack.description>一种远古技术植入物，上面储存着人类的意识。可以植入一个空的义体或随机的身体，并使储存在皮质堆中的人类復活。</AC_FilledArchoStack.description>
+  
+</LanguageData>

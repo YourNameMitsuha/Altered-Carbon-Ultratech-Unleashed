@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fusilier armor -->
+  <AC_Apparel_FusilierArmor.label>轻骑兵头盔</AC_Apparel_FusilierArmor.label>
+  <!-- EN: A suit of powered armor, built to provide the best protection available for humanity. Every suit is manufactured at a specialized facility, which effectively prints the entirety as one piece, molecule by molecule. The result is levels of protection unmatched by military hardware, as the production costs are staggering and unsustainable for mass production.\n\nIncludes a package of pain inhibitors to ensure the user can fulfill their objective until their dying breath. The intent of the armor is to ensure their benefactor’s survival, as opposed to the user.\n\nThis model includes a powerful smokepop dispenser to obfuscate the user’s location. Primarily used by infiltration and ambush units, the extra bulk from smokepop synthesizers provides minimal protective improvements. -->
+  <AC_Apparel_FusilierArmor.description>一套动力装甲，为人类提供最好的保护。每套装甲都是在专门的工厂生产的，这可以有效的将整个头盔作为一个整体，一个分子一个分子地打印出来。结果由于生产成本高的吓人而无法大规模生产，其保护水平是军事硬体无法比拟的。\n\n包含一包疼痛抑制剂，以确保使用者能够完成目标直到生命垂危。与使用者相比，盔甲的目的是确保恩人的生存。\n\n该型号包含一个强大的烟雾弹喷发器，用于模糊使用者的位置。主要用于渗透与伏击部队，且烟雾弹合成器带来的额外体积对防护性能的提升微乎其微。</AC_Apparel_FusilierArmor.description>
+  
+  <!-- EN: protector armor -->
+  <VFEU_Apparel_ProtectorArmor.label>保护者装甲</VFEU_Apparel_ProtectorArmor.label>
+  <!-- EN: A suit of protector-issue power armor. Improved protection over standard marine power armor, offered by molecular plasteel integration thoughout the suit as well as on-board processors to assist movement and dampen pain receptors. -->
+  <VFEU_Apparel_ProtectorArmor.description>一套保护者发行的动力装甲。与标准的海军陆战装甲相比，它的保护能力得到提升。整个装甲都是由塑钢为原料製成，同时具有机载处理器协助活动与抑制痛觉感受器。</VFEU_Apparel_ProtectorArmor.description>
+  
+</LanguageData>
